@@ -1,0 +1,21 @@
+package gbd.spark;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+import org.apache.spark.api.java.function.PairFlatMapFunction;
+import scala.Tuple2;
+
+public class EstraiIDUtenti implements PairFlatMapFunction<String, String, Integer> {
+
+	
+	public Iterator<Tuple2<String, Integer>> call(String linea) throws Exception {
+
+			ArrayList<Tuple2<String, Integer>> temp = new ArrayList<Tuple2<String, Integer>>();
+			String [] parole = linea.split(";");
+			String user = parole[0];
+			temp.add(new Tuple2<String, Integer>(user,1));
+			return temp.iterator();
+		}
+
+}

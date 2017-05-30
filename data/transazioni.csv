@@ -1,0 +1,5596 @@
+ID;IMPORTO;SOGGETTO;BENEFICIARIO;TIPO
+1;3450;872;516;bonifico
+2;505;989;;carta di credito
+3;11320;178;702;bonifico
+4;9325;729;378;assegno
+5;620;706;;carta di credito
+6;5775;842;127;bonifico
+7;7255;713;136;bonifico
+8;33600;143;194;assegno
+9;7250;979;247;bonifico
+10;36545;648;843;bonifico
+11;1825;443;759;assegno
+12;17050;279;275;assegno
+13;11100;66;35;bonifico
+14;43880;664;964;assegno
+15;675;78;;carta di credito
+16;595;437;;carta di credito
+17;21575;760;919;bonifico
+18;14710;889;828;bonifico
+19;420;78;;carta di credito
+20;6490;796;323;bonifico
+21;11220;390;68;bonifico
+22;25045;62;25;bonifico
+23;21625;826;25;assegno
+24;355;199;907;contante
+25;3895;217;179;assegno
+26;690;755;;carta di credito
+27;1685;645;590;assegno
+28;695;872;;carta di credito
+29;1015;947;;carta di credito
+30;19110;450;370;bonifico
+31;31975;210;873;bonifico
+32;5845;316;900;bonifico
+33;34227;1000;212;assegno
+34;5865;313;844;bonifico
+35;41724;397;681;bonifico
+36;225;862;;carta di credito
+37;470;204;;carta di credito
+38;24565;684;757;bonifico
+39;37420;681;264;bonifico
+40;14205;308;336;bonifico
+41;20175;747;53;assegno
+42;20750;568;20;assegno
+43;5945;859;235;bonifico
+44;280;809;;carta di credito
+45;16817;128;732;assegno
+46;440;234;;carta di credito
+47;9360;190;708;assegno
+48;500;354;;carta di credito
+49;790;420;;carta di credito
+50;545;887;;carta di credito
+51;26250;394;371;bonifico
+52;45652;678;981;bonifico
+53;17895;281;135;bonifico
+54;13185;880;33;bonifico
+55;33521;360;333;bonifico
+56;1045;16;;carta di credito
+57;1680;287;559;bonifico
+58;35542;574;424;assegno
+59;575;681;;carta di credito
+60;15135;414;716;bonifico
+61;24725;901;188;bonifico
+62;330;327;;carta di credito
+63;400;824;;carta di credito
+64;27280;554;423;assegno
+65;24515;38;454;bonifico
+66;14745;609;614;assegno
+67;12215;794;482;bonifico
+68;390;847;;carta di credito
+69;305;379;;carta di credito
+70;11760;352;554;bonifico
+71;10170;616;604;assegno
+72;21630;979;358;bonifico
+73;7520;637;540;bonifico
+74;305;220;;carta di credito
+75;307;337;;carta di credito
+76;9870;294;65;bonifico
+77;515;113;;carta di credito
+78;715;303;;carta di credito
+79;12885;171;403;assegno
+80;6485;651;851;bonifico
+81;14198;346;911;bonifico
+82;5450;316;858;assegno
+83;790;212;;carta di credito
+84;14390;491;638;assegno
+85;215;34;858;contante
+86;1835;246;620;assegno
+87;14435;734;823;bonifico
+88;665;382;;carta di credito
+89;7440;8;570;bonifico
+90;9115;646;483;bonifico
+91;11570;437;138;bonifico
+92;4508;34;430;assegno
+93;3161;956;549;bonifico
+94;28520;314;290;bonifico
+95;4680;86;22;assegno
+96;618;789;;carta di credito
+97;99995;16;726;bonifico
+98;7260;318;574;bonifico
+99;1840;89;927;bonifico
+100;11740;544;817;assegno
+101;12015;232;355;assegno
+102;13877;99;275;assegno
+103;15145;83;992;bonifico
+104;27210;372;434;assegno
+105;455;112;655;contante
+106;480;211;;carta di credito
+107;400;846;;carta di credito
+108;215;268;260;contante
+109;760;519;;carta di credito
+110;350;751;;carta di credito
+111;590;110;;carta di credito
+112;170;521;;carta di credito
+113;1102;74;;carta di credito
+114;375;27;220;contante
+115;11390;863;405;bonifico
+116;338;993;;carta di credito
+117;2495;20;18;bonifico
+118;1020;898;;carta di credito
+119;25080;72;991;assegno
+120;23000;625;956;assegno
+121;5275;287;256;bonifico
+122;540;206;341;contante
+123;516;119;;carta di credito
+124;14675;992;827;assegno
+125;10495;754;518;bonifico
+126;910;630;;carta di credito
+127;12865;234;826;bonifico
+128;3000;315;216;bonifico
+129;620;907;;carta di credito
+130;340;462;;carta di credito
+131;67292;533;524;bonifico
+132;250;348;;carta di credito
+133;12775;311;993;bonifico
+134;247;939;;carta di credito
+135;19445;23;128;bonifico
+136;11760;156;487;bonifico
+137;18952;478;302;bonifico
+138;12260;23;818;bonifico
+139;11438;410;361;bonifico
+140;30182;378;993;bonifico
+141;13585;152;979;bonifico
+142;490;760;;carta di credito
+143;19155;960;5;assegno
+144;12700;181;228;bonifico
+145;4165;645;726;assegno
+146;570;279;;carta di credito
+147;10180;390;655;bonifico
+148;20175;839;425;bonifico
+149;29235;561;27;bonifico
+150;6055;44;727;bonifico
+151;22271;324;889;bonifico
+152;7640;902;689;bonifico
+153;15180;179;8;bonifico
+154;305;912;224;contante
+155;21490;667;487;bonifico
+156;770;699;;carta di credito
+157;12970;273;209;assegno
+158;58900;577;868;bonifico
+159;13478;578;85;assegno
+160;7330;750;919;bonifico
+161;9020;421;138;bonifico
+162;6760;849;639;bonifico
+163;13300;325;509;bonifico
+164;17695;84;410;bonifico
+165;6870;961;923;bonifico
+166;33930;134;53;assegno
+167;180;7;473;contante
+168;4780;190;326;assegno
+169;1090;767;;carta di credito
+170;4380;725;825;bonifico
+171;20790;218;246;assegno
+172;585;485;;carta di credito
+173;6502;826;732;assegno
+174;14415;868;245;assegno
+175;10580;285;822;assegno
+176;880;575;;carta di credito
+177;1195;281;;carta di credito
+178;20820;868;651;bonifico
+179;5426;111;155;bonifico
+180;300;609;;carta di credito
+181;14900;358;113;assegno
+182;42360;796;249;bonifico
+183;14970;21;821;bonifico
+184;6945;689;516;bonifico
+185;990;281;216;contante
+186;3145;608;148;bonifico
+187;830;745;;carta di credito
+188;19000;728;110;assegno
+189;31835;998;398;bonifico
+190;572;158;527;contante
+191;12715;279;52;bonifico
+192;240;348;;carta di credito
+193;2390;333;990;bonifico
+194;5295;6;759;assegno
+195;33797;112;841;bonifico
+196;76065;373;279;bonifico
+197;2400;199;348;assegno
+198;5140;261;763;assegno
+199;18195;247;454;assegno
+200;62965;787;655;bonifico
+201;749;954;;carta di credito
+202;20450;21;785;assegno
+203;7342;64;384;bonifico
+204;1300;282;;carta di credito
+205;24526;612;729;bonifico
+206;301;325;;carta di credito
+207;28226;850;526;bonifico
+208;185;87;708;contante
+209;9880;55;848;assegno
+210;53445;826;430;assegno
+211;1220;54;;carta di credito
+212;13424;808;452;bonifico
+213;15860;460;532;bonifico
+214;722;564;;carta di credito
+215;3492;478;17;assegno
+216;19380;811;513;assegno
+217;21434;868;341;assegno
+218;565;962;;carta di credito
+219;12710;930;806;bonifico
+220;11360;873;461;bonifico
+221;41895;411;209;bonifico
+222;295;425;555;contante
+223;16080;485;372;assegno
+224;28891;962;535;assegno
+225;41590;710;497;bonifico
+226;6265;980;305;bonifico
+227;9590;895;334;bonifico
+228;1287;816;;carta di credito
+229;19485;364;610;bonifico
+230;530;239;;carta di credito
+231;26620;320;683;bonifico
+232;14325;539;248;bonifico
+233;51165;202;639;assegno
+234;11910;44;154;bonifico
+235;835;416;;carta di credito
+236;32570;593;66;bonifico
+237;21065;211;580;bonifico
+238;9995;930;814;assegno
+239;17835;423;527;bonifico
+240;255;134;;carta di credito
+241;27105;625;212;bonifico
+242;6380;503;104;assegno
+243;7975;399;593;assegno
+244;4335;682;343;bonifico
+245;400;172;;carta di credito
+246;24005;851;734;assegno
+247;565;660;;carta di credito
+248;32455;144;532;bonifico
+249;165;154;;carta di credito
+250;15345;911;257;assegno
+251;1030;752;;carta di credito
+252;49210;630;801;bonifico
+253;690;645;;carta di credito
+254;13075;133;268;bonifico
+255;4160;921;417;assegno
+256;7345;416;270;assegno
+257;9860;800;803;bonifico
+258;3610;826;12;bonifico
+259;395;3;;carta di credito
+260;10037;566;871;bonifico
+261;15490;982;403;assegno
+262;4485;115;396;bonifico
+263;13754;620;783;bonifico
+264;20530;950;564;assegno
+265;27585;231;486;bonifico
+266;275;427;884;contante
+267;317;297;;carta di credito
+268;26580;665;386;bonifico
+269;11210;609;888;assegno
+270;7465;950;871;assegno
+271;19785;646;54;assegno
+272;245;334;866;contante
+273;333;641;;carta di credito
+274;22480;926;739;bonifico
+275;40374;905;264;bonifico
+276;965;494;;carta di credito
+277;4340;30;418;bonifico
+278;440;18;;carta di credito
+279;31920;345;826;assegno
+280;805;887;;carta di credito
+281;25965;734;75;bonifico
+282;3380;666;947;bonifico
+283;21245;363;743;assegno
+284;2980;473;807;bonifico
+285;8500;437;713;bonifico
+286;175;712;52;contante
+287;320;517;;carta di credito
+288;16390;384;936;bonifico
+289;595;936;;carta di credito
+290;24535;465;955;bonifico
+291;11505;508;822;bonifico
+292;9625;200;990;bonifico
+293;22260;375;253;bonifico
+294;11680;142;937;assegno
+295;12572;887;554;bonifico
+296;520;199;802;contante
+297;18060;568;123;assegno
+298;49505;749;915;bonifico
+299;12845;845;892;bonifico
+300;10015;908;591;assegno
+301;22125;125;402;bonifico
+302;3090;87;278;bonifico
+303;18500;895;351;assegno
+304;8865;508;412;bonifico
+305;5150;88;414;bonifico
+306;22880;373;484;bonifico
+307;775;429;;carta di credito
+308;1120;34;180;bonifico
+309;8695;558;964;assegno
+310;35505;129;953;assegno
+311;12260;747;817;bonifico
+312;1257;83;;carta di credito
+313;31760;624;656;bonifico
+314;12955;138;784;bonifico
+315;7204;816;194;bonifico
+316;318;254;93;contante
+317;10265;790;818;assegno
+318;40153;106;435;assegno
+319;864;78;;carta di credito
+320;23070;204;152;bonifico
+321;24925;920;668;bonifico
+322;32030;517;414;bonifico
+323;12845;307;668;bonifico
+324;8390;137;212;bonifico
+325;34880;227;308;bonifico
+326;22615;334;331;bonifico
+327;12665;735;537;assegno
+328;130;562;484;contante
+329;7215;375;722;bonifico
+330;3465;27;222;bonifico
+331;17760;642;826;assegno
+332;45225;427;588;assegno
+333;4660;583;719;bonifico
+334;15890;711;100;assegno
+335;390;426;;carta di credito
+336;13185;862;515;bonifico
+337;18355;124;246;bonifico
+338;23320;157;308;bonifico
+339;21710;431;615;bonifico
+340;33350;807;256;assegno
+341;17458;777;963;bonifico
+342;150;751;214;contante
+343;9343;428;362;assegno
+344;1950;917;846;bonifico
+345;14875;928;132;assegno
+346;25280;639;744;bonifico
+347;924;987;;carta di credito
+348;21490;312;467;assegno
+349;310;602;;carta di credito
+350;3281;939;60;bonifico
+351;11375;156;876;bonifico
+352;22598;233;731;assegno
+353;180;382;976;contante
+354;12725;22;427;assegno
+355;9185;772;337;assegno
+356;8115;369;365;bonifico
+357;1090;387;;carta di credito
+358;250;887;454;contante
+359;485;246;;carta di credito
+360;21985;573;202;assegno
+361;1420;681;;carta di credito
+362;12335;491;656;assegno
+363;385;82;787;contante
+364;16680;662;805;bonifico
+365;22485;656;134;assegno
+366;593;957;;carta di credito
+367;780;642;;carta di credito
+368;622;626;;carta di credito
+369;19355;765;503;assegno
+370;16755;860;516;assegno
+371;5525;125;666;bonifico
+372;8585;387;136;assegno
+373;6355;988;806;bonifico
+374;29560;568;481;assegno
+375;10502;175;478;bonifico
+376;10700;770;118;bonifico
+377;11810;894;149;bonifico
+378;220;555;452;contante
+379;27750;847;557;assegno
+380;21010;55;19;assegno
+381;1305;688;;carta di credito
+382;14750;39;109;bonifico
+383;250;909;245;contante
+384;8815;909;684;bonifico
+385;23660;889;465;bonifico
+386;364;983;;carta di credito
+387;8630;33;722;bonifico
+388;2910;837;482;bonifico
+389;51065;379;313;bonifico
+390;19895;505;585;assegno
+391;23645;717;88;assegno
+392;28505;179;369;bonifico
+393;305;558;995;contante
+394;47210;560;741;assegno
+395;575;850;;carta di credito
+396;65590;665;373;bonifico
+397;955;238;;carta di credito
+398;23745;820;109;assegno
+399;520;483;;carta di credito
+400;7485;700;131;assegno
+401;16400;624;75;assegno
+402;9398;532;520;bonifico
+403;160;263;16;contante
+404;475;823;;carta di credito
+405;5920;532;465;assegno
+406;32290;543;497;assegno
+407;865;288;;carta di credito
+408;225;432;772;contante
+409;33509;623;967;assegno
+410;5910;711;301;bonifico
+411;42460;699;153;assegno
+412;455;39;;carta di credito
+413;35900;750;553;bonifico
+414;1000;507;;carta di credito
+415;690;954;;carta di credito
+416;7040;32;481;bonifico
+417;13693;492;905;bonifico
+418;350;375;882;contante
+419;945;521;743;bonifico
+420;21901;375;813;bonifico
+421;485;891;;carta di credito
+422;395;177;;carta di credito
+423;5340;920;953;bonifico
+424;25770;218;199;bonifico
+425;14705;450;100;bonifico
+426;28080;109;325;bonifico
+427;340;432;;carta di credito
+428;17895;945;885;assegno
+429;643;82;;carta di credito
+430;2860;983;784;bonifico
+431;10980;729;701;assegno
+432;32540;340;809;assegno
+433;6535;402;807;bonifico
+434;2820;364;89;assegno
+435;660;555;;carta di credito
+436;725;850;151;contante
+437;625;957;;carta di credito
+438;24140;957;665;assegno
+439;19651;519;393;bonifico
+440;840;755;;carta di credito
+441;21660;950;656;bonifico
+442;11304;179;160;bonifico
+443;14400;13;346;assegno
+444;326;710;;carta di credito
+445;440;50;;carta di credito
+446;25285;226;326;assegno
+447;12370;555;200;assegno
+448;265;578;;carta di credito
+449;12351;559;337;assegno
+450;4160;513;914;bonifico
+451;44986;952;802;bonifico
+452;31830;800;357;assegno
+453;15185;438;24;assegno
+454;10880;894;885;bonifico
+455;265;646;887;contante
+456;460;651;;carta di credito
+457;23145;393;485;assegno
+458;12645;244;144;bonifico
+459;11190;3;450;assegno
+460;480;275;;carta di credito
+461;7935;9;911;assegno
+462;4905;773;644;bonifico
+463;31140;627;833;assegno
+464;260;362;725;contante
+465;5295;847;35;assegno
+466;255;95;660;contante
+467;980;638;;carta di credito
+468;525;934;;carta di credito
+469;2355;155;;carta di credito
+470;7555;577;216;bonifico
+471;510;242;;carta di credito
+472;10300;237;292;bonifico
+473;16865;987;902;bonifico
+474;23278;416;541;bonifico
+475;28520;549;920;bonifico
+476;305;284;;carta di credito
+477;425;33;489;contante
+478;418;214;;carta di credito
+479;400;255;;carta di credito
+480;305;845;;carta di credito
+481;40005;418;224;bonifico
+482;35655;897;414;bonifico
+483;9389;839;145;bonifico
+484;26565;676;946;assegno
+485;750;906;;carta di credito
+486;22440;352;878;assegno
+487;24205;945;833;bonifico
+488;20300;451;675;assegno
+489;12154;91;373;bonifico
+490;13858;790;578;bonifico
+491;14998;313;481;bonifico
+492;670;200;;carta di credito
+493;12890;143;804;assegno
+494;7570;407;677;assegno
+495;52950;95;342;assegno
+496;695;686;;carta di credito
+497;7695;91;370;assegno
+498;9980;943;521;bonifico
+499;63660;360;308;bonifico
+500;7075;945;938;bonifico
+501;11280;626;677;bonifico
+502;425;51;;carta di credito
+503;38825;904;357;bonifico
+504;150;205;536;contante
+505;46640;535;830;assegno
+506;24395;367;282;bonifico
+507;5771;111;901;assegno
+508;21260;861;549;assegno
+509;10310;961;931;assegno
+510;155;886;;carta di credito
+511;6650;585;823;assegno
+512;295;947;;carta di credito
+513;6045;334;727;bonifico
+514;482;425;594;contante
+515;11430;829;469;assegno
+516;27015;443;359;bonifico
+517;675;250;;carta di credito
+518;7187;985;821;bonifico
+519;230;314;;carta di credito
+520;18650;444;970;assegno
+521;32165;450;298;assegno
+522;8575;481;123;bonifico
+523;7915;525;24;bonifico
+524;16480;944;562;assegno
+525;290;667;;carta di credito
+526;12055;491;19;bonifico
+527;240;884;330;contante
+528;26116;757;94;assegno
+529;9909;255;526;assegno
+530;12908;398;689;bonifico
+531;11165;92;437;bonifico
+532;4905;597;620;bonifico
+533;25405;425;916;assegno
+534;11280;699;241;bonifico
+535;575;544;;carta di credito
+536;13720;109;101;bonifico
+537;165;63;744;contante
+538;845;655;;carta di credito
+539;25830;2;247;assegno
+540;36890;255;884;assegno
+541;173;808;39;contante
+542;3765;405;25;bonifico
+543;9171;801;222;assegno
+544;49980;980;734;assegno
+545;28455;545;848;bonifico
+546;16685;904;264;bonifico
+547;908;3;;carta di credito
+548;12050;285;845;bonifico
+549;23715;631;973;assegno
+550;3975;872;900;assegno
+551;3830;955;23;assegno
+552;560;692;;carta di credito
+553;54584;416;649;assegno
+554;1960;852;16;bonifico
+555;29005;839;990;bonifico
+556;9776;749;373;bonifico
+557;47910;513;228;bonifico
+558;15814;453;829;bonifico
+559;1340;268;;carta di credito
+560;280;430;60;contante
+561;19329;382;597;bonifico
+562;22675;167;136;bonifico
+563;35880;21;811;assegno
+564;565;46;;carta di credito
+565;315;313;736;contante
+566;6275;271;94;bonifico
+567;23065;356;363;bonifico
+568;140;221;540;contante
+569;645;699;;carta di credito
+570;23021;846;425;bonifico
+571;12340;944;994;assegno
+572;14345;244;430;bonifico
+573;3195;654;844;assegno
+574;670;152;;carta di credito
+575;220;838;;carta di credito
+576;31000;338;392;bonifico
+577;10140;636;228;assegno
+578;591;661;;carta di credito
+579;8525;73;753;bonifico
+580;8240;89;636;bonifico
+581;2250;814;939;bonifico
+582;1738;731;290;bonifico
+583;355;693;663;contante
+584;13720;560;555;bonifico
+585;15360;642;524;assegno
+586;3565;56;726;bonifico
+587;395;695;;carta di credito
+588;510;222;;carta di credito
+589;42555;140;915;assegno
+590;19660;34;821;bonifico
+591;14760;88;982;assegno
+592;686;365;;carta di credito
+593;20315;417;198;assegno
+594;1225;763;;carta di credito
+595;10280;491;887;assegno
+596;1050;811;;carta di credito
+597;21287;197;888;bonifico
+598;5600;949;829;bonifico
+599;9750;438;390;assegno
+600;31830;298;393;assegno
+601;36856;545;534;bonifico
+602;17455;906;556;assegno
+603;67110;706;83;assegno
+604;3105;25;94;bonifico
+605;4179;225;631;bonifico
+606;19730;138;475;bonifico
+607;14910;867;295;bonifico
+608;19146;208;385;assegno
+609;26925;368;794;bonifico
+610;619;662;;carta di credito
+611;15025;583;662;assegno
+612;8670;786;802;bonifico
+613;630;272;;carta di credito
+614;9190;313;369;assegno
+615;5844;664;997;assegno
+616;40185;330;862;bonifico
+617;25380;921;639;assegno
+618;665;85;;carta di credito
+619;23550;81;562;bonifico
+620;10865;118;853;bonifico
+621;11280;182;503;assegno
+622;10718;309;787;bonifico
+623;805;884;313;contante
+624;3535;683;201;bonifico
+625;22090;595;412;bonifico
+626;53205;336;755;bonifico
+627;11055;421;515;assegno
+628;868;414;;carta di credito
+629;14660;486;271;bonifico
+630;7905;428;975;assegno
+631;650;918;;carta di credito
+632;325;333;141;contante
+633;8980;399;527;bonifico
+634;24735;228;943;assegno
+635;745;996;;carta di credito
+636;220;898;185;contante
+637;4595;247;244;assegno
+638;38360;18;818;bonifico
+639;14330;412;482;assegno
+640;750;559;;carta di credito
+641;595;905;;carta di credito
+642;2160;486;568;bonifico
+643;8855;265;255;assegno
+644;16495;528;411;bonifico
+645;790;406;;carta di credito
+646;13400;645;809;bonifico
+647;9190;575;626;assegno
+648;10520;1;148;bonifico
+649;535;821;;carta di credito
+650;28250;103;545;bonifico
+651;920;82;;carta di credito
+652;28915;376;543;assegno
+653;45282;657;234;bonifico
+654;380;375;;carta di credito
+655;25150;410;311;assegno
+656;9500;313;178;bonifico
+657;225;184;22;contante
+658;13760;785;45;assegno
+659;335;48;;carta di credito
+660;8840;118;548;bonifico
+661;22605;799;396;bonifico
+662;40140;176;108;bonifico
+663;227;321;;carta di credito
+664;332;846;;carta di credito
+665;18570;513;112;bonifico
+666;1070;991;;carta di credito
+667;235;200;;carta di credito
+668;10300;348;822;bonifico
+669;2080;47;;carta di credito
+670;455;108;;carta di credito
+671;7355;99;452;assegno
+672;28395;559;252;assegno
+673;57500;330;980;bonifico
+674;23380;278;710;bonifico
+675;122;423;;carta di credito
+676;190;72;803;contante
+677;22040;993;654;assegno
+678;320;650;;carta di credito
+679;11075;534;103;bonifico
+680;4315;922;594;assegno
+681;653;982;287;contante
+682;13305;647;621;assegno
+683;15160;34;197;bonifico
+684;2768;851;932;assegno
+685;9365;505;870;bonifico
+686;4790;462;94;bonifico
+687;3350;995;83;assegno
+688;310;48;;carta di credito
+689;1970;681;242;assegno
+690;11160;595;903;assegno
+691;215;968;574;contante
+692;19335;285;900;bonifico
+693;51025;261;103;assegno
+694;11885;232;551;bonifico
+695;41485;112;92;assegno
+696;12870;906;437;bonifico
+697;26530;200;311;bonifico
+698;14355;21;322;assegno
+699;560;944;;carta di credito
+700;22650;564;176;bonifico
+701;13270;277;575;bonifico
+702;22010;894;253;bonifico
+703;12340;741;806;assegno
+704;705;761;;carta di credito
+705;210;218;17;contante
+706;46695;930;484;bonifico
+707;14062;591;233;assegno
+708;16335;946;449;bonifico
+709;8780;444;855;bonifico
+710;28460;367;651;assegno
+711;11470;747;103;assegno
+712;34750;30;229;bonifico
+713;28136;226;182;bonifico
+714;16010;596;357;assegno
+715;35645;995;892;assegno
+716;19047;572;961;bonifico
+717;145;549;838;contante
+718;56805;377;487;assegno
+719;40455;502;864;assegno
+720;13830;895;136;assegno
+721;24326;653;239;assegno
+722;8960;287;415;bonifico
+723;7595;347;515;bonifico
+724;11462;87;439;bonifico
+725;7675;261;731;bonifico
+726;15385;307;920;bonifico
+727;9230;513;533;bonifico
+728;320;665;43;contante
+729;35225;835;657;bonifico
+730;290;311;859;contante
+731;13245;627;615;bonifico
+732;29385;181;580;assegno
+733;8960;56;995;assegno
+734;16890;172;32;bonifico
+735;28395;424;508;bonifico
+736;340;189;;carta di credito
+737;235;527;;carta di credito
+738;1800;390;;carta di credito
+739;29585;986;845;assegno
+740;570;26;;carta di credito
+741;220;590;895;contante
+742;25015;27;563;assegno
+743;595;789;;carta di credito
+744;3165;20;787;assegno
+745;10865;350;233;bonifico
+746;18495;228;623;bonifico
+747;670;459;;carta di credito
+748;1990;841;617;bonifico
+749;14885;150;376;bonifico
+750;57710;588;575;bonifico
+751;38770;497;897;bonifico
+752;6170;664;938;bonifico
+753;13430;613;481;bonifico
+754;12052;325;815;assegno
+755;17650;13;979;assegno
+756;580;334;;carta di credito
+757;713;364;;carta di credito
+758;41610;318;840;bonifico
+759;230;306;349;contante
+760;3162;501;778;bonifico
+761;16355;962;394;assegno
+762;270;340;579;contante
+763;205;23;;carta di credito
+764;895;890;;carta di credito
+765;14740;753;964;bonifico
+766;195;150;;carta di credito
+767;15376;81;585;bonifico
+768;239;490;956;contante
+769;34772;298;323;bonifico
+770;250;755;602;contante
+771;380;542;397;contante
+772;7115;763;16;bonifico
+773;21345;662;668;bonifico
+774;21145;983;738;assegno
+775;315;917;684;contante
+776;47530;292;215;bonifico
+777;16820;743;657;bonifico
+778;15735;865;108;assegno
+779;1900;811;239;assegno
+780;21505;353;616;bonifico
+781;385;501;;carta di credito
+782;6880;956;606;assegno
+783;635;224;;carta di credito
+784;9985;702;708;bonifico
+785;759;558;;carta di credito
+786;635;356;;carta di credito
+787;461;103;;carta di credito
+788;12338;277;561;assegno
+789;22596;154;456;bonifico
+790;33800;309;590;assegno
+791;8100;995;193;bonifico
+792;320;618;;carta di credito
+793;14235;839;993;bonifico
+794;24720;633;261;bonifico
+795;180;316;;carta di credito
+796;1195;211;;carta di credito
+797;23435;987;167;bonifico
+798;18115;660;371;bonifico
+799;25412;884;830;bonifico
+800;35960;726;393;assegno
+801;13145;190;579;assegno
+802;3696;132;929;bonifico
+803;686;88;804;bonifico
+804;130;766;776;contante
+805;222;640;;carta di credito
+806;8420;736;66;bonifico
+807;36850;438;888;bonifico
+808;5080;845;735;bonifico
+809;23295;514;359;bonifico
+810;4240;110;685;bonifico
+811;28520;764;43;bonifico
+812;300;243;;carta di credito
+813;12710;579;652;bonifico
+814;850;667;896;contante
+815;12854;461;668;assegno
+816;12155;116;560;bonifico
+817;515;617;194;contante
+818;15480;608;308;bonifico
+819;4650;729;901;bonifico
+820;15116;679;367;assegno
+821;31170;962;508;assegno
+822;11860;421;412;bonifico
+823;175;812;;carta di credito
+824;32795;478;387;assegno
+825;39290;646;582;bonifico
+826;9160;454;560;assegno
+827;18105;228;18;assegno
+828;330;95;686;contante
+829;480;184;;carta di credito
+830;135;95;;carta di credito
+831;10258;138;415;bonifico
+832;25235;787;216;assegno
+833;8665;141;424;bonifico
+834;1320;36;874;bonifico
+835;490;290;;carta di credito
+836;22715;464;307;bonifico
+837;165;548;;carta di credito
+838;19767;861;558;assegno
+839;32030;329;89;assegno
+840;225;656;384;contante
+841;12540;448;837;bonifico
+842;23879;862;879;assegno
+843;335;128;;carta di credito
+844;7420;28;167;assegno
+845;645;779;759;contante
+846;260;413;667;contante
+847;2927;766;666;bonifico
+848;8158;749;967;bonifico
+849;999;776;;carta di credito
+850;384;559;128;contante
+851;28710;725;911;assegno
+852;562;595;;carta di credito
+853;17620;548;343;bonifico
+854;18485;99;336;assegno
+855;305;798;238;contante
+856;7277;722;537;bonifico
+857;19505;356;978;bonifico
+858;1605;500;;carta di credito
+859;40165;291;911;bonifico
+860;34120;172;241;assegno
+861;27825;297;787;bonifico
+862;3467;37;87;assegno
+863;16455;892;451;bonifico
+864;3290;979;408;assegno
+865;475;782;;carta di credito
+866;345;860;784;contante
+867;530;887;;carta di credito
+868;11125;468;95;bonifico
+869;18780;662;595;bonifico
+870;8750;233;23;bonifico
+871;25000;51;848;assegno
+872;34055;410;149;bonifico
+873;26005;987;244;bonifico
+874;14688;364;87;assegno
+875;375;817;247;contante
+876;420;57;6;contante
+877;174;261;;carta di credito
+878;12810;559;254;bonifico
+879;4900;56;462;bonifico
+880;7670;450;577;bonifico
+881;470;689;;carta di credito
+882;31435;161;475;assegno
+883;2235;729;616;bonifico
+884;31550;919;701;bonifico
+885;1670;699;;carta di credito
+886;46530;443;805;assegno
+887;800;323;;carta di credito
+888;6340;242;785;bonifico
+889;12125;39;452;bonifico
+890;15875;356;597;bonifico
+891;210;684;929;contante
+892;6440;21;90;assegno
+893;16075;969;593;assegno
+894;480;708;;carta di credito
+895;13090;185;314;bonifico
+896;64015;561;901;bonifico
+897;745;967;;carta di credito
+898;11555;560;692;bonifico
+899;23330;727;73;bonifico
+900;5263;53;722;bonifico
+901;23875;895;958;assegno
+902;28290;438;141;bonifico
+903;725;360;;carta di credito
+904;4510;506;18;bonifico
+905;450;590;;carta di credito
+906;12030;336;806;assegno
+907;18195;726;937;bonifico
+908;19570;441;43;bonifico
+909;5525;430;349;bonifico
+910;23635;300;83;bonifico
+911;2665;571;594;bonifico
+912;5845;545;732;bonifico
+913;63619;497;253;assegno
+914;12700;452;310;bonifico
+915;15685;462;956;bonifico
+916;12320;309;843;bonifico
+917;22233;237;291;bonifico
+918;13000;561;898;assegno
+919;3860;145;990;bonifico
+920;290;444;541;contante
+921;1445;142;421;bonifico
+922;32620;306;747;assegno
+923;23601;124;309;bonifico
+924;190;521;645;contante
+925;260;401;348;contante
+926;21980;13;729;bonifico
+927;20202;460;327;bonifico
+928;18405;246;531;bonifico
+929;25165;290;395;assegno
+930;26270;799;735;bonifico
+931;650;905;;carta di credito
+932;275;356;;carta di credito
+933;395;40;;carta di credito
+934;19155;657;783;assegno
+935;9995;238;678;bonifico
+936;36665;497;441;bonifico
+937;385;570;433;contante
+938;885;594;55;assegno
+939;380;246;325;contante
+940;1190;664;;carta di credito
+941;20430;877;792;assegno
+942;190;786;581;contante
+943;6045;533;717;assegno
+944;26552;390;714;bonifico
+945;56715;842;358;assegno
+946;79406;697;503;assegno
+947;915;330;;carta di credito
+948;27285;227;25;assegno
+949;4845;110;62;bonifico
+950;8207;204;361;bonifico
+951;328;682;;carta di credito
+952;145;152;266;contante
+953;21673;203;238;bonifico
+954;22340;751;949;assegno
+955;28910;138;869;bonifico
+956;9052;680;421;assegno
+957;630;852;;carta di credito
+958;2805;347;640;assegno
+959;15246;230;110;assegno
+960;275;212;458;contante
+961;243;52;91;contante
+962;24405;48;836;bonifico
+963;605;699;;carta di credito
+964;4725;494;209;bonifico
+965;6960;527;309;assegno
+966;670;962;;carta di credito
+967;17850;134;266;assegno
+968;17640;16;732;assegno
+969;5255;546;878;assegno
+970;29746;264;475;bonifico
+971;20660;506;89;assegno
+972;15680;964;226;bonifico
+973;28345;807;481;assegno
+974;27990;489;567;assegno
+975;13800;225;597;bonifico
+976;12220;730;649;bonifico
+977;165;499;36;contante
+978;305;427;271;contante
+979;28437;799;837;bonifico
+980;265;525;461;contante
+981;8295;118;398;assegno
+982;365;50;;carta di credito
+983;485;911;;carta di credito
+984;1016;250;;carta di credito
+985;20155;21;363;bonifico
+986;30671;614;953;bonifico
+987;19981;462;120;assegno
+988;14540;33;435;bonifico
+989;565;309;;carta di credito
+990;8525;134;419;assegno
+991;310;642;;carta di credito
+992;16595;812;781;bonifico
+993;4975;465;876;bonifico
+994;9210;287;370;bonifico
+995;20705;225;543;assegno
+996;596;809;116;contante
+997;760;841;;carta di credito
+998;534;252;;carta di credito
+999;541;644;;carta di credito
+1000;2840;455;80;bonifico
+1001;1240;681;679;bonifico
+1002;17935;912;289;bonifico
+1003;14258;142;575;assegno
+1004;3140;347;33;bonifico
+1005;210;486;405;contante
+1006;20195;991;59;bonifico
+1007;990;162;;carta di credito
+1008;37493;715;362;bonifico
+1009;24485;333;917;bonifico
+1010;20305;109;896;bonifico
+1011;1065;373;;carta di credito
+1012;9205;830;198;assegno
+1013;340;38;;carta di credito
+1014;17929;676;93;bonifico
+1015;13470;48;106;bonifico
+1016;52035;639;721;bonifico
+1017;935;534;;carta di credito
+1018;105;909;712;contante
+1019;52220;497;446;bonifico
+1020;16760;208;713;assegno
+1021;15100;485;108;assegno
+1022;3915;611;12;assegno
+1023;230;574;376;contante
+1024;660;996;742;contante
+1025;11692;858;986;bonifico
+1026;9728;504;990;bonifico
+1027;17955;579;299;bonifico
+1028;585;30;;carta di credito
+1029;8536;355;52;assegno
+1030;4485;665;108;assegno
+1031;46995;825;979;assegno
+1032;20181;448;95;bonifico
+1033;14740;330;432;assegno
+1034;39500;109;270;assegno
+1035;23245;716;844;bonifico
+1036;10209;834;216;assegno
+1037;11440;527;586;assegno
+1038;305;282;;carta di credito
+1039;21900;919;75;assegno
+1040;305;308;883;contante
+1041;17165;608;439;assegno
+1042;290;527;;carta di credito
+1043;26680;95;59;assegno
+1044;12585;124;233;bonifico
+1045;6970;989;359;assegno
+1046;44085;258;285;assegno
+1047;670;115;835;contante
+1048;535;879;32;contante
+1049;16235;494;757;assegno
+1050;32425;359;344;assegno
+1051;225;645;;carta di credito
+1052;245;184;;carta di credito
+1053;35385;920;412;bonifico
+1054;49490;706;729;assegno
+1055;7050;801;941;bonifico
+1056;13315;725;135;bonifico
+1057;20615;898;924;bonifico
+1058;319;722;122;contante
+1059;12160;197;888;assegno
+1060;15225;774;149;bonifico
+1061;5730;410;131;assegno
+1062;529;955;;carta di credito
+1063;12905;49;574;assegno
+1064;5930;201;979;bonifico
+1065;595;33;;carta di credito
+1066;395;825;;carta di credito
+1067;605;956;;carta di credito
+1068;662;549;803;contante
+1069;19450;262;528;assegno
+1070;15670;317;686;assegno
+1071;7120;928;225;bonifico
+1072;4720;583;836;bonifico
+1073;4265;118;76;bonifico
+1074;13355;949;151;bonifico
+1075;19530;81;194;assegno
+1076;23475;484;712;bonifico
+1077;980;370;;carta di credito
+1078;36170;611;803;assegno
+1079;215;371;;carta di credito
+1080;20025;936;827;bonifico
+1081;16950;27;921;assegno
+1082;6490;794;528;bonifico
+1083;13600;423;642;bonifico
+1084;9910;497;620;bonifico
+1085;15325;341;822;bonifico
+1086;25463;896;378;assegno
+1087;26520;156;856;assegno
+1088;19725;786;14;bonifico
+1089;5945;45;771;bonifico
+1090;1524;798;;carta di credito
+1091;17545;626;776;bonifico
+1092;6553;313;160;bonifico
+1093;28760;95;454;assegno
+1094;6090;687;43;bonifico
+1095;9194;914;118;assegno
+1096;1025;872;;carta di credito
+1097;2035;957;;carta di credito
+1098;10785;652;803;assegno
+1099;3360;103;885;assegno
+1100;18710;790;829;bonifico
+1101;6015;443;662;bonifico
+1102;795;283;;carta di credito
+1103;12475;144;277;assegno
+1104;20230;361;259;assegno
+1105;22970;960;898;assegno
+1106;465;234;887;contante
+1107;290;816;;carta di credito
+1108;4070;178;565;bonifico
+1109;8937;995;655;assegno
+1110;570;229;;carta di credito
+1111;240;522;35;contante
+1112;15740;283;223;bonifico
+1113;14833;826;859;bonifico
+1114;15535;243;908;bonifico
+1115;3285;744;527;bonifico
+1116;31125;138;314;assegno
+1117;12191;824;855;bonifico
+1118;14752;747;900;assegno
+1119;2585;21;885;assegno
+1120;610;670;;carta di credito
+1121;10800;112;181;assegno
+1122;4175;464;531;bonifico
+1123;26265;852;840;bonifico
+1124;5760;489;122;bonifico
+1125;699;50;135;contante
+1126;41625;813;778;assegno
+1127;649;964;;carta di credito
+1128;16900;987;563;bonifico
+1129;455;303;;carta di credito
+1130;52040;408;550;bonifico
+1131;18670;334;884;bonifico
+1132;9088;242;75;assegno
+1133;1050;342;;carta di credito
+1134;6355;665;826;bonifico
+1135;18200;547;386;assegno
+1136;14525;478;101;bonifico
+1137;704;796;;carta di credito
+1138;28225;672;291;assegno
+1139;270;568;254;contante
+1140;689;621;;carta di credito
+1141;24450;247;3;bonifico
+1142;18050;128;95;assegno
+1143;8802;53;824;assegno
+1144;7280;474;9;bonifico
+1145;8910;394;85;bonifico
+1146;882;791;;carta di credito
+1147;720;753;;carta di credito
+1148;16785;591;943;assegno
+1149;4773;347;895;assegno
+1150;15875;742;587;bonifico
+1151;3455;545;285;bonifico
+1152;58105;211;663;bonifico
+1153;32090;67;953;bonifico
+1154;29520;609;222;bonifico
+1155;5355;444;606;assegno
+1156;370;908;168;contante
+1157;13855;393;243;assegno
+1158;12245;580;840;bonifico
+1159;4750;471;531;bonifico
+1160;270;472;615;contante
+1161;14125;812;496;assegno
+1162;27200;477;15;assegno
+1163;3025;237;871;assegno
+1164;28000;499;476;bonifico
+1165;4945;531;712;assegno
+1166;19990;21;194;bonifico
+1167;230;461;;carta di credito
+1168;17230;226;2;bonifico
+1169;270;232;;carta di credito
+1170;2115;228;213;bonifico
+1171;360;430;;carta di credito
+1172;27310;889;663;bonifico
+1173;26880;820;310;assegno
+1174;33150;946;927;assegno
+1175;20160;281;270;assegno
+1176;6892;679;184;bonifico
+1177;420;760;;carta di credito
+1178;8870;991;775;assegno
+1179;30570;891;541;bonifico
+1180;41565;814;511;bonifico
+1181;733;298;;carta di credito
+1182;865;364;;carta di credito
+1183;5320;964;20;bonifico
+1184;11215;481;325;assegno
+1185;33536;972;947;bonifico
+1186;5560;630;670;bonifico
+1187;7465;99;20;bonifico
+1188;10210;673;27;assegno
+1189;5829;643;569;bonifico
+1190;280;513;;carta di credito
+1191;8885;410;267;assegno
+1192;17680;558;738;bonifico
+1193;610;104;213;contante
+1194;27950;564;381;assegno
+1195;270;764;;carta di credito
+1196;23666;912;314;bonifico
+1197;380;900;209;contante
+1198;27917;192;449;assegno
+1199;735;23;;carta di credito
+1200;35620;679;582;bonifico
+1201;18160;471;266;bonifico
+1202;2264;275;278;bonifico
+1203;17495;683;140;bonifico
+1204;6255;150;588;bonifico
+1205;370;179;;carta di credito
+1206;10233;530;403;bonifico
+1207;4290;119;827;assegno
+1208;88627;125;11;bonifico
+1209;25207;900;626;assegno
+1210;4865;963;725;bonifico
+1211;2579;390;487;bonifico
+1212;450;256;807;contante
+1213;19585;387;65;assegno
+1214;571;240;213;contante
+1215;665;294;;carta di credito
+1216;9695;432;667;bonifico
+1217;16005;548;830;bonifico
+1218;35108;889;706;bonifico
+1219;14770;730;45;bonifico
+1220;242;745;913;contante
+1221;75840;621;91;bonifico
+1222;940;571;;carta di credito
+1223;38881;216;665;bonifico
+1224;19905;753;713;bonifico
+1225;740;937;;carta di credito
+1226;6855;739;48;assegno
+1227;36425;75;371;bonifico
+1228;522;555;;carta di credito
+1229;16720;227;629;bonifico
+1230;22266;314;878;bonifico
+1231;275;728;;carta di credito
+1232;7340;700;463;assegno
+1233;16345;109;664;assegno
+1234;40205;281;503;assegno
+1235;23665;977;645;bonifico
+1236;47620;988;783;bonifico
+1237;24097;585;775;bonifico
+1238;20415;803;68;bonifico
+1239;330;27;878;contante
+1240;616;210;123;contante
+1241;955;568;;carta di credito
+1242;650;64;;carta di credito
+1243;270;970;;carta di credito
+1244;190;231;63;contante
+1245;6595;395;844;bonifico
+1246;3840;909;375;bonifico
+1247;20945;697;284;assegno
+1248;11555;983;725;bonifico
+1249;7155;7;22;bonifico
+1250;29190;435;844;assegno
+1251;12220;696;104;assegno
+1252;24780;801;896;bonifico
+1253;10365;346;870;bonifico
+1254;1805;177;;carta di credito
+1255;300;142;;carta di credito
+1256;29175;559;432;bonifico
+1257;13094;877;128;assegno
+1258;1130;133;;carta di credito
+1259;257;301;339;contante
+1260;415;891;;carta di credito
+1261;17509;594;187;bonifico
+1262;160;998;120;contante
+1263;11530;237;78;bonifico
+1264;1700;495;;carta di credito
+1265;22445;537;512;bonifico
+1266;7386;833;553;bonifico
+1267;325;79;;carta di credito
+1268;2300;592;690;bonifico
+1269;17620;252;710;assegno
+1270;19465;119;209;bonifico
+1271;6640;398;162;assegno
+1272;5026;822;80;assegno
+1273;8690;184;638;bonifico
+1274;1354;821;;carta di credito
+1275;180;374;615;contante
+1276;9965;736;980;bonifico
+1277;17615;688;310;assegno
+1278;305;568;724;contante
+1279;1055;359;;carta di credito
+1280;3290;346;363;bonifico
+1281;3120;617;924;bonifico
+1282;17495;688;215;assegno
+1283;28750;990;884;assegno
+1284;13421;28;986;bonifico
+1285;5325;93;192;bonifico
+1286;17590;99;15;assegno
+1287;15710;593;387;bonifico
+1288;37362;24;895;bonifico
+1289;36350;957;891;bonifico
+1290;550;521;;carta di credito
+1291;145;837;242;contante
+1292;29815;422;458;bonifico
+1293;345;306;;carta di credito
+1294;469;744;;carta di credito
+1295;24970;918;969;assegno
+1296;12340;512;148;bonifico
+1297;25305;306;473;bonifico
+1298;9332;586;360;assegno
+1299;30150;772;225;bonifico
+1300;12865;626;925;bonifico
+1301;480;399;;carta di credito
+1302;360;471;;carta di credito
+1303;29555;877;420;assegno
+1304;21071;588;839;bonifico
+1305;215;334;;carta di credito
+1306;45145;161;610;assegno
+1307;583;776;;carta di credito
+1308;5735;519;508;bonifico
+1309;7065;318;506;assegno
+1310;305;818;453;contante
+1311;17532;672;526;bonifico
+1312;14195;689;328;bonifico
+1313;4405;109;33;assegno
+1314;20870;774;463;bonifico
+1315;185;481;14;contante
+1316;5795;670;7;bonifico
+1317;430;338;686;contante
+1318;290;34;;carta di credito
+1319;5770;483;815;bonifico
+1320;9303;170;304;assegno
+1321;19465;776;37;bonifico
+1322;12769;167;606;assegno
+1323;250;968;796;contante
+1324;37174;809;933;assegno
+1325;1205;466;;carta di credito
+1326;848;645;;carta di credito
+1327;16945;988;187;assegno
+1328;650;778;;carta di credito
+1329;170;882;449;contante
+1330;3437;964;991;bonifico
+1331;14000;334;268;bonifico
+1332;18845;247;631;bonifico
+1333;350;301;;carta di credito
+1334;24325;369;428;bonifico
+1335;2815;753;360;bonifico
+1336;52360;116;322;bonifico
+1337;21175;469;385;bonifico
+1338;12395;790;982;assegno
+1339;255;424;366;contante
+1340;46525;261;101;assegno
+1341;20105;424;513;bonifico
+1342;240;727;;carta di credito
+1343;9765;132;408;bonifico
+1344;26880;597;861;assegno
+1345;18505;200;409;assegno
+1346;6585;355;804;bonifico
+1347;4595;791;1000;bonifico
+1348;17175;283;561;assegno
+1349;440;985;722;contante
+1350;125;406;538;contante
+1351;25675;548;703;assegno
+1352;185;950;962;contante
+1353;6710;571;508;assegno
+1354;355;576;288;contante
+1355;46965;97;332;assegno
+1356;31525;681;387;assegno
+1357;245;9;;carta di credito
+1358;1574;827;787;bonifico
+1359;775;903;;carta di credito
+1360;21750;827;519;bonifico
+1361;19784;755;866;bonifico
+1362;4650;761;679;bonifico
+1363;7890;410;30;bonifico
+1364;11035;412;735;bonifico
+1365;180;918;;carta di credito
+1366;425;699;145;contante
+1367;610;817;;carta di credito
+1368;28220;252;702;bonifico
+1369;10790;242;747;bonifico
+1370;148;308;805;contante
+1371;950;21;;carta di credito
+1372;15095;864;783;assegno
+1373;56499;422;261;assegno
+1374;5610;992;670;assegno
+1375;12940;81;691;assegno
+1376;26655;912;416;bonifico
+1377;15665;232;4;assegno
+1378;650;11;;carta di credito
+1379;475;786;;carta di credito
+1380;4700;217;579;bonifico
+1381;1165;74;;carta di credito
+1382;28375;906;583;assegno
+1383;260;427;836;contante
+1384;810;417;;carta di credito
+1385;27675;867;632;assegno
+1386;15665;944;601;bonifico
+1387;325;246;580;contante
+1388;13945;711;673;bonifico
+1389;24115;165;5;bonifico
+1390;469;313;248;contante
+1391;41735;912;869;assegno
+1392;16110;553;266;assegno
+1393;273;804;368;contante
+1394;15820;480;223;bonifico
+1395;33885;537;693;assegno
+1396;21290;262;541;bonifico
+1397;38434;430;815;bonifico
+1398;545;460;737;contante
+1399;18065;282;489;assegno
+1400;37900;623;601;bonifico
+1401;975;313;;carta di credito
+1402;41465;647;732;bonifico
+1403;21225;5;187;bonifico
+1404;40525;407;157;bonifico
+1405;4200;209;406;bonifico
+1406;165;272;778;contante
+1407;3050;241;948;assegno
+1408;13635;290;220;assegno
+1409;17695;27;88;assegno
+1410;290;718;154;contante
+1411;20865;288;30;bonifico
+1412;5120;437;525;bonifico
+1413;525;879;;carta di credito
+1414;19265;363;851;bonifico
+1415;6580;464;228;assegno
+1416;15750;745;798;assegno
+1417;23180;156;304;bonifico
+1418;360;908;220;contante
+1419;11344;741;361;bonifico
+1420;35552;980;810;bonifico
+1421;29480;818;845;bonifico
+1422;435;477;598;contante
+1423;965;262;;carta di credito
+1424;295;636;504;contante
+1425;18505;579;183;bonifico
+1426;37520;86;283;assegno
+1427;615;31;603;contante
+1428;287;25;169;contante
+1429;17545;928;437;assegno
+1430;17160;227;776;assegno
+1431;19525;197;401;assegno
+1432;222;41;636;contante
+1433;672;455;;carta di credito
+1434;470;983;;carta di credito
+1435;255;896;57;contante
+1436;24430;250;815;bonifico
+1437;365;711;;carta di credito
+1438;295;566;699;contante
+1439;6903;240;397;bonifico
+1440;625;99;;carta di credito
+1441;12250;434;421;assegno
+1442;18945;622;793;assegno
+1443;230;663;18;contante
+1444;910;991;;carta di credito
+1445;17420;334;582;assegno
+1446;10441;665;102;bonifico
+1447;430;506;;carta di credito
+1448;24160;716;473;assegno
+1449;5945;303;940;bonifico
+1450;380;670;;carta di credito
+1451;28455;164;421;bonifico
+1452;10955;791;729;assegno
+1453;25155;977;610;bonifico
+1454;24530;806;840;bonifico
+1455;17625;858;308;bonifico
+1456;755;770;815;contante
+1457;14865;693;254;bonifico
+1458;230;211;;carta di credito
+1459;16245;867;433;assegno
+1460;30720;699;311;assegno
+1461;1000;754;;carta di credito
+1462;29650;991;574;bonifico
+1463;9763;249;885;assegno
+1464;616;162;;carta di credito
+1465;28475;739;568;bonifico
+1466;1290;46;;carta di credito
+1467;1370;548;;carta di credito
+1468;30050;128;68;assegno
+1469;70460;152;453;assegno
+1470;420;394;;carta di credito
+1471;42510;441;577;assegno
+1472;15074;626;379;assegno
+1473;795;680;;carta di credito
+1474;20200;441;691;assegno
+1475;10235;506;348;assegno
+1476;300;438;953;contante
+1477;285;16;;carta di credito
+1478;410;608;889;contante
+1479;23065;91;291;bonifico
+1480;13575;674;907;assegno
+1481;365;334;;carta di credito
+1482;24740;811;19;assegno
+1483;325;568;;carta di credito
+1484;150;791;787;contante
+1485;26117;906;664;bonifico
+1486;16515;344;640;assegno
+1487;165;829;90;contante
+1488;18640;850;873;bonifico
+1489;35525;637;915;bonifico
+1490;382;417;;carta di credito
+1491;2170;747;254;bonifico
+1492;19560;823;802;bonifico
+1493;14114;512;679;assegno
+1494;1080;690;;carta di credito
+1495;570;352;320;contante
+1496;282;566;;carta di credito
+1497;4005;672;861;bonifico
+1498;225;263;;carta di credito
+1499;324;207;;carta di credito
+1500;20715;872;308;assegno
+1501;47495;14;128;bonifico
+1502;9600;301;456;bonifico
+1503;9425;476;699;assegno
+1504;17400;289;778;bonifico
+1505;18015;217;719;bonifico
+1506;18607;749;299;assegno
+1507;985;966;46;bonifico
+1508;12050;171;332;assegno
+1509;6390;125;246;assegno
+1510;21957;829;786;assegno
+1511;39965;134;15;bonifico
+1512;379;623;;carta di credito
+1513;340;666;403;contante
+1514;11730;367;443;assegno
+1515;20910;125;669;bonifico
+1516;19140;455;697;assegno
+1517;15180;311;943;bonifico
+1518;54790;760;130;bonifico
+1519;9490;289;956;bonifico
+1520;24035;713;993;bonifico
+1521;955;344;;carta di credito
+1522;11190;317;78;assegno
+1523;400;858;338;contante
+1524;33630;394;497;assegno
+1525;7285;302;633;assegno
+1526;29150;1000;32;bonifico
+1527;11816;602;644;bonifico
+1528;720;577;376;contante
+1529;710;797;;carta di credito
+1530;25890;583;338;bonifico
+1531;7850;476;132;assegno
+1532;13496;128;252;assegno
+1533;27650;143;22;assegno
+1534;24405;38;24;bonifico
+1535;885;527;;carta di credito
+1536;1494;963;;carta di credito
+1537;13345;773;7;bonifico
+1538;25460;690;837;bonifico
+1539;11232;686;928;bonifico
+1540;535;331;;carta di credito
+1541;22495;692;872;bonifico
+1542;885;858;;carta di credito
+1543;9350;321;937;bonifico
+1544;25465;747;191;bonifico
+1545;92418;417;784;bonifico
+1546;3175;591;375;bonifico
+1547;14390;15;124;assegno
+1548;7805;757;838;assegno
+1549;1085;907;;carta di credito
+1550;15335;29;92;assegno
+1551;4511;372;465;bonifico
+1552;42160;716;710;bonifico
+1553;16925;50;843;assegno
+1554;3320;936;675;assegno
+1555;37915;236;824;assegno
+1556;1095;988;;carta di credito
+1557;1980;599;;carta di credito
+1558;27495;631;645;bonifico
+1559;615;254;;carta di credito
+1560;5715;32;725;assegno
+1561;18330;356;194;assegno
+1562;11770;475;101;bonifico
+1563;15635;262;626;bonifico
+1564;535;416;;carta di credito
+1565;24095;736;98;bonifico
+1566;26020;321;574;assegno
+1567;605;276;;carta di credito
+1568;31295;124;275;assegno
+1569;41610;717;842;bonifico
+1570;20235;527;50;bonifico
+1571;8660;907;169;bonifico
+1572;3720;167;289;bonifico
+1573;950;662;;carta di credito
+1574;910;138;;carta di credito
+1575;12923;24;938;assegno
+1576;3775;591;818;assegno
+1577;44425;455;885;bonifico
+1578;38355;543;575;assegno
+1579;32430;683;338;assegno
+1580;620;854;;carta di credito
+1581;27420;165;940;assegno
+1582;12100;410;305;assegno
+1583;685;451;;carta di credito
+1584;905;807;;carta di credito
+1585;6210;683;640;bonifico
+1586;34530;426;13;bonifico
+1587;31765;152;500;assegno
+1588;27420;275;128;bonifico
+1589;150;277;;carta di credito
+1590;690;753;;carta di credito
+1591;8442;904;732;bonifico
+1592;15930;38;188;assegno
+1593;15610;755;961;bonifico
+1594;27999;99;127;bonifico
+1595;8010;726;738;bonifico
+1596;19149;227;475;assegno
+1597;22715;733;696;bonifico
+1598;6565;230;559;bonifico
+1599;11660;691;365;bonifico
+1600;45575;244;642;bonifico
+1601;135;617;653;contante
+1602;20250;294;441;bonifico
+1603;17115;5;846;bonifico
+1604;15370;325;709;assegno
+1605;2490;255;8;assegno
+1606;20550;657;620;bonifico
+1607;195;533;199;contante
+1608;8025;217;239;bonifico
+1609;17760;478;128;bonifico
+1610;10620;222;15;bonifico
+1611;265;749;;carta di credito
+1612;8845;489;772;assegno
+1613;1315;953;;carta di credito
+1614;195;749;794;contante
+1615;18760;387;437;bonifico
+1616;29745;690;479;bonifico
+1617;23155;935;95;assegno
+1618;15585;259;253;bonifico
+1619;42315;830;252;bonifico
+1620;9760;641;437;bonifico
+1621;27285;767;484;bonifico
+1622;17845;18;253;assegno
+1623;11535;507;708;bonifico
+1624;7765;530;73;assegno
+1625;3755;112;597;bonifico
+1626;20995;822;931;bonifico
+1627;30120;670;458;bonifico
+1628;2255;829;615;bonifico
+1629;27425;427;891;bonifico
+1630;592;521;;carta di credito
+1631;210;647;248;contante
+1632;4405;868;859;assegno
+1633;28200;486;409;assegno
+1634;4525;891;12;bonifico
+1635;195;503;31;contante
+1636;319;534;;carta di credito
+1637;11450;184;579;bonifico
+1638;1010;430;896;assegno
+1639;5005;656;308;assegno
+1640;22560;794;512;assegno
+1641;20130;633;108;bonifico
+1642;14525;837;219;bonifico
+1643;440;407;;carta di credito
+1644;240;697;;carta di credito
+1645;230;250;736;contante
+1646;9665;920;213;bonifico
+1647;24040;769;406;assegno
+1648;14260;449;861;assegno
+1649;24741;421;651;bonifico
+1650;430;903;884;contante
+1651;28130;338;986;bonifico
+1652;568;898;909;contante
+1653;995;213;;carta di credito
+1654;28409;695;187;bonifico
+1655;6665;235;4;bonifico
+1656;760;908;;carta di credito
+1657;83437;598;933;assegno
+1658;28320;575;735;bonifico
+1659;29315;320;197;assegno
+1660;24215;348;817;bonifico
+1661;545;330;;carta di credito
+1662;25405;523;407;bonifico
+1663;18490;111;891;bonifico
+1664;12250;432;116;bonifico
+1665;895;561;;carta di credito
+1666;4855;682;883;bonifico
+1667;4190;113;78;assegno
+1668;205;437;;carta di credito
+1669;15290;573;808;bonifico
+1670;10064;202;961;bonifico
+1671;58964;957;339;assegno
+1672;225;247;943;contante
+1673;24700;429;813;assegno
+1674;51495;52;646;bonifico
+1675;19945;381;708;bonifico
+1676;365;252;;carta di credito
+1677;28010;969;188;bonifico
+1678;705;676;;carta di credito
+1679;18080;777;454;assegno
+1680;515;366;145;assegno
+1681;12640;67;822;bonifico
+1682;26055;898;446;bonifico
+1683;376;306;;carta di credito
+1684;315;800;;carta di credito
+1685;10350;485;241;bonifico
+1686;935;396;;carta di credito
+1687;25650;6;743;assegno
+1688;28270;661;716;assegno
+1689;3420;766;722;bonifico
+1690;6885;545;713;assegno
+1691;965;390;;carta di credito
+1692;13501;143;430;bonifico
+1693;1205;513;;carta di credito
+1694;13177;173;127;bonifico
+1695;40275;289;104;assegno
+1696;19015;997;500;bonifico
+1697;13970;988;309;bonifico
+1698;490;719;;carta di credito
+1699;14100;611;903;assegno
+1700;235;677;961;contante
+1701;17220;708;525;assegno
+1702;775;858;;carta di credito
+1703;9812;782;999;bonifico
+1704;13440;708;806;assegno
+1705;13985;856;113;assegno
+1706;325;587;;carta di credito
+1707;37395;601;39;bonifico
+1708;460;413;;carta di credito
+1709;7920;453;860;bonifico
+1710;120;46;956;contante
+1711;7690;346;425;bonifico
+1712;41741;578;267;bonifico
+1713;7500;672;712;assegno
+1714;41240;274;369;bonifico
+1715;151;416;93;contante
+1716;19160;450;55;assegno
+1717;6696;429;637;bonifico
+1718;8272;533;98;assegno
+1719;383;116;757;contante
+1720;11162;244;920;bonifico
+1721;39265;444;665;assegno
+1722;14410;369;764;bonifico
+1723;359;917;867;contante
+1724;3885;569;418;bonifico
+1725;17520;282;887;bonifico
+1726;8345;957;271;bonifico
+1727;310;783;472;contante
+1728;20962;812;94;bonifico
+1729;280;601;;carta di credito
+1730;20440;646;542;assegno
+1731;150;172;;carta di credito
+1732;265;871;619;contante
+1733;6825;484;950;bonifico
+1734;11095;766;508;bonifico
+1735;585;585;290;contante
+1736;10185;217;43;assegno
+1737;12195;681;675;assegno
+1738;10015;824;536;assegno
+1739;13517;888;264;bonifico
+1740;545;237;;carta di credito
+1741;480;982;;carta di credito
+1742;395;342;256;contante
+1743;15450;921;593;assegno
+1744;24820;35;917;bonifico
+1745;20780;110;554;assegno
+1746;11020;537;941;assegno
+1747;8285;623;120;bonifico
+1748;310;926;;carta di credito
+1749;22709;796;39;bonifico
+1750;315;281;;carta di credito
+1751;17580;782;60;bonifico
+1752;315;292;;carta di credito
+1753;20570;647;602;assegno
+1754;14515;432;400;bonifico
+1755;10440;408;900;assegno
+1756;835;703;;carta di credito
+1757;43245;342;527;bonifico
+1758;21090;918;802;bonifico
+1759;3940;707;993;bonifico
+1760;9205;309;603;bonifico
+1761;1870;617;;carta di credito
+1762;879;172;;carta di credito
+1763;51925;318;502;bonifico
+1764;455;147;;carta di credito
+1765;6220;377;827;assegno
+1766;16345;593;976;bonifico
+1767;35850;778;304;bonifico
+1768;19510;974;544;bonifico
+1769;15266;443;394;bonifico
+1770;20240;697;452;bonifico
+1771;20125;95;823;assegno
+1772;12150;206;210;bonifico
+1773;13025;648;311;bonifico
+1774;14135;330;177;bonifico
+1775;27290;267;963;bonifico
+1776;620;551;;carta di credito
+1777;8419;316;644;assegno
+1778;43285;220;216;assegno
+1779;11455;549;837;bonifico
+1780;17245;8;709;assegno
+1781;695;272;;carta di credito
+1782;325;300;;carta di credito
+1783;1450;419;;carta di credito
+1784;28115;867;776;bonifico
+1785;300;818;;carta di credito
+1786;14511;904;911;assegno
+1787;300;562;670;contante
+1788;12280;564;580;assegno
+1789;9137;227;272;bonifico
+1790;585;665;;carta di credito
+1791;36995;248;919;bonifico
+1792;6205;679;497;bonifico
+1793;7405;289;193;bonifico
+1794;22650;906;722;bonifico
+1795;23495;735;927;bonifico
+1796;28000;82;120;bonifico
+1797;9375;420;448;bonifico
+1798;385;709;;carta di credito
+1799;158;642;254;contante
+1800;585;962;216;contante
+1801;19435;281;475;bonifico
+1802;13545;232;654;assegno
+1803;20565;806;675;bonifico
+1804;66433;139;993;assegno
+1805;13130;641;776;assegno
+1806;6579;888;242;bonifico
+1807;4320;643;931;bonifico
+1808;1365;462;574;bonifico
+1809;34471;553;320;assegno
+1810;8485;321;334;assegno
+1811;4100;283;187;assegno
+1812;41238;128;276;assegno
+1813;40575;701;421;assegno
+1814;24026;766;591;bonifico
+1815;32850;912;460;assegno
+1816;45105;646;349;bonifico
+1817;1330;263;;carta di credito
+1818;320;409;;carta di credito
+1819;37901;1000;228;bonifico
+1820;260;904;697;contante
+1821;3785;181;424;assegno
+1822;368;84;593;contante
+1823;553;410;;carta di credito
+1824;150;373;;carta di credito
+1825;830;298;;carta di credito
+1826;355;395;717;contante
+1827;37580;46;137;bonifico
+1828;23118;294;900;bonifico
+1829;11230;158;398;assegno
+1830;150;424;114;contante
+1831;24525;158;333;bonifico
+1832;250;623;662;contante
+1833;205;952;232;contante
+1834;240;342;;carta di credito
+1835;195;1;;carta di credito
+1836;16095;944;331;assegno
+1837;390;283;;carta di credito
+1838;225;646;655;contante
+1839;200;124;608;contante
+1840;2400;718;288;bonifico
+1841;33810;136;528;assegno
+1842;10040;29;733;bonifico
+1843;26645;571;846;assegno
+1844;49695;919;755;bonifico
+1845;30294;763;256;bonifico
+1846;385;561;333;contante
+1847;4940;247;470;bonifico
+1848;1485;820;183;assegno
+1849;2385;168;;carta di credito
+1850;27095;139;660;bonifico
+1851;26695;679;851;assegno
+1852;370;966;788;contante
+1853;39835;692;351;assegno
+1854;430;16;;carta di credito
+1855;2785;510;19;bonifico
+1856;13165;813;303;assegno
+1857;44497;909;655;bonifico
+1858;180;182;51;contante
+1859;14770;672;463;bonifico
+1860;17305;222;4;assegno
+1861;53031;158;969;bonifico
+1862;370;580;296;contante
+1863;515;665;;carta di credito
+1864;3665;33;575;bonifico
+1865;24622;664;812;assegno
+1866;20785;679;521;assegno
+1867;500;203;;carta di credito
+1868;18195;330;934;bonifico
+1869;365;457;351;contante
+1870;345;185;375;contante
+1871;31300;974;839;bonifico
+1872;28510;242;612;bonifico
+1873;16449;805;83;bonifico
+1874;925;989;;carta di credito
+1875;330;642;;carta di credito
+1876;19900;830;346;assegno
+1877;45360;226;71;bonifico
+1878;403;485;;carta di credito
+1879;4525;711;556;bonifico
+1880;9245;738;294;assegno
+1881;22315;70;392;bonifico
+1882;66510;81;132;assegno
+1883;5165;711;731;bonifico
+1884;225;301;758;contante
+1885;36595;437;57;bonifico
+1886;24040;921;112;bonifico
+1887;10315;624;481;assegno
+1888;18585;102;806;assegno
+1889;270;791;;carta di credito
+1890;9275;798;192;bonifico
+1891;18180;20;379;bonifico
+1892;43015;898;763;assegno
+1893;6495;532;55;bonifico
+1894;499;146;;carta di credito
+1895;3225;410;403;assegno
+1896;8680;1;78;bonifico
+1897;31016;127;384;assegno
+1898;41832;754;489;assegno
+1899;20795;669;675;bonifico
+1900;140;216;541;contante
+1901;18700;958;376;bonifico
+1902;1360;181;;carta di credito
+1903;15065;822;603;assegno
+1904;500;478;839;contante
+1905;250;190;;carta di credito
+1906;7120;318;845;bonifico
+1907;10010;95;842;bonifico
+1908;3285;903;214;assegno
+1909;30515;966;792;assegno
+1910;501;610;;carta di credito
+1911;13455;781;363;bonifico
+1912;17420;287;381;bonifico
+1913;8495;557;516;bonifico
+1914;4569;300;600;assegno
+1915;19240;377;827;assegno
+1916;1420;84;;carta di credito
+1917;8465;884;734;bonifico
+1918;740;959;;carta di credito
+1919;14200;841;624;bonifico
+1920;2510;373;35;assegno
+1921;11425;209;101;assegno
+1922;464;813;590;contante
+1923;18797;811;957;bonifico
+1924;5792;673;225;bonifico
+1925;15810;877;757;assegno
+1926;11433;318;811;bonifico
+1927;660;39;;carta di credito
+1928;280;91;;carta di credito
+1929;115;133;811;contante
+1930;1790;765;202;bonifico
+1931;2935;313;12;bonifico
+1932;990;303;;carta di credito
+1933;9896;238;725;bonifico
+1934;4115;661;295;assegno
+1935;30720;407;202;bonifico
+1936;17225;393;28;assegno
+1937;40910;592;642;assegno
+1938;6770;595;901;assegno
+1939;8585;856;244;bonifico
+1940;1245;354;260;assegno
+1941;19810;719;859;bonifico
+1942;18740;846;786;assegno
+1943;23526;682;663;bonifico
+1944;15350;895;253;bonifico
+1945;11125;313;53;bonifico
+1946;28100;559;813;assegno
+1947;19446;601;524;bonifico
+1948;31010;595;674;assegno
+1949;370;373;;carta di credito
+1950;47060;620;794;assegno
+1951;330;880;;carta di credito
+1952;41740;820;213;assegno
+1953;21620;330;953;bonifico
+1954;39910;549;808;assegno
+1955;19860;300;595;assegno
+1956;22815;455;904;assegno
+1957;21575;119;171;assegno
+1958;265;545;;carta di credito
+1959;5360;801;127;assegno
+1960;13320;611;388;bonifico
+1961;14155;115;778;assegno
+1962;466;626;7;contante
+1963;20670;891;506;assegno
+1964;5710;55;22;assegno
+1965;25900;665;322;bonifico
+1966;16195;241;419;bonifico
+1967;1370;937;;carta di credito
+1968;5165;651;252;bonifico
+1969;20392;837;213;bonifico
+1970;1680;947;;carta di credito
+1971;223;345;285;contante
+1972;158;872;;carta di credito
+1973;430;469;198;contante
+1974;19175;943;919;assegno
+1975;10810;460;726;bonifico
+1976;2750;14;342;assegno
+1977;21620;602;943;assegno
+1978;8045;985;238;assegno
+1979;4037;472;594;bonifico
+1980;8925;510;612;bonifico
+1981;29860;947;763;assegno
+1982;15230;888;405;bonifico
+1983;34175;692;94;bonifico
+1984;10560;186;59;assegno
+1985;18560;283;585;assegno
+1986;855;228;348;contante
+1987;26105;9;480;bonifico
+1988;56230;93;910;bonifico
+1989;5540;5;454;assegno
+1990;21315;154;814;assegno
+1991;13052;816;724;bonifico
+1992;725;815;;carta di credito
+1993;30365;310;254;bonifico
+1994;400;369;;carta di credito
+1995;23980;448;654;bonifico
+1996;1990;796;481;assegno
+1997;31705;856;432;assegno
+1998;45240;86;534;bonifico
+1999;25185;939;974;bonifico
+2000;42966;255;120;bonifico
+2001;8725;956;358;assegno
+2002;13910;450;615;bonifico
+2003;3895;51;372;bonifico
+2004;20805;700;600;bonifico
+2005;22108;561;177;assegno
+2006;485;551;;carta di credito
+2007;14388;338;766;assegno
+2008;18796;442;64;assegno
+2009;63720;963;903;assegno
+2010;4385;869;397;assegno
+2011;33475;39;308;assegno
+2012;27589;174;577;bonifico
+2013;485;569;;carta di credito
+2014;1415;384;;carta di credito
+2015;340;481;487;contante
+2016;5090;182;118;bonifico
+2017;620;346;138;contante
+2018;1176;177;;carta di credito
+2019;23710;918;758;bonifico
+2020;2190;896;568;bonifico
+2021;260;888;;carta di credito
+2022;15752;731;917;bonifico
+2023;21695;402;676;bonifico
+2024;33465;152;840;assegno
+2025;8620;877;261;bonifico
+2026;13145;106;833;bonifico
+2027;580;798;2;contante
+2028;935;297;;carta di credito
+2029;25865;646;930;assegno
+2030;26995;211;768;bonifico
+2031;46755;62;559;bonifico
+2032;160;804;938;contante
+2033;16528;736;96;bonifico
+2034;18060;640;3;bonifico
+2035;535;448;;carta di credito
+2036;15449;530;889;assegno
+2037;175;829;670;contante
+2038;7085;829;241;assegno
+2039;20925;744;816;assegno
+2040;6495;255;656;bonifico
+2041;41380;497;18;assegno
+2042;29940;971;735;bonifico
+2043;725;765;;carta di credito
+2044;10765;105;931;assegno
+2045;14280;313;911;bonifico
+2046;26215;320;692;assegno
+2047;53380;153;977;assegno
+2048;61530;418;991;assegno
+2049;21190;197;237;assegno
+2050;300;5;;carta di credito
+2051;310;591;4;contante
+2052;15985;333;177;bonifico
+2053;269;152;901;contante
+2054;17831;473;818;assegno
+2055;17000;276;512;bonifico
+2056;495;791;367;contante
+2057;3440;539;598;assegno
+2058;315;985;;carta di credito
+2059;782;907;;carta di credito
+2060;12425;24;981;bonifico
+2061;7525;840;716;assegno
+2062;205;943;183;contante
+2063;28870;617;323;bonifico
+2064;9925;546;274;bonifico
+2065;15290;546;489;assegno
+2066;28587;14;277;assegno
+2067;12185;261;749;bonifico
+2068;11610;195;358;assegno
+2069;5810;122;650;bonifico
+2070;12900;367;933;assegno
+2071;15545;875;724;bonifico
+2072;10995;72;670;assegno
+2073;560;34;;carta di credito
+2074;64780;711;870;bonifico
+2075;11325;850;489;assegno
+2076;21095;143;505;bonifico
+2077;19770;470;197;bonifico
+2078;26659;38;112;assegno
+2079;555;958;;carta di credito
+2080;15905;85;275;bonifico
+2081;225;354;502;contante
+2082;420;670;;carta di credito
+2083;977;365;;carta di credito
+2084;12245;672;839;assegno
+2085;16720;949;768;assegno
+2086;8378;490;174;assegno
+2087;7325;178;176;bonifico
+2088;505;962;650;contante
+2089;460;856;;carta di credito
+2090;18225;535;287;bonifico
+2091;14275;670;875;bonifico
+2092;51315;485;433;bonifico
+2093;17275;979;247;assegno
+2094;245;228;;carta di credito
+2095;30021;624;678;bonifico
+2096;255;926;;carta di credito
+2097;16956;770;358;bonifico
+2098;4975;946;666;bonifico
+2099;2519;529;984;bonifico
+2100;280;675;;carta di credito
+2101;8515;209;958;bonifico
+2102;5150;294;471;bonifico
+2103;29080;861;599;assegno
+2104;16540;979;888;assegno
+2105;21295;364;655;bonifico
+2106;14345;34;94;bonifico
+2107;560;498;;carta di credito
+2108;8945;682;970;assegno
+2109;17402;393;271;assegno
+2110;15930;307;329;bonifico
+2111;170;56;639;contante
+2112;3249;739;74;bonifico
+2113;45635;541;619;bonifico
+2114;18435;643;200;assegno
+2115;20110;227;998;assegno
+2116;2090;273;811;assegno
+2117;12350;541;20;bonifico
+2118;19725;259;536;assegno
+2119;9515;533;37;bonifico
+2120;330;218;90;contante
+2121;3183;99;139;assegno
+2122;6240;664;581;bonifico
+2123;1170;414;;carta di credito
+2124;19259;246;953;bonifico
+2125;535;672;;carta di credito
+2126;33905;702;754;bonifico
+2127;160;654;453;contante
+2128;11260;453;922;bonifico
+2129;440;907;768;contante
+2130;7990;258;981;bonifico
+2131;29455;772;868;assegno
+2132;502;378;549;contante
+2133;405;948;;carta di credito
+2134;532;845;;carta di credito
+2135;26605;413;228;assegno
+2136;9460;278;102;bonifico
+2137;8573;781;291;bonifico
+2138;160;358;982;contante
+2139;12090;369;994;bonifico
+2140;56960;847;173;assegno
+2141;17940;547;40;bonifico
+2142;4633;719;416;bonifico
+2143;30365;450;703;bonifico
+2144;365;128;;carta di credito
+2145;25840;51;135;bonifico
+2146;300;18;;carta di credito
+2147;17410;959;339;assegno
+2148;302;642;506;contante
+2149;630;842;254;contante
+2150;17120;181;666;bonifico
+2151;9560;442;555;bonifico
+2152;345;702;;carta di credito
+2153;434;237;;carta di credito
+2154;16005;134;212;assegno
+2155;565;988;;carta di credito
+2156;12057;321;525;bonifico
+2157;480;14;;carta di credito
+2158;295;185;506;contante
+2159;23910;804;373;bonifico
+2160;21340;688;521;bonifico
+2161;31285;222;339;bonifico
+2162;16632;139;864;assegno
+2163;4850;246;882;bonifico
+2164;16290;601;316;assegno
+2165;14070;898;419;assegno
+2166;27902;591;666;assegno
+2167;140;243;567;contante
+2168;305;911;116;contante
+2169;25095;116;588;assegno
+2170;9360;674;856;assegno
+2171;72165;18;93;assegno
+2172;740;578;;carta di credito
+2173;14635;83;738;assegno
+2174;270;713;17;contante
+2175;985;638;;carta di credito
+2176;5240;428;683;bonifico
+2177;17280;413;904;assegno
+2178;57090;846;850;assegno
+2179;4775;735;104;assegno
+2180;11335;904;764;assegno
+2181;11355;795;822;bonifico
+2182;5190;888;661;bonifico
+2183;39750;417;913;assegno
+2184;270;856;651;contante
+2185;17030;423;247;bonifico
+2186;270;548;;carta di credito
+2187;491;71;674;contante
+2188;7455;260;193;assegno
+2189;16765;209;809;assegno
+2190;870;46;;carta di credito
+2191;270;989;736;contante
+2192;860;829;;carta di credito
+2193;1600;129;;carta di credito
+2194;320;680;;carta di credito
+2195;380;809;829;contante
+2196;20450;503;755;assegno
+2197;7645;865;164;bonifico
+2198;54555;779;220;bonifico
+2199;3370;805;807;bonifico
+2200;10270;191;219;assegno
+2201;393;519;;carta di credito
+2202;4875;471;580;bonifico
+2203;24875;73;937;assegno
+2204;5117;191;557;assegno
+2205;5015;421;406;assegno
+2206;21630;947;387;bonifico
+2207;24875;667;508;bonifico
+2208;140;464;;carta di credito
+2209;5235;94;905;bonifico
+2210;25145;217;621;bonifico
+2211;9990;857;897;bonifico
+2212;10425;51;947;bonifico
+2213;19517;133;79;assegno
+2214;285;975;120;contante
+2215;14340;817;747;assegno
+2216;73173;31;821;bonifico
+2217;7965;662;170;bonifico
+2218;5580;168;555;assegno
+2219;9685;88;837;assegno
+2220;830;763;;carta di credito
+2221;35190;568;736;bonifico
+2222;209;62;584;contante
+2223;13405;340;207;bonifico
+2224;13870;571;114;assegno
+2225;15505;957;735;bonifico
+2226;17685;226;905;bonifico
+2227;11955;130;565;bonifico
+2228;5350;82;578;assegno
+2229;28850;962;30;bonifico
+2230;21765;713;735;bonifico
+2231;19280;279;314;assegno
+2232;54230;199;676;assegno
+2233;4315;767;372;bonifico
+2234;59768;524;633;assegno
+2235;985;730;;carta di credito
+2236;25026;102;704;assegno
+2237;10430;598;871;assegno
+2238;13575;908;577;assegno
+2239;31900;321;593;bonifico
+2240;999;575;;carta di credito
+2241;510;759;949;bonifico
+2242;4170;952;813;assegno
+2243;17910;995;444;assegno
+2244;1605;116;;carta di credito
+2245;290;418;;carta di credito
+2246;23860;683;660;assegno
+2247;312;74;;carta di credito
+2248;26585;440;344;bonifico
+2249;37906;101;355;bonifico
+2250;17925;628;855;assegno
+2251;7510;421;890;assegno
+2252;1900;994;35;bonifico
+2253;18245;713;182;bonifico
+2254;19145;612;806;assegno
+2255;36660;482;679;bonifico
+2256;4055;747;323;bonifico
+2257;770;281;;carta di credito
+2258;17655;555;339;bonifico
+2259;44605;513;927;assegno
+2260;10605;424;581;bonifico
+2261;40155;443;236;bonifico
+2262;37790;852;724;bonifico
+2263;1036;966;;carta di credito
+2264;9505;438;5;bonifico
+2265;6200;779;770;bonifico
+2266;950;67;;carta di credito
+2267;13472;450;271;assegno
+2268;25485;766;128;assegno
+2269;900;538;;carta di credito
+2270;20490;625;995;bonifico
+2271;20430;57;523;bonifico
+2272;16986;124;260;bonifico
+2273;36035;413;273;assegno
+2274;1385;390;;carta di credito
+2275;8145;908;724;bonifico
+2276;43341;777;503;bonifico
+2277;14075;534;507;bonifico
+2278;365;862;943;contante
+2279;24560;62;889;bonifico
+2280;61310;957;562;bonifico
+2281;6855;262;590;assegno
+2282;5170;543;397;bonifico
+2283;356;416;;carta di credito
+2284;27395;470;59;bonifico
+2285;34875;921;356;bonifico
+2286;1295;962;;carta di credito
+2287;415;635;722;contante
+2288;137;575;320;contante
+2289;160;236;336;contante
+2290;685;666;;carta di credito
+2291;18360;674;169;assegno
+2292;510;466;642;contante
+2293;30985;70;787;bonifico
+2294;440;810;;carta di credito
+2295;42610;314;528;assegno
+2296;570;438;713;contante
+2297;37845;406;262;assegno
+2298;21020;185;926;assegno
+2299;20604;899;569;bonifico
+2300;340;858;265;contante
+2301;38430;125;128;bonifico
+2302;365;871;17;contante
+2303;185;179;99;contante
+2304;120;886;;carta di credito
+2305;205;745;278;contante
+2306;1790;570;563;bonifico
+2307;350;545;;carta di credito
+2308;23750;309;83;bonifico
+2309;41940;848;555;bonifico
+2310;19980;390;585;bonifico
+2311;645;134;;carta di credito
+2312;1168;57;19;bonifico
+2313;601;419;;carta di credito
+2314;330;162;;carta di credito
+2315;44689;430;974;bonifico
+2316;25596;301;601;assegno
+2317;4300;21;754;assegno
+2318;265;429;;carta di credito
+2319;595;193;467;contante
+2320;610;68;534;contante
+2321;4133;319;710;bonifico
+2322;34620;913;735;bonifico
+2323;29875;661;95;assegno
+2324;19665;318;744;bonifico
+2325;17081;184;580;bonifico
+2326;43465;716;763;assegno
+2327;18030;261;93;bonifico
+2328;21155;964;7;assegno
+2329;1495;469;;carta di credito
+2330;8875;450;473;bonifico
+2331;9980;580;415;bonifico
+2332;170;682;319;contante
+2333;2235;559;985;bonifico
+2334;12310;3;916;bonifico
+2335;1140;321;229;bonifico
+2336;15210;621;974;bonifico
+2337;19157;226;445;bonifico
+2338;34080;306;309;bonifico
+2339;375;760;;carta di credito
+2340;20742;342;742;bonifico
+2341;13290;774;657;bonifico
+2342;40785;137;256;bonifico
+2343;16100;894;349;assegno
+2344;7105;647;214;bonifico
+2345;11020;495;159;bonifico
+2346;500;826;264;contante
+2347;420;155;;carta di credito
+2348;17000;412;52;bonifico
+2349;12835;298;78;bonifico
+2350;205;102;;carta di credito
+2351;465;686;;carta di credito
+2352;430;141;;carta di credito
+2353;46150;858;369;assegno
+2354;689;179;;carta di credito
+2355;208;530;323;contante
+2356;897;84;;carta di credito
+2357;2790;617;800;bonifico
+2358;5480;239;46;assegno
+2359;1590;1000;;carta di credito
+2360;370;835;;carta di credito
+2361;4075;233;320;assegno
+2362;25890;617;654;bonifico
+2363;315;741;878;contante
+2364;14270;408;998;bonifico
+2365;1285;171;848;bonifico
+2366;38335;577;42;bonifico
+2367;1245;804;;carta di credito
+2368;12390;331;937;assegno
+2369;10095;252;840;assegno
+2370;15180;795;667;bonifico
+2371;44874;990;776;bonifico
+2372;27415;863;736;bonifico
+2373;1990;482;867;bonifico
+2374;18295;860;908;bonifico
+2375;3605;920;17;assegno
+2376;475;560;;carta di credito
+2377;200;16;;carta di credito
+2378;24480;597;70;assegno
+2379;7868;922;178;bonifico
+2380;12920;535;27;assegno
+2381;19775;292;141;assegno
+2382;13185;71;680;assegno
+2383;360;713;;carta di credito
+2384;285;541;762;contante
+2385;375;651;;carta di credito
+2386;9675;989;271;bonifico
+2387;23370;598;583;assegno
+2388;1160;891;;carta di credito
+2389;6080;525;569;bonifico
+2390;361;117;692;contante
+2391;6965;905;535;assegno
+2392;885;591;;carta di credito
+2393;35650;718;74;bonifico
+2394;23466;448;557;assegno
+2395;19535;796;872;bonifico
+2396;285;955;689;contante
+2397;7145;82;451;assegno
+2398;25618;202;247;bonifico
+2399;7420;499;127;assegno
+2400;630;272;;carta di credito
+2401;14525;276;553;bonifico
+2402;23065;252;630;assegno
+2403;6810;662;889;bonifico
+2404;415;909;1000;contante
+2405;735;847;;carta di credito
+2406;582;30;;carta di credito
+2407;10195;699;157;bonifico
+2408;16545;767;227;bonifico
+2409;375;772;;carta di credito
+2410;10056;62;288;bonifico
+2411;39152;31;332;assegno
+2412;13210;139;517;bonifico
+2413;980;247;;carta di credito
+2414;8830;477;853;assegno
+2415;425;45;;carta di credito
+2416;305;476;291;contante
+2417;29502;708;748;assegno
+2418;5015;167;594;assegno
+2419;17405;334;807;assegno
+2420;745;991;;carta di credito
+2421;28215;417;521;assegno
+2422;305;615;447;contante
+2423;475;437;;carta di credito
+2424;15905;651;830;assegno
+2425;6298;920;369;assegno
+2426;340;289;;carta di credito
+2427;5454;579;636;assegno
+2428;12110;473;689;assegno
+2429;16285;369;833;bonifico
+2430;4725;572;64;bonifico
+2431;15400;900;750;bonifico
+2432;3034;182;295;bonifico
+2433;240;154;;carta di credito
+2434;10390;238;717;assegno
+2435;5715;353;593;assegno
+2436;545;994;;carta di credito
+2437;17900;48;226;bonifico
+2438;440;987;;carta di credito
+2439;275;232;;carta di credito
+2440;26720;66;332;bonifico
+2441;14155;546;74;assegno
+2442;400;355;;carta di credito
+2443;13355;420;405;bonifico
+2444;615;653;187;contante
+2445;225;855;;carta di credito
+2446;12539;571;821;assegno
+2447;14225;268;73;bonifico
+2448;19790;507;155;assegno
+2449;18390;681;662;assegno
+2450;195;129;;carta di credito
+2451;14672;800;919;bonifico
+2452;1812;807;95;assegno
+2453;338;957;631;contante
+2454;13533;395;662;assegno
+2455;6465;996;741;assegno
+2456;2010;29;256;assegno
+2457;1600;664;463;assegno
+2458;14745;77;787;bonifico
+2459;1092;548;;carta di credito
+2460;275;761;729;contante
+2461;42980;483;432;bonifico
+2462;7660;730;919;bonifico
+2463;3320;375;853;bonifico
+2464;60045;639;913;bonifico
+2465;555;804;;carta di credito
+2466;855;868;;carta di credito
+2467;6835;410;531;bonifico
+2468;172;777;;carta di credito
+2469;950;839;;carta di credito
+2470;20954;714;867;assegno
+2471;37770;666;381;bonifico
+2472;442;983;;carta di credito
+2473;14385;159;427;assegno
+2474;28815;267;366;bonifico
+2475;255;494;700;contante
+2476;25695;995;762;bonifico
+2477;16120;694;969;bonifico
+2478;30525;575;843;assegno
+2479;520;869;;carta di credito
+2480;245;921;;carta di credito
+2481;245;820;102;contante
+2482;9380;355;821;bonifico
+2483;8660;901;277;assegno
+2484;12125;362;561;bonifico
+2485;4195;8;642;bonifico
+2486;13970;752;606;bonifico
+2487;6040;575;173;assegno
+2488;770;785;;carta di credito
+2489;20315;926;710;bonifico
+2490;645;184;;carta di credito
+2491;8805;647;937;bonifico
+2492;730;177;;carta di credito
+2493;30930;209;201;assegno
+2494;1309;776;;carta di credito
+2495;24990;152;5;bonifico
+2496;21959;774;853;assegno
+2497;12565;75;95;assegno
+2498;185;549;534;contante
+2499;41169;991;169;bonifico
+2500;9525;150;858;bonifico
+2501;30315;473;845;bonifico
+2502;23290;275;551;assegno
+2503;14995;314;479;assegno
+2504;480;661;;carta di credito
+2505;8100;682;691;assegno
+2506;1205;541;692;assegno
+2507;665;489;;carta di credito
+2508;25475;809;787;bonifico
+2509;10182;723;559;bonifico
+2510;12945;903;967;bonifico
+2511;476;694;;carta di credito
+2512;260;680;936;contante
+2513;16435;307;941;bonifico
+2514;8985;62;640;bonifico
+2515;5267;408;933;bonifico
+2516;7750;244;173;bonifico
+2517;24480;497;714;bonifico
+2518;7132;928;804;bonifico
+2519;41090;422;553;assegno
+2520;13555;726;14;assegno
+2521;33293;734;359;bonifico
+2522;430;190;;carta di credito
+2523;34945;356;573;assegno
+2524;22026;699;620;bonifico
+2525;15525;775;512;assegno
+2526;5990;568;827;assegno
+2527;19202;699;211;assegno
+2528;7640;453;104;assegno
+2529;13090;91;332;assegno
+2530;604;888;;carta di credito
+2531;4880;810;830;bonifico
+2532;33470;306;709;bonifico
+2533;9430;11;823;assegno
+2534;23325;220;193;bonifico
+2535;31425;3;197;assegno
+2536;12685;404;565;bonifico
+2537;570;563;;carta di credito
+2538;19955;387;886;bonifico
+2539;19670;807;837;bonifico
+2540;34690;21;901;assegno
+2541;21530;370;418;bonifico
+2542;19455;364;655;assegno
+2543;28945;468;792;bonifico
+2544;940;185;;carta di credito
+2545;6570;494;976;assegno
+2546;340;552;;carta di credito
+2547;507;300;;carta di credito
+2548;975;450;;carta di credito
+2549;37543;156;838;assegno
+2550;20742;757;700;bonifico
+2551;14640;656;885;bonifico
+2552;16900;535;854;assegno
+2553;875;360;;carta di credito
+2554;45560;278;678;bonifico
+2555;11620;301;595;assegno
+2556;220;783;343;contante
+2557;27590;48;691;bonifico
+2558;21395;917;88;bonifico
+2559;14445;812;239;bonifico
+2560;28665;620;71;assegno
+2561;13270;231;656;bonifico
+2562;17575;341;124;bonifico
+2563;21055;906;502;assegno
+2564;57940;614;452;bonifico
+2565;345;944;507;contante
+2566;18240;461;867;assegno
+2567;16830;423;747;bonifico
+2568;1375;326;;carta di credito
+2569;16310;48;827;assegno
+2570;205;961;;carta di credito
+2571;375;961;118;contante
+2572;11585;690;822;bonifico
+2573;205;863;35;contante
+2574;22002;613;55;bonifico
+2575;22495;373;758;assegno
+2576;7735;311;925;assegno
+2577;22125;543;772;bonifico
+2578;620;156;;carta di credito
+2579;8487;384;192;assegno
+2580;9024;11;888;bonifico
+2581;425;84;;carta di credito
+2582;25610;640;455;bonifico
+2583;365;957;;carta di credito
+2584;7170;93;307;assegno
+2585;19330;300;261;bonifico
+2586;26240;674;35;assegno
+2587;3755;440;515;assegno
+2588;500;439;591;contante
+2589;37841;464;469;assegno
+2590;609;6;;carta di credito
+2591;30335;627;136;bonifico
+2592;5569;647;222;assegno
+2593;5950;507;826;assegno
+2594;1425;764;;carta di credito
+2595;11490;10;585;assegno
+2596;21145;460;595;bonifico
+2597;3300;764;223;bonifico
+2598;34200;42;738;bonifico
+2599;26350;578;927;assegno
+2600;21805;210;433;bonifico
+2601;415;346;;carta di credito
+2602;495;261;320;contante
+2603;9185;244;98;assegno
+2604;12615;786;970;bonifico
+2605;13400;625;25;assegno
+2606;20440;627;779;bonifico
+2607;385;377;;carta di credito
+2608;10327;73;818;bonifico
+2609;440;662;;carta di credito
+2610;616;957;;carta di credito
+2611;10220;760;903;assegno
+2612;1520;8;;carta di credito
+2613;7545;561;722;bonifico
+2614;4780;753;733;bonifico
+2615;45465;991;973;bonifico
+2616;375;346;130;contante
+2617;17720;63;941;assegno
+2618;737;589;;carta di credito
+2619;294;703;;carta di credito
+2620;25706;782;334;bonifico
+2621;21215;294;130;bonifico
+2622;17740;896;182;bonifico
+2623;340;184;104;contante
+2624;145;778;;carta di credito
+2625;27085;111;992;bonifico
+2626;17385;927;685;bonifico
+2627;935;608;;carta di credito
+2628;12731;396;341;assegno
+2629;160;829;78;contante
+2630;6070;404;113;bonifico
+2631;37331;862;249;bonifico
+2632;11884;348;833;assegno
+2633;12315;613;902;bonifico
+2634;14405;723;325;assegno
+2635;29965;6;529;bonifico
+2636;26785;647;613;bonifico
+2637;630;49;;carta di credito
+2638;17735;797;667;bonifico
+2639;177;152;224;contante
+2640;13623;41;340;bonifico
+2641;13435;841;224;bonifico
+2642;780;124;;carta di credito
+2643;17005;418;616;bonifico
+2644;11750;70;414;assegno
+2645;573;262;138;contante
+2646;840;828;;carta di credito
+2647;11830;674;868;assegno
+2648;190;772;450;contante
+2649;17412;661;37;assegno
+2650;14100;630;870;bonifico
+2651;6895;468;518;bonifico
+2652;6680;470;332;assegno
+2653;395;341;665;contante
+2654;21800;866;557;bonifico
+2655;6015;623;376;bonifico
+2656;53089;543;78;assegno
+2657;740;419;;carta di credito
+2658;13615;962;851;bonifico
+2659;16778;962;269;bonifico
+2660;440;873;;carta di credito
+2661;48365;140;574;bonifico
+2662;295;340;226;contante
+2663;10460;687;265;bonifico
+2664;20355;776;559;assegno
+2665;24005;261;889;assegno
+2666;22740;112;519;bonifico
+2667;290;154;978;contante
+2668;7550;884;72;assegno
+2669;10015;83;640;assegno
+2670;430;860;;carta di credito
+2671;235;522;528;contante
+2672;1800;500;742;bonifico
+2673;370;798;;carta di credito
+2674;355;979;;carta di credito
+2675;19555;215;291;bonifico
+2676;20250;963;2;bonifico
+2677;148;423;;carta di credito
+2678;245;333;;carta di credito
+2679;24164;857;256;assegno
+2680;31920;521;803;assegno
+2681;36565;155;299;bonifico
+2682;17335;918;691;bonifico
+2683;8435;116;712;bonifico
+2684;5728;798;70;assegno
+2685;8845;463;763;bonifico
+2686;490;798;;carta di credito
+2687;3810;282;956;assegno
+2688;29570;78;88;bonifico
+2689;10730;903;213;bonifico
+2690;22500;627;225;bonifico
+2691;23685;670;452;bonifico
+2692;25619;988;579;bonifico
+2693;17361;170;354;bonifico
+2694;25490;93;299;bonifico
+2695;16679;914;675;bonifico
+2696;6450;574;616;bonifico
+2697;19260;510;432;assegno
+2698;18005;559;976;assegno
+2699;725;531;;carta di credito
+2700;3800;983;222;bonifico
+2701;10630;275;882;assegno
+2702;12895;648;294;bonifico
+2703;45565;964;54;bonifico
+2704;3445;324;808;bonifico
+2705;5825;865;84;bonifico
+2706;15290;857;589;assegno
+2707;420;589;;carta di credito
+2708;280;657;503;contante
+2709;715;812;;carta di credito
+2710;13750;839;725;bonifico
+2711;13795;956;569;assegno
+2712;11220;918;76;bonifico
+2713;12860;947;205;bonifico
+2714;21130;961;821;bonifico
+2715;19683;103;664;bonifico
+2716;14985;466;376;bonifico
+2717;12200;939;358;assegno
+2718;33845;866;63;assegno
+2719;4911;647;419;assegno
+2720;825;698;;carta di credito
+2721;13660;912;4;bonifico
+2722;665;211;;carta di credito
+2723;17270;527;856;bonifico
+2724;26600;309;248;bonifico
+2725;18124;477;575;bonifico
+2726;455;957;;carta di credito
+2727;360;481;;carta di credito
+2728;210;232;319;contante
+2729;601;739;;carta di credito
+2730;55925;624;839;assegno
+2731;6865;714;277;bonifico
+2732;8380;285;293;assegno
+2733;9265;451;699;bonifico
+2734;790;13;;carta di credito
+2735;6775;558;224;assegno
+2736;52500;566;439;bonifico
+2737;810;200;;carta di credito
+2738;210;858;351;contante
+2739;4485;309;234;bonifico
+2740;515;915;;carta di credito
+2741;15838;140;227;bonifico
+2742;160;696;785;contante
+2743;6835;904;370;assegno
+2744;5240;964;237;bonifico
+2745;2395;223;;carta di credito
+2746;12653;199;349;assegno
+2747;12115;588;114;bonifico
+2748;14305;364;339;bonifico
+2749;1225;817;744;bonifico
+2750;18290;347;742;assegno
+2751;11421;611;433;bonifico
+2752;15255;944;595;assegno
+2753;24470;543;328;bonifico
+2754;30395;888;690;assegno
+2755;9520;429;871;bonifico
+2756;425;967;1000;contante
+2757;7820;923;813;assegno
+2758;12135;355;792;bonifico
+2759;190;699;291;contante
+2760;8403;570;50;assegno
+2761;140;23;120;contante
+2762;16740;282;338;bonifico
+2763;255;896;;carta di credito
+2764;7320;430;424;assegno
+2765;22875;816;902;assegno
+2766;8625;853;255;assegno
+2767;22925;553;966;assegno
+2768;310;685;719;contante
+2769;37638;243;612;assegno
+2770;15580;267;397;bonifico
+2771;6265;688;603;bonifico
+2772;20555;530;285;assegno
+2773;12700;549;675;bonifico
+2774;31128;233;925;assegno
+2775;355;961;594;contante
+2776;24050;11;540;assegno
+2777;13720;191;286;bonifico
+2778;635;234;;carta di credito
+2779;20845;466;770;bonifico
+2780;1100;798;;carta di credito
+2781;38693;239;4;bonifico
+2782;6795;217;406;bonifico
+2783;820;727;;carta di credito
+2784;28065;223;548;bonifico
+2785;400;211;732;contante
+2786;8025;969;827;bonifico
+2787;500;621;19;contante
+2788;21228;998;726;assegno
+2789;589;399;897;contante
+2790;611;708;;carta di credito
+2791;20545;863;713;assegno
+2792;635;558;;carta di credito
+2793;27465;474;148;bonifico
+2794;495;729;;carta di credito
+2795;35480;760;994;assegno
+2796;5625;485;889;assegno
+2797;7920;400;533;assegno
+2798;13995;713;216;assegno
+2799;2090;962;;carta di credito
+2800;10500;722;19;assegno
+2801;26105;140;96;assegno
+2802;13080;603;6;bonifico
+2803;355;587;836;contante
+2804;23090;348;239;bonifico
+2805;13440;413;903;bonifico
+2806;39390;823;571;bonifico
+2807;395;444;;carta di credito
+2808;655;985;;carta di credito
+2809;12370;184;786;assegno
+2810;410;631;542;contante
+2811;15480;769;811;bonifico
+2812;3022;317;803;assegno
+2813;31325;461;39;assegno
+2814;21110;237;584;assegno
+2815;565;796;301;contante
+2816;38195;218;408;assegno
+2817;44409;774;609;bonifico
+2818;295;564;;carta di credito
+2819;405;330;76;contante
+2820;17363;879;567;bonifico
+2821;15327;330;19;assegno
+2822;35460;660;379;assegno
+2823;5495;568;746;assegno
+2824;21005;121;585;bonifico
+2825;737;256;;carta di credito
+2826;20955;697;487;assegno
+2827;12180;722;247;assegno
+2828;25180;915;187;bonifico
+2829;32065;787;579;bonifico
+2830;600;207;;carta di credito
+2831;6715;365;822;assegno
+2832;16035;288;475;assegno
+2833;22697;296;417;bonifico
+2834;12235;660;503;bonifico
+2835;310;722;;carta di credito
+2836;4105;77;99;bonifico
+2837;5360;276;700;bonifico
+2838;16410;767;370;bonifico
+2839;9665;455;103;bonifico
+2840;660;429;;carta di credito
+2841;274;898;;carta di credito
+2842;20105;34;735;bonifico
+2843;26565;479;291;bonifico
+2844;29252;644;435;assegno
+2845;15025;440;683;bonifico
+2846;11061;36;904;bonifico
+2847;11570;247;225;bonifico
+2848;345;667;606;contante
+2849;14107;179;837;assegno
+2850;7785;770;297;assegno
+2851;5705;666;807;bonifico
+2852;29252;248;366;bonifico
+2853;14155;432;173;bonifico
+2854;4210;438;95;bonifico
+2855;13775;613;228;assegno
+2856;29665;82;415;assegno
+2857;680;707;;carta di credito
+2858;160;435;194;contante
+2859;234;674;;carta di credito
+2860;29130;190;125;bonifico
+2861;555;575;;carta di credito
+2862;9920;644;64;assegno
+2863;14548;206;270;assegno
+2864;14047;204;786;assegno
+2865;730;998;;carta di credito
+2866;48620;325;719;bonifico
+2867;19347;810;970;bonifico
+2868;12350;10;5;bonifico
+2869;16205;625;947;assegno
+2870;1340;899;;carta di credito
+2871;13690;869;182;bonifico
+2872;264;423;;carta di credito
+2873;8625;714;289;bonifico
+2874;17500;963;693;assegno
+2875;895;296;;carta di credito
+2876;30145;70;585;bonifico
+2877;1850;49;958;bonifico
+2878;28780;324;470;assegno
+2879;12032;1000;484;assegno
+2880;5975;629;950;bonifico
+2881;1380;664;;carta di credito
+2882;19680;770;533;assegno
+2883;6620;164;299;assegno
+2884;25500;277;307;bonifico
+2885;26265;62;760;assegno
+2886;6085;627;248;bonifico
+2887;400;509;278;contante
+2888;1645;974;;carta di credito
+2889;570;608;199;contante
+2890;197;603;119;contante
+2891;12800;324;27;bonifico
+2892;17650;545;941;bonifico
+2893;9585;79;736;assegno
+2894;6405;309;140;bonifico
+2895;190;966;;carta di credito
+2896;390;856;;carta di credito
+2897;11735;373;229;assegno
+2898;704;949;;carta di credito
+2899;49780;226;408;bonifico
+2900;5625;904;911;assegno
+2901;23152;823;307;bonifico
+2902;3217;360;740;bonifico
+2903;15545;140;423;bonifico
+2904;145;263;355;contante
+2905;500;20;;carta di credito
+2906;635;309;;carta di credito
+2907;21100;369;876;assegno
+2908;360;774;;carta di credito
+2909;13060;858;492;bonifico
+2910;750;787;;carta di credito
+2911;15860;394;726;bonifico
+2912;215;276;124;contante
+2913;7535;514;692;bonifico
+2914;24440;721;585;assegno
+2915;16440;244;509;bonifico
+2916;13425;225;529;bonifico
+2917;4166;363;608;assegno
+2918;280;998;986;contante
+2919;24385;857;202;assegno
+2920;865;118;;carta di credito
+2921;18235;565;362;assegno
+2922;1330;764;;carta di credito
+2923;14290;150;928;bonifico
+2924;1255;547;788;bonifico
+2925;40005;110;77;assegno
+2926;9860;905;612;bonifico
+2927;5465;81;685;assegno
+2928;29514;321;266;bonifico
+2929;26640;919;898;bonifico
+2930;375;709;53;contante
+2931;25524;67;123;assegno
+2932;495;930;;carta di credito
+2933;7620;545;265;assegno
+2934;230;964;889;contante
+2935;11360;285;872;bonifico
+2936;485;506;;carta di credito
+2937;1795;48;7;assegno
+2938;4515;453;241;bonifico
+2939;21115;78;433;bonifico
+2940;295;760;;carta di credito
+2941;23330;531;856;bonifico
+2942;8235;205;606;assegno
+2943;24310;408;973;bonifico
+2944;1420;1000;;carta di credito
+2945;7415;925;452;bonifico
+2946;705;291;829;contante
+2947;3730;426;371;assegno
+2948;20180;983;974;assegno
+2949;705;368;;carta di credito
+2950;29450;807;482;bonifico
+2951;17990;485;821;bonifico
+2952;47715;925;97;bonifico
+2953;3670;71;497;bonifico
+2954;538;869;;carta di credito
+2955;1100;682;;carta di credito
+2956;14605;904;76;bonifico
+2957;369;249;;carta di credito
+2958;27085;255;509;bonifico
+2959;870;628;;carta di credito
+2960;9105;739;612;assegno
+2961;2930;816;15;bonifico
+2962;318;358;732;contante
+2963;6190;573;93;assegno
+2964;27677;623;912;bonifico
+2965;10325;856;897;bonifico
+2966;5260;393;543;bonifico
+2967;13010;750;239;bonifico
+2968;30225;322;25;bonifico
+2969;494;216;487;contante
+2970;10720;711;787;bonifico
+2971;85945;675;560;assegno
+2972;7805;570;740;bonifico
+2973;47415;699;47;bonifico
+2974;15760;952;130;bonifico
+2975;47195;429;475;bonifico
+2976;1095;247;;carta di credito
+2977;105;484;;carta di credito
+2978;585;943;;carta di credito
+2979;18080;314;585;assegno
+2980;180;331;65;contante
+2981;9925;598;304;bonifico
+2982;7930;356;734;bonifico
+2983;42010;592;305;bonifico
+2984;19625;426;734;bonifico
+2985;375;370;;carta di credito
+2986;27680;476;683;assegno
+2987;540;527;;carta di credito
+2988;10595;20;824;bonifico
+2989;10630;750;726;bonifico
+2990;394;858;;carta di credito
+2991;34245;247;528;assegno
+2992;7905;34;88;bonifico
+2993;5630;110;244;bonifico
+2994;265;318;943;contante
+2995;21198;222;177;bonifico
+2996;17365;273;815;bonifico
+2997;2640;84;597;bonifico
+2998;12970;548;138;bonifico
+2999;8035;726;677;assegno
+3000;13660;602;199;bonifico
+3001;30655;900;28;bonifico
+3002;17460;800;33;bonifico
+3003;19950;110;975;bonifico
+3004;516;170;;carta di credito
+3005;6025;505;693;bonifico
+3006;22960;860;64;assegno
+3007;185;158;909;contante
+3008;125;755;472;contante
+3009;20815;384;867;assegno
+3010;290;372;553;contante
+3011;8914;491;943;assegno
+3012;12060;344;484;assegno
+3013;530;364;187;contante
+3014;14480;583;644;bonifico
+3015;215;137;620;contante
+3016;9800;804;469;bonifico
+3017;16751;782;845;assegno
+3018;1080;842;;carta di credito
+3019;880;829;;carta di credito
+3020;4675;306;215;assegno
+3021;320;448;;carta di credito
+3022;530;354;922;contante
+3023;500;99;;carta di credito
+3024;27480;621;249;assegno
+3025;2910;67;376;assegno
+3026;6536;244;76;bonifico
+3027;705;144;;carta di credito
+3028;31160;63;626;assegno
+3029;13755;643;504;assegno
+3030;9880;912;849;bonifico
+3031;21615;672;697;bonifico
+3032;505;478;;carta di credito
+3033;38720;290;902;assegno
+3034;1291;281;;carta di credito
+3035;150;149;559;contante
+3036;15660;425;349;bonifico
+3037;315;109;;carta di credito
+3038;180;587;492;contante
+3039;10405;477;861;bonifico
+3040;12814;500;676;bonifico
+3041;9120;513;333;assegno
+3042;40640;279;8;assegno
+3043;28025;752;932;bonifico
+3044;56475;919;909;assegno
+3045;15480;791;941;bonifico
+3046;19646;908;406;bonifico
+3047;26930;143;430;bonifico
+3048;10180;132;18;assegno
+3049;10885;125;162;bonifico
+3050;13280;880;776;bonifico
+3051;1430;437;2;bonifico
+3052;20850;563;903;assegno
+3053;19725;86;599;bonifico
+3054;3740;387;339;bonifico
+3055;11680;255;216;bonifico
+3056;627;282;;carta di credito
+3057;6680;627;105;assegno
+3058;15315;426;259;bonifico
+3059;360;321;593;contante
+3060;20320;559;514;bonifico
+3061;190;82;;carta di credito
+3062;4403;520;255;bonifico
+3063;54295;743;268;assegno
+3064;20855;617;291;bonifico
+3065;410;956;740;contante
+3066;405;617;278;contante
+3067;14475;718;623;bonifico
+3068;485;769;533;contante
+3069;10140;681;125;bonifico
+3070;262;394;;carta di credito
+3071;23635;753;980;assegno
+3072;19794;888;748;assegno
+3073;37530;494;604;assegno
+3074;31320;485;896;assegno
+3075;975;314;;carta di credito
+3076;900;152;;carta di credito
+3077;21205;797;684;bonifico
+3078;16480;572;343;bonifico
+3079;12960;112;110;assegno
+3080;15380;912;719;assegno
+3081;20671;675;551;bonifico
+3082;8255;73;999;bonifico
+3083;36107;232;346;assegno
+3084;28500;349;970;bonifico
+3085;9605;974;444;assegno
+3086;200;197;270;contante
+3087;270;386;329;contante
+3088;8164;640;329;bonifico
+3089;23050;888;739;bonifico
+3090;21730;81;789;bonifico
+3091;47841;170;485;assegno
+3092;16805;913;635;assegno
+3093;970;957;;carta di credito
+3094;41095;996;524;bonifico
+3095;265;28;23;contante
+3096;4070;669;212;bonifico
+3097;15375;468;751;bonifico
+3098;26485;439;780;bonifico
+3099;19492;847;843;bonifico
+3100;32705;539;18;assegno
+3101;28775;666;675;bonifico
+3102;21955;721;950;bonifico
+3103;26347;843;370;assegno
+3104;25610;510;228;bonifico
+3105;4490;443;256;assegno
+3106;26270;794;783;assegno
+3107;915;716;;carta di credito
+3108;145;979;709;contante
+3109;10860;774;13;bonifico
+3110;490;843;;carta di credito
+3111;443;842;;carta di credito
+3112;926;621;;carta di credito
+3113;13235;333;220;assegno
+3114;21660;862;923;assegno
+3115;21865;991;729;assegno
+3116;14230;643;136;bonifico
+3117;15415;111;390;bonifico
+3118;9205;91;505;bonifico
+3119;9680;709;928;bonifico
+3120;45788;865;409;bonifico
+3121;9995;944;213;assegno
+3122;340;21;314;contante
+3123;1495;87;;carta di credito
+3124;780;918;;carta di credito
+3125;28490;735;963;assegno
+3126;258;794;;carta di credito
+3127;4395;134;16;assegno
+3128;14260;983;942;assegno
+3129;18010;177;571;bonifico
+3130;21055;849;817;assegno
+3131;22395;435;999;bonifico
+3132;37345;201;343;bonifico
+3133;34125;754;161;bonifico
+3134;282;569;;carta di credito
+3135;21350;617;270;assegno
+3136;9655;786;923;bonifico
+3137;4445;342;864;bonifico
+3138;23055;935;657;assegno
+3139;8290;824;993;bonifico
+3140;18995;626;913;bonifico
+3141;425;809;53;contante
+3142;24300;751;601;assegno
+3143;47635;1000;708;assegno
+3144;580;48;;carta di credito
+3145;535;52;;carta di credito
+3146;16195;537;971;bonifico
+3147;685;450;;carta di credito
+3148;16810;220;945;bonifico
+3149;23375;212;279;assegno
+3150;4484;816;576;assegno
+3151;7305;722;126;assegno
+3152;6815;550;995;bonifico
+3153;5720;774;192;bonifico
+3154;18845;471;836;assegno
+3155;22320;866;106;assegno
+3156;20900;643;736;bonifico
+3157;14025;993;23;assegno
+3158;44658;770;888;bonifico
+3159;15810;427;623;assegno
+3160;30815;402;955;assegno
+3161;12640;244;13;assegno
+3162;20425;654;787;bonifico
+3163;19230;532;116;assegno
+3164;695;84;;carta di credito
+3165;220;930;144;contante
+3166;265;596;978;contante
+3167;24760;444;674;assegno
+3168;9000;261;974;assegno
+3169;43515;360;826;bonifico
+3170;210;102;393;contante
+3171;41215;420;242;bonifico
+3172;845;168;;carta di credito
+3173;14720;585;338;bonifico
+3174;15025;850;583;bonifico
+3175;8860;877;5;assegno
+3176;27646;834;527;assegno
+3177;655;257;85;contante
+3178;12375;19;450;bonifico
+3179;830;576;;carta di credito
+3180;20245;766;322;bonifico
+3181;1205;342;;carta di credito
+3182;7450;456;808;bonifico
+3183;22145;378;370;bonifico
+3184;12370;213;198;bonifico
+3185;14215;112;52;bonifico
+3186;14220;549;471;assegno
+3187;715;591;347;contante
+3188;44155;379;15;bonifico
+3189;24650;273;885;assegno
+3190;7843;153;419;bonifico
+3191;7070;46;727;assegno
+3192;21885;381;242;assegno
+3193;20650;149;817;assegno
+3194;40900;858;278;assegno
+3195;3130;697;837;assegno
+3196;9440;354;210;bonifico
+3197;8971;934;226;bonifico
+3198;11580;879;755;bonifico
+3199;23300;85;427;assegno
+3200;27680;527;841;assegno
+3201;799;642;;carta di credito
+3202;25355;548;577;bonifico
+3203;505;66;;carta di credito
+3204;19076;675;215;bonifico
+3205;38760;25;59;bonifico
+3206;36290;452;199;assegno
+3207;9900;906;890;assegno
+3208;54125;220;311;bonifico
+3209;21265;287;60;bonifico
+3210;13485;507;548;assegno
+3211;565;726;;carta di credito
+3212;11670;138;559;bonifico
+3213;661;945;;carta di credito
+3214;36960;450;907;assegno
+3215;1105;390;;carta di credito
+3216;13140;745;717;bonifico
+3217;26260;128;294;assegno
+3218;525;824;;carta di credito
+3219;46750;839;771;bonifico
+3220;21040;968;271;assegno
+3221;17615;164;104;bonifico
+3222;6645;96;604;assegno
+3223;821;177;673;contante
+3224;610;979;;carta di credito
+3225;169;559;;carta di credito
+3226;11820;309;920;bonifico
+3227;7890;691;209;assegno
+3228;505;665;271;contante
+3229;18260;409;76;bonifico
+3230;180;462;434;contante
+3231;24226;577;553;assegno
+3232;21085;591;261;assegno
+3233;255;125;;carta di credito
+3234;9970;511;712;bonifico
+3235;32300;672;898;bonifico
+3236;3270;777;462;bonifico
+3237;4115;862;925;bonifico
+3238;13047;119;827;assegno
+3239;660;424;757;contante
+3240;3579;247;61;assegno
+3241;5430;482;241;bonifico
+3242;17605;39;834;assegno
+3243;20575;39;452;bonifico
+3244;1465;720;;carta di credito
+3245;6950;216;512;assegno
+3246;31815;11;847;assegno
+3247;2505;621;675;assegno
+3248;404;974;;carta di credito
+3249;13705;252;126;assegno
+3250;14460;757;734;assegno
+3251;780;961;;carta di credito
+3252;708;745;;carta di credito
+3253;7160;763;450;bonifico
+3254;32024;666;697;assegno
+3255;31331;689;813;bonifico
+3256;7140;334;863;bonifico
+3257;9175;395;816;assegno
+3258;14155;149;902;bonifico
+3259;38674;763;293;bonifico
+3260;26540;585;597;assegno
+3261;6350;866;589;bonifico
+3262;7800;903;726;bonifico
+3263;38830;898;618;bonifico
+3264;12210;162;651;bonifico
+3265;540;824;;carta di credito
+3266;36535;891;622;assegno
+3267;26935;480;313;bonifico
+3268;21345;476;705;assegno
+3269;33495;200;85;assegno
+3270;7430;110;202;assegno
+3271;12070;363;227;assegno
+3272;23440;955;939;bonifico
+3273;15435;749;274;assegno
+3274;17260;141;287;bonifico
+3275;54945;801;654;assegno
+3276;37863;753;722;bonifico
+3277;29700;480;358;assegno
+3278;24361;82;559;bonifico
+3279;275;378;;carta di credito
+3280;26341;134;550;assegno
+3281;68070;263;354;bonifico
+3282;684;417;;carta di credito
+3283;38290;118;263;bonifico
+3284;16230;782;632;bonifico
+3285;335;272;;carta di credito
+3286;14930;301;919;bonifico
+3287;4885;239;584;assegno
+3288;39655;845;357;assegno
+3289;38062;464;731;bonifico
+3290;35150;620;990;bonifico
+3291;10320;410;806;bonifico
+3292;14900;28;447;bonifico
+3293;21125;872;915;bonifico
+3294;19901;51;299;bonifico
+3295;25705;302;31;bonifico
+3296;12605;233;921;bonifico
+3297;820;127;;carta di credito
+3298;294;944;821;contante
+3299;20415;576;868;bonifico
+3300;11345;88;528;bonifico
+3301;845;552;;carta di credito
+3302;9940;220;188;assegno
+3303;500;602;;carta di credito
+3304;300;281;;carta di credito
+3305;645;556;887;contante
+3306;6270;749;824;bonifico
+3307;18175;872;177;assegno
+3308;22955;154;394;bonifico
+3309;28395;933;241;assegno
+3310;6501;375;208;bonifico
+3311;495;730;582;contante
+3312;30555;125;124;assegno
+3313;325;440;;carta di credito
+3314;31784;621;164;assegno
+3315;13488;791;729;assegno
+3316;41035;730;927;assegno
+3317;10725;130;580;bonifico
+3318;19638;936;265;assegno
+3319;7855;772;256;bonifico
+3320;20890;161;590;assegno
+3321;345;749;500;contante
+3322;13940;647;464;bonifico
+3323;15290;506;421;assegno
+3324;17330;324;106;bonifico
+3325;897;53;;carta di credito
+3326;28360;335;213;bonifico
+3327;11654;664;257;bonifico
+3328;25815;735;266;bonifico
+3329;330;425;;carta di credito
+3330;52927;465;148;assegno
+3331;14270;899;469;bonifico
+3332;12170;181;519;bonifico
+3333;23566;801;965;bonifico
+3334;20265;920;990;assegno
+3335;230;368;225;contante
+3336;8282;214;245;bonifico
+3337;6590;611;314;assegno
+3338;1025;859;;carta di credito
+3339;715;39;;carta di credito
+3340;13170;612;936;assegno
+3341;12640;963;419;assegno
+3342;2855;680;562;bonifico
+3343;7267;816;551;bonifico
+3344;370;603;625;contante
+3345;10515;593;875;assegno
+3346;32500;500;472;assegno
+3347;46445;643;525;bonifico
+3348;1151;283;;carta di credito
+3349;19630;273;187;bonifico
+3350;12012;546;956;assegno
+3351;16530;182;447;bonifico
+3352;13100;317;460;assegno
+3353;21115;105;747;bonifico
+3354;24980;205;705;assegno
+3355;15365;537;883;bonifico
+3356;515;787;;carta di credito
+3357;14015;406;500;assegno
+3358;375;763;;carta di credito
+3359;7470;280;214;bonifico
+3360;34770;737;620;assegno
+3361;340;225;;carta di credito
+3362;14929;855;858;bonifico
+3363;20885;812;193;assegno
+3364;207;861;245;contante
+3365;13250;701;424;bonifico
+3366;10482;281;246;assegno
+3367;18215;794;88;assegno
+3368;176;43;;carta di credito
+3369;25720;979;351;assegno
+3370;19025;283;490;bonifico
+3371;32185;99;188;assegno
+3372;4585;862;177;bonifico
+3373;19050;54;399;assegno
+3374;1279;307;;carta di credito
+3375;418;230;;carta di credito
+3376;1205;45;;carta di credito
+3377;190;178;417;contante
+3378;25600;427;140;bonifico
+3379;31835;868;380;bonifico
+3380;17664;325;904;bonifico
+3381;8753;850;44;bonifico
+3382;9975;502;862;bonifico
+3383;9595;300;455;bonifico
+3384;200;390;446;contante
+3385;14500;224;294;assegno
+3386;24190;43;30;bonifico
+3387;12466;84;884;assegno
+3388;460;769;417;contante
+3389;266;360;290;contante
+3390;41065;255;454;assegno
+3391;4535;774;757;bonifico
+3392;14675;703;132;assegno
+3393;19225;697;571;assegno
+3394;13635;860;822;bonifico
+3395;180;104;896;contante
+3396;15365;553;527;bonifico
+3397;9580;502;809;bonifico
+3398;17530;564;801;bonifico
+3399;14170;642;920;bonifico
+3400;315;330;540;contante
+3401;60587;121;95;assegno
+3402;42060;179;379;bonifico
+3403;335;646;;carta di credito
+3404;22965;886;909;bonifico
+3405;9255;11;329;bonifico
+3406;8170;10;880;assegno
+3407;665;546;;carta di credito
+3408;37840;504;568;assegno
+3409;34090;857;61;assegno
+3410;13155;531;758;assegno
+3411;58645;122;375;bonifico
+3412;4605;395;811;assegno
+3413;19015;43;1000;bonifico
+3414;13285;841;428;bonifico
+3415;4670;586;391;bonifico
+3416;276;726;;carta di credito
+3417;343;34;533;contante
+3418;7880;408;24;bonifico
+3419;7320;104;13;assegno
+3420;310;341;884;contante
+3421;225;806;755;contante
+3422;3920;394;215;bonifico
+3423;580;899;;carta di credito
+3424;9345;822;748;bonifico
+3425;12631;744;9;assegno
+3426;26735;688;911;bonifico
+3427;21350;770;990;assegno
+3428;815;72;;carta di credito
+3429;15145;41;634;bonifico
+3430;6730;558;194;bonifico
+3431;9045;124;751;bonifico
+3432;10577;110;373;assegno
+3433;7620;316;887;assegno
+3434;310;506;242;contante
+3435;38136;82;576;assegno
+3436;510;438;;carta di credito
+3437;15475;481;338;assegno
+3438;11900;585;826;bonifico
+3439;295;111;553;contante
+3440;29980;42;68;assegno
+3441;8045;828;982;assegno
+3442;14898;736;636;assegno
+3443;21580;484;686;assegno
+3444;975;439;;carta di credito
+3445;12325;759;17;assegno
+3446;16363;642;183;bonifico
+3447;1960;55;84;bonifico
+3448;1685;730;;carta di credito
+3449;2995;991;473;assegno
+3450;26045;524;861;bonifico
+3451;15765;627;338;assegno
+3452;500;694;;carta di credito
+3453;7817;228;224;bonifico
+3454;37638;360;275;bonifico
+3455;23460;680;743;bonifico
+3456;14750;997;597;bonifico
+3457;285;695;;carta di credito
+3458;6497;778;65;assegno
+3459;55690;675;561;bonifico
+3460;380;255;885;contante
+3461;7690;660;641;assegno
+3462;14210;616;991;bonifico
+3463;10240;34;83;bonifico
+3464;10440;731;927;bonifico
+3465;37115;561;151;bonifico
+3466;8199;464;465;bonifico
+3467;1245;521;;carta di credito
+3468;590;220;;carta di credito
+3469;18170;260;610;assegno
+3470;18115;157;167;assegno
+3471;7380;102;890;bonifico
+3472;400;969;70;contante
+3473;11795;985;60;bonifico
+3474;3075;346;917;bonifico
+3475;34175;27;506;bonifico
+3476;17066;728;779;assegno
+3477;495;520;;carta di credito
+3478;405;179;609;contante
+3479;610;674;;carta di credito
+3480;17330;297;266;bonifico
+3481;21450;686;301;bonifico
+3482;360;182;;carta di credito
+3483;11655;124;586;assegno
+3484;1925;957;24;bonifico
+3485;26395;27;268;bonifico
+3486;5575;404;242;bonifico
+3487;25668;119;141;assegno
+3488;315;558;;carta di credito
+3489;14215;718;478;bonifico
+3490;1915;887;;carta di credito
+3491;475;776;;carta di credito
+3492;16130;614;364;assegno
+3493;19200;538;179;bonifico
+3494;356;434;;carta di credito
+3495;7075;340;973;assegno
+3496;215;985;;carta di credito
+3497;17338;690;373;bonifico
+3498;67380;774;441;bonifico
+3499;24570;830;458;assegno
+3500;255;347;;carta di credito
+3501;10358;858;1000;assegno
+3502;19635;200;446;assegno
+3503;320;248;75;contante
+3504;18930;21;85;assegno
+3505;39102;866;371;bonifico
+3506;5955;204;213;bonifico
+3507;1740;476;559;assegno
+3508;400;531;;carta di credito
+3509;410;129;593;contante
+3510;30044;555;286;assegno
+3511;225;371;;carta di credito
+3512;43060;697;329;assegno
+3513;775;158;;carta di credito
+3514;28775;774;120;assegno
+3515;37505;818;667;bonifico
+3516;12282;627;119;bonifico
+3517;145;209;996;contante
+3518;19210;975;27;bonifico
+3519;1365;137;;carta di credito
+3520;995;162;;carta di credito
+3521;705;283;;carta di credito
+3522;450;460;;carta di credito
+3523;32770;423;110;assegno
+3524;28564;78;464;assegno
+3525;45235;842;620;bonifico
+3526;21835;873;928;assegno
+3527;340;898;;carta di credito
+3528;9115;899;149;assegno
+3529;190;955;527;contante
+3530;11834;566;734;bonifico
+3531;740;162;;carta di credito
+3532;183;991;237;contante
+3533;6530;621;689;bonifico
+3534;8620;179;273;bonifico
+3535;17700;217;742;assegno
+3536;61025;982;241;bonifico
+3537;10995;341;659;assegno
+3538;6590;417;636;bonifico
+3539;8925;389;621;bonifico
+3540;28500;175;332;assegno
+3541;7112;172;514;bonifico
+3542;505;479;;carta di credito
+3543;2480;460;969;bonifico
+3544;13330;552;624;bonifico
+3545;39027;48;236;bonifico
+3546;30780;499;114;assegno
+3547;16615;653;435;assegno
+3548;9447;365;787;assegno
+3549;37705;43;332;assegno
+3550;30395;796;526;assegno
+3551;805;693;;carta di credito
+3552;18725;868;91;assegno
+3553;24715;804;402;assegno
+3554;67005;810;820;assegno
+3555;43805;424;125;assegno
+3556;5980;559;785;bonifico
+3557;10805;816;161;assegno
+3558;36120;315;22;bonifico
+3559;375;161;;carta di credito
+3560;735;175;;carta di credito
+3561;36950;621;134;assegno
+3562;32275;227;313;assegno
+3563;870;460;;carta di credito
+3564;16345;621;784;bonifico
+3565;1060;622;;carta di credito
+3566;6415;298;784;assegno
+3567;1875;744;466;bonifico
+3568;15960;532;684;bonifico
+3569;11082;663;559;bonifico
+3570;22675;926;305;bonifico
+3571;25695;961;120;bonifico
+3572;14455;262;528;assegno
+3573;10140;5;19;assegno
+3574;13120;182;354;assegno
+3575;32145;293;82;assegno
+3576;27380;81;66;bonifico
+3577;7465;520;713;bonifico
+3578;26115;241;565;bonifico
+3579;21655;977;99;bonifico
+3580;9225;912;379;assegno
+3581;41339;900;651;assegno
+3582;10860;672;301;bonifico
+3583;6010;517;464;bonifico
+3584;21645;209;585;bonifico
+3585;40765;777;398;bonifico
+3586;24180;979;376;bonifico
+3587;25805;380;839;assegno
+3588;225;309;624;contante
+3589;800;961;984;contante
+3590;4940;190;421;bonifico
+3591;28275;426;43;assegno
+3592;5260;903;845;bonifico
+3593;8115;525;736;bonifico
+3594;20545;412;528;bonifico
+3595;11805;884;553;bonifico
+3596;42005;506;176;bonifico
+3597;21510;961;792;bonifico
+3598;12965;121;601;assegno
+3599;3794;899;837;bonifico
+3600;5465;255;858;bonifico
+3601;8985;372;319;bonifico
+3602;17785;111;358;bonifico
+3603;560;966;894;contante
+3604;825;32;;carta di credito
+3605;28150;507;537;assegno
+3606;21600;395;571;bonifico
+3607;9815;716;155;assegno
+3608;21255;643;649;bonifico
+3609;320;199;;carta di credito
+3610;20835;723;639;bonifico
+3611;8742;964;279;bonifico
+3612;20620;432;51;assegno
+3613;785;957;;carta di credito
+3614;2650;404;145;bonifico
+3615;22500;497;543;bonifico
+3616;8680;414;256;bonifico
+3617;17640;846;405;assegno
+3618;1640;167;;carta di credito
+3619;360;829;508;contante
+3620;8780;726;985;bonifico
+3621;280;630;486;contante
+3622;3519;883;326;bonifico
+3623;12930;749;810;assegno
+3624;11555;56;467;assegno
+3625;14335;5;635;assegno
+3626;160;294;937;contante
+3627;9480;739;786;bonifico
+3628;185;5;;carta di credito
+3629;24095;574;128;assegno
+3630;50755;602;642;assegno
+3631;18820;663;6;assegno
+3632;4905;697;456;bonifico
+3633;11263;110;914;bonifico
+3634;8645;416;277;assegno
+3635;4001;399;778;bonifico
+3636;7037;763;379;bonifico
+3637;14594;809;360;bonifico
+3638;3970;622;939;assegno
+3639;755;548;578;contante
+3640;1355;395;;carta di credito
+3641;110;111;823;contante
+3642;525;969;;carta di credito
+3643;6685;37;132;assegno
+3644;7420;423;398;bonifico
+3645;8568;406;692;bonifico
+3646;330;566;572;contante
+3647;22285;358;271;assegno
+3648;388;715;;carta di credito
+3649;13378;327;43;bonifico
+3650;465;966;;carta di credito
+3651;9645;714;409;assegno
+3652;160;52;256;contante
+3653;36040;276;745;assegno
+3654;18960;280;868;assegno
+3655;19040;321;970;bonifico
+3656;4750;686;347;bonifico
+3657;15565;630;110;assegno
+3658;11410;651;660;bonifico
+3659;8500;314;874;bonifico
+3660;7355;560;265;assegno
+3661;8460;47;500;bonifico
+3662;13765;597;986;bonifico
+3663;45685;546;60;assegno
+3664;14770;164;120;bonifico
+3665;31860;842;642;assegno
+3666;1225;346;;carta di credito
+3667;33720;527;853;bonifico
+3668;19355;366;140;assegno
+3669;9345;588;349;assegno
+3670;47238;708;322;bonifico
+3671;5130;233;551;assegno
+3672;16475;614;846;assegno
+3673;483;142;;carta di credito
+3674;6190;248;216;assegno
+3675;37145;821;450;bonifico
+3676;21609;527;489;bonifico
+3677;520;152;;carta di credito
+3678;14234;337;557;bonifico
+3679;17210;128;141;assegno
+3680;10875;153;740;assegno
+3681;695;511;;carta di credito
+3682;16590;931;675;bonifico
+3683;8496;962;865;bonifico
+3684;19515;862;479;assegno
+3685;375;48;;carta di credito
+3686;650;235;;carta di credito
+3687;15030;858;903;bonifico
+3688;60645;13;958;bonifico
+3689;975;435;;carta di credito
+3690;415;535;766;contante
+3691;535;49;;carta di credito
+3692;1155;794;;carta di credito
+3693;8175;646;193;assegno
+3694;16540;729;652;assegno
+3695;12442;741;40;bonifico
+3696;18785;409;943;assegno
+3697;20015;757;357;bonifico
+3698;5210;550;581;bonifico
+3699;18115;71;454;assegno
+3700;245;482;;carta di credito
+3701;11165;108;752;assegno
+3702;199;650;985;contante
+3703;5180;568;887;bonifico
+3704;11505;991;94;assegno
+3705;345;837;850;contante
+3706;5031;66;45;bonifico
+3707;52823;307;60;assegno
+3708;350;177;796;contante
+3709;22450;537;419;bonifico
+3710;305;45;248;contante
+3711;358;102;147;contante
+3712;5790;601;755;assegno
+3713;8735;585;780;bonifico
+3714;18650;62;375;bonifico
+3715;2270;248;512;bonifico
+3716;2560;116;524;assegno
+3717;26680;656;534;bonifico
+3718;36030;618;792;assegno
+3719;350;264;931;contante
+3720;795;441;;carta di credito
+3721;580;669;;carta di credito
+3722;18872;150;662;bonifico
+3723;752;376;;carta di credito
+3724;30420;678;729;bonifico
+3725;786;485;;carta di credito
+3726;11100;603;125;bonifico
+3727;290;121;;carta di credito
+3728;8848;164;757;bonifico
+3729;700;506;;carta di credito
+3730;145;309;824;contante
+3731;334;954;;carta di credito
+3732;13705;952;684;assegno
+3733;14780;123;106;assegno
+3734;885;979;;carta di credito
+3735;33040;217;595;bonifico
+3736;1170;83;;carta di credito
+3737;43952;505;223;bonifico
+3738;710;681;;carta di credito
+3739;205;486;;carta di credito
+3740;3735;801;637;bonifico
+3741;6202;382;657;bonifico
+3742;9855;553;508;bonifico
+3743;1120;743;;carta di credito
+3744;615;49;549;contante
+3745;5045;520;75;bonifico
+3746;25860;956;980;assegno
+3747;19785;481;27;assegno
+3748;1825;937;193;bonifico
+3749;20795;373;713;bonifico
+3750;15845;287;103;bonifico
+3751;22195;2;450;bonifico
+3752;5300;592;553;bonifico
+3753;11490;369;175;assegno
+3754;260;885;656;contante
+3755;610;152;470;contante
+3756;935;816;;carta di credito
+3757;14692;444;758;assegno
+3758;905;568;;carta di credito
+3759;405;167;540;contante
+3760;161;242;487;contante
+3761;200;435;;carta di credito
+3762;580;766;;carta di credito
+3763;127;141;254;contante
+3764;12685;49;127;assegno
+3765;47465;405;298;assegno
+3766;11785;419;610;bonifico
+3767;28080;252;781;assegno
+3768;340;71;333;contante
+3769;18425;1;354;bonifico
+3770;420;842;;carta di credito
+3771;430;185;;carta di credito
+3772;14890;757;591;bonifico
+3773;6280;694;573;assegno
+3774;870;85;;carta di credito
+3775;6750;491;717;bonifico
+3776;3625;133;477;bonifico
+3777;12290;823;20;bonifico
+3778;18380;456;702;bonifico
+3779;28935;179;23;bonifico
+3780;365;64;603;contante
+3781;30725;167;614;assegno
+3782;3558;393;274;bonifico
+3783;285;907;;carta di credito
+3784;2300;639;;carta di credito
+3785;26680;451;105;assegno
+3786;19905;781;372;assegno
+3787;2660;177;974;assegno
+3788;8970;379;676;bonifico
+3789;740;285;;carta di credito
+3790;2325;868;555;bonifico
+3791;28225;549;926;assegno
+3792;15540;602;6;bonifico
+3793;380;929;984;contante
+3794;1440;317;;carta di credito
+3795;10160;639;986;bonifico
+3796;41500;848;248;bonifico
+3797;590;575;;carta di credito
+3798;11550;923;126;bonifico
+3799;129;957;798;contante
+3800;870;169;;carta di credito
+3801;13830;333;264;assegno
+3802;285;735;871;contante
+3803;12320;133;227;bonifico
+3804;303;623;;carta di credito
+3805;47945;590;325;assegno
+3806;305;804;855;contante
+3807;17875;735;423;assegno
+3808;8435;98;743;assegno
+3809;6520;832;542;assegno
+3810;14025;706;162;bonifico
+3811;14665;735;884;bonifico
+3812;1965;314;194;assegno
+3813;14360;688;515;assegno
+3814;6780;425;363;bonifico
+3815;262;390;8;contante
+3816;58535;806;20;assegno
+3817;470;346;;carta di credito
+3818;4180;537;988;assegno
+3819;21855;352;990;assegno
+3820;7310;907;541;bonifico
+3821;14810;594;734;bonifico
+3822;707;933;;carta di credito
+3823;835;909;;carta di credito
+3824;510;861;;carta di credito
+3825;8230;559;620;bonifico
+3826;323;794;356;contante
+3827;12545;998;523;assegno
+3828;400;502;1;contante
+3829;275;636;575;contante
+3830;15290;672;197;assegno
+3831;35905;327;113;assegno
+3832;19575;920;712;bonifico
+3833;16700;625;223;assegno
+3834;12715;115;684;bonifico
+3835;23493;265;589;bonifico
+3836;48225;44;803;assegno
+3837;725;650;;carta di credito
+3838;10020;812;379;bonifico
+3839;13635;175;424;bonifico
+3840;32880;233;260;bonifico
+3841;732;324;;carta di credito
+3842;21853;939;957;bonifico
+3843;15785;469;176;bonifico
+3844;180;212;;carta di credito
+3845;26415;391;113;assegno
+3846;9790;142;308;bonifico
+3847;22254;680;653;bonifico
+3848;23825;662;893;assegno
+3849;220;829;117;contante
+3850;410;461;743;contante
+3851;25870;402;185;bonifico
+3852;495;199;;carta di credito
+3853;780;495;;carta di credito
+3854;525;257;237;contante
+3855;1070;282;548;bonifico
+3856;420;382;;carta di credito
+3857;13645;478;577;assegno
+3858;6405;575;246;bonifico
+3859;240;103;;carta di credito
+3860;15015;686;214;assegno
+3861;425;730;99;contante
+3862;7150;204;419;bonifico
+3863;184;313;;carta di credito
+3864;436;155;;carta di credito
+3865;105;75;882;contante
+3866;11725;1000;897;bonifico
+3867;43670;860;668;assegno
+3868;26160;11;406;bonifico
+3869;46015;577;256;bonifico
+3870;12317;228;805;bonifico
+3871;18502;427;352;bonifico
+3872;17345;313;120;bonifico
+3873;1647;741;;carta di credito
+3874;298;36;;carta di credito
+3875;1640;126;;carta di credito
+3876;385;772;;carta di credito
+3877;494;473;;carta di credito
+3878;9865;539;275;assegno
+3879;48665;244;676;assegno
+3880;41050;11;653;bonifico
+3881;48505;759;107;assegno
+3882;24280;534;829;assegno
+3883;20430;481;198;assegno
+3884;65465;376;825;assegno
+3885;455;222;979;contante
+3886;270;197;;carta di credito
+3887;13375;275;370;bonifico
+3888;955;288;553;contante
+3889;9110;545;565;bonifico
+3890;585;921;;carta di credito
+3891;665;841;215;bonifico
+3892;1015;866;;carta di credito
+3893;25655;510;106;assegno
+3894;37220;539;911;assegno
+3895;185;639;187;contante
+3896;165;569;712;contante
+3897;7820;811;4;bonifico
+3898;21085;542;47;bonifico
+3899;492;599;;carta di credito
+3900;20190;432;859;bonifico
+3901;5155;505;772;assegno
+3902;9050;546;635;assegno
+3903;10125;983;430;bonifico
+3904;31930;205;131;bonifico
+3905;4285;321;911;bonifico
+3906;17515;675;961;assegno
+3907;175;613;557;contante
+3908;17345;812;884;assegno
+3909;165;356;333;contante
+3910;16959;757;337;assegno
+3911;16545;808;710;bonifico
+3912;680;201;;carta di credito
+3913;11275;928;467;bonifico
+3914;12305;961;838;bonifico
+3915;400;185;;carta di credito
+3916;12950;410;919;assegno
+3917;9855;184;588;bonifico
+3918;25800;708;950;bonifico
+3919;7895;812;407;bonifico
+3920;145;197;;carta di credito
+3921;43430;244;325;assegno
+3922;17325;38;142;assegno
+3923;19540;902;425;assegno
+3924;12010;30;47;bonifico
+3925;810;555;;carta di credito
+3926;14794;908;193;assegno
+3927;34830;341;685;assegno
+3928;6565;112;953;bonifico
+3929;360;847;;carta di credito
+3930;430;823;;carta di credito
+3931;440;848;725;contante
+3932;41260;408;337;assegno
+3933;485;765;187;contante
+3934;3590;922;642;bonifico
+3935;19600;511;965;assegno
+3936;52000;930;839;bonifico
+3937;11795;410;878;bonifico
+3938;6140;468;476;bonifico
+3939;985;240;;carta di credito
+3940;16135;787;551;bonifico
+3941;455;969;95;contante
+3942;28780;778;60;bonifico
+3943;555;77;;carta di credito
+3944;640;545;429;contante
+3945;20480;903;537;assegno
+3946;32890;902;169;bonifico
+3947;248;479;729;contante
+3948;11131;237;266;bonifico
+3949;12575;913;254;assegno
+3950;280;726;;carta di credito
+3951;24040;524;259;bonifico
+3952;340;761;947;contante
+3953;10960;950;963;bonifico
+3954;13220;507;142;bonifico
+3955;15680;57;593;bonifico
+3956;26600;437;291;bonifico
+3957;25530;800;646;bonifico
+3958;1604;745;;carta di credito
+3959;19950;585;863;bonifico
+3960;2490;879;1000;bonifico
+3961;18155;808;14;assegno
+3962;23845;485;393;assegno
+3963;2980;525;565;bonifico
+3964;21355;134;48;assegno
+3965;11350;975;856;assegno
+3966;11469;230;155;assegno
+3967;14975;742;147;assegno
+3968;221;807;;carta di credito
+3969;980;842;;carta di credito
+3970;800;172;;carta di credito
+3971;13248;664;744;bonifico
+3972;250;306;356;contante
+3973;46205;907;485;bonifico
+3974;39145;613;329;bonifico
+3975;11249;320;71;assegno
+3976;13955;273;521;bonifico
+3977;209;591;588;contante
+3978;14480;765;863;assegno
+3979;21215;608;232;assegno
+3980;27725;575;328;bonifico
+3981;4032;873;183;assegno
+3982;13100;655;266;assegno
+3983;6740;928;705;assegno
+3984;8070;975;931;bonifico
+3985;4115;77;882;bonifico
+3986;2555;928;958;bonifico
+3987;1820;37;;carta di credito
+3988;17317;450;731;bonifico
+3989;895;179;;carta di credito
+3990;16035;64;241;bonifico
+3991;29745;385;508;assegno
+3992;5415;716;826;assegno
+3993;19035;37;995;bonifico
+3994;10475;923;246;bonifico
+3995;310;936;;carta di credito
+3996;8850;110;228;bonifico
+3997;860;333;;carta di credito
+3998;390;173;724;contante
+3999;24790;742;585;bonifico
+4000;915;971;;carta di credito
+4001;7525;829;225;bonifico
+4002;16255;157;237;bonifico
+4003;32180;140;387;bonifico
+4004;20528;643;492;bonifico
+4005;522;519;;carta di credito
+4006;11995;128;351;bonifico
+4007;6640;568;557;bonifico
+4008;43365;587;261;assegno
+4009;13540;695;929;assegno
+4010;15505;386;8;assegno
+4011;25910;763;53;assegno
+4012;198;417;;carta di credito
+4013;40680;30;399;assegno
+4014;19695;568;233;bonifico
+4015;7840;425;289;bonifico
+4016;10735;517;783;assegno
+4017;425;255;880;contante
+4018;22945;316;42;bonifico
+4019;14925;782;503;assegno
+4020;750;91;;carta di credito
+4021;16955;772;870;bonifico
+4022;16675;903;863;bonifico
+4023;775;591;;carta di credito
+4024;16570;430;17;bonifico
+4025;270;745;168;contante
+4026;835;400;;carta di credito
+4027;10455;767;216;bonifico
+4028;31220;454;559;bonifico
+4029;12945;529;502;assegno
+4030;467;502;;carta di credito
+4031;19406;911;128;bonifico
+4032;37070;899;962;assegno
+4033;42325;945;775;bonifico
+4034;17015;736;557;bonifico
+4035;4300;624;12;bonifico
+4036;5238;593;623;bonifico
+4037;525;534;;carta di credito
+4038;7110;525;350;bonifico
+4039;37530;726;539;assegno
+4040;464;387;;carta di credito
+4041;245;829;124;contante
+4042;29381;527;193;bonifico
+4043;4647;594;315;assegno
+4044;10160;84;89;bonifico
+4045;7785;797;759;bonifico
+4046;7462;119;453;bonifico
+4047;38050;348;131;assegno
+4048;17195;586;810;bonifico
+4049;460;877;308;contante
+4050;28066;952;57;bonifico
+4051;17490;860;99;bonifico
+4052;10610;8;735;bonifico
+4053;46585;485;558;bonifico
+4054;1225;884;;carta di credito
+4055;1233;246;;carta di credito
+4056;310;904;;carta di credito
+4057;295;607;;carta di credito
+4058;33785;384;878;assegno
+4059;54895;873;55;bonifico
+4060;7825;191;149;bonifico
+4061;280;62;;carta di credito
+4062;330;492;269;contante
+4063;380;563;;carta di credito
+4064;1860;592;505;assegno
+4065;12690;419;451;bonifico
+4066;27990;603;27;assegno
+4067;9799;313;102;bonifico
+4068;8135;401;108;bonifico
+4069;6792;55;146;assegno
+4070;530;443;;carta di credito
+4071;940;317;;carta di credito
+4072;10797;318;174;bonifico
+4073;490;988;;carta di credito
+4074;985;535;;carta di credito
+4075;7545;520;262;assegno
+4076;530;573;;carta di credito
+4077;835;303;;carta di credito
+4078;19880;320;604;assegno
+4079;3555;324;947;bonifico
+4080;38525;10;365;assegno
+4081;19875;179;303;bonifico
+4082;9607;850;13;bonifico
+4083;10450;879;342;assegno
+4084;12285;190;234;bonifico
+4085;17330;962;724;bonifico
+4086;4545;512;646;bonifico
+4087;25370;993;983;bonifico
+4088;6485;179;515;bonifico
+4089;15330;91;543;assegno
+4090;4425;966;625;bonifico
+4091;19575;900;475;bonifico
+4092;9630;34;537;bonifico
+4093;21624;955;684;assegno
+4094;435;539;;carta di credito
+4095;625;419;;carta di credito
+4096;535;867;;carta di credito
+4097;6735;311;245;bonifico
+4098;205;747;;carta di credito
+4099;423;394;;carta di credito
+4100;9165;429;6;assegno
+4101;14790;125;602;bonifico
+4102;21950;736;985;bonifico
+4103;450;941;;carta di credito
+4104;7460;436;710;bonifico
+4105;46045;379;167;bonifico
+4106;828;940;;carta di credito
+4107;1430;873;216;assegno
+4108;9045;642;826;assegno
+4109;3110;185;110;assegno
+4110;266;348;;carta di credito
+4111;27650;573;147;bonifico
+4112;280;797;;carta di credito
+4113;880;639;;carta di credito
+4114;5625;736;310;assegno
+4115;6510;264;803;bonifico
+4116;31260;590;569;assegno
+4117;405;273;;carta di credito
+4118;150;66;220;contante
+4119;13225;808;774;bonifico
+4120;4495;936;185;assegno
+4121;236;77;216;contante
+4122;40645;227;734;assegno
+4123;31410;549;4;bonifico
+4124;8365;478;550;bonifico
+4125;860;289;;carta di credito
+4126;515;760;;carta di credito
+4127;19625;650;589;bonifico
+4128;6360;18;802;assegno
+4129;135;53;713;contante
+4130;10910;957;826;bonifico
+4131;630;211;;carta di credito
+4132;33114;67;97;assegno
+4133;42770;424;131;assegno
+4134;450;608;;carta di credito
+4135;13655;82;822;bonifico
+4136;14285;773;642;bonifico
+4137;18035;822;798;assegno
+4138;21640;172;403;bonifico
+4139;585;391;;carta di credito
+4140;205;943;;carta di credito
+4141;9125;664;286;assegno
+4142;245;3;713;contante
+4143;16570;438;91;bonifico
+4144;10025;956;50;assegno
+4145;49045;40;212;bonifico
+4146;780;216;;carta di credito
+4147;59715;110;921;assegno
+4148;750;61;;carta di credito
+4149;25600;587;963;assegno
+4150;39265;963;840;assegno
+4151;20445;363;465;bonifico
+4152;27860;772;891;assegno
+4153;26050;821;559;bonifico
+4154;8795;182;285;bonifico
+4155;10803;919;141;assegno
+4156;220;686;97;contante
+4157;640;866;;carta di credito
+4158;16897;907;976;bonifico
+4159;400;546;;carta di credito
+4160;6367;674;9;bonifico
+4161;560;491;244;contante
+4162;16600;741;372;bonifico
+4163;655;689;;carta di credito
+4164;19340;2;12;bonifico
+4165;18035;571;551;bonifico
+4166;10345;212;138;assegno
+4167;30245;54;621;assegno
+4168;27383;592;541;bonifico
+4169;28835;533;902;bonifico
+4170;19645;464;97;bonifico
+4171;14520;307;183;assegno
+4172;3935;561;536;bonifico
+4173;18675;17;620;bonifico
+4174;58185;98;596;assegno
+4175;230;563;;carta di credito
+4176;17225;155;45;assegno
+4177;620;154;;carta di credito
+4178;605;34;865;contante
+4179;34195;895;372;assegno
+4180;2635;915;885;bonifico
+4181;18165;27;514;assegno
+4182;285;318;;carta di credito
+4183;6775;344;759;assegno
+4184;415;11;;carta di credito
+4185;11340;747;332;bonifico
+4186;1780;91;674;assegno
+4187;24704;820;376;bonifico
+4188;33393;472;22;bonifico
+4189;95770;292;214;assegno
+4190;12610;494;911;assegno
+4191;985;667;;carta di credito
+4192;8110;275;260;bonifico
+4193;16240;310;891;bonifico
+4194;35515;766;827;assegno
+4195;30105;672;319;bonifico
+4196;2570;3;;carta di credito
+4197;237;344;27;contante
+4198;17835;139;717;assegno
+4199;2870;385;339;bonifico
+4200;11440;909;332;bonifico
+4201;955;801;;carta di credito
+4202;16705;553;288;assegno
+4203;25225;609;451;assegno
+4204;12025;968;268;bonifico
+4205;32025;623;322;bonifico
+4206;6970;502;708;assegno
+4207;325;795;426;contante
+4208;16915;121;371;assegno
+4209;240;656;;carta di credito
+4210;6715;729;85;bonifico
+4211;20831;897;901;bonifico
+4212;23790;791;301;assegno
+4213;14830;579;527;bonifico
+4214;18725;561;130;assegno
+4215;29186;535;167;assegno
+4216;485;1;176;contante
+4217;33606;152;717;assegno
+4218;33810;36;30;bonifico
+4219;385;779;308;contante
+4220;12615;617;484;bonifico
+4221;8790;619;987;bonifico
+4222;25723;921;407;bonifico
+4223;820;444;;carta di credito
+4224;29398;674;117;assegno
+4225;1685;956;;carta di credito
+4226;10625;426;427;assegno
+4227;14245;197;425;assegno
+4228;27085;846;448;assegno
+4229;14720;233;571;bonifico
+4230;645;185;;carta di credito
+4231;8481;129;842;assegno
+4232;18676;920;448;assegno
+4233;1325;267;;carta di credito
+4234;6155;944;782;assegno
+4235;919;393;;carta di credito
+4236;17010;461;673;assegno
+4237;21790;355;585;assegno
+4238;455;528;;carta di credito
+4239;8348;666;662;bonifico
+4240;14685;963;903;bonifico
+4241;630;128;;carta di credito
+4242;628;306;;carta di credito
+4243;6790;499;590;bonifico
+4244;27091;70;915;bonifico
+4245;670;925;;carta di credito
+4246;380;609;958;contante
+4247;170;919;381;contante
+4248;9365;693;362;bonifico
+4249;11520;644;733;assegno
+4250;15725;324;326;bonifico
+4251;1020;9;;carta di credito
+4252;20920;372;949;bonifico
+4253;15015;475;492;bonifico
+4254;29270;693;458;assegno
+4255;250;967;;carta di credito
+4256;14185;842;976;bonifico
+4257;380;456;;carta di credito
+4258;25425;570;452;assegno
+4259;22195;432;512;assegno
+4260;17320;189;27;assegno
+4261;6650;885;147;bonifico
+4262;21375;580;110;bonifico
+4263;23353;247;980;bonifico
+4264;18340;505;331;bonifico
+4265;8335;681;40;assegno
+4266;24960;317;515;bonifico
+4267;140;243;;carta di credito
+4268;55150;405;83;bonifico
+4269;628;423;;carta di credito
+4270;115;887;;carta di credito
+4271;750;979;;carta di credito
+4272;6095;182;245;assegno
+4273;38030;448;130;assegno
+4274;15005;242;103;bonifico
+4275;25860;402;378;bonifico
+4276;443;158;;carta di credito
+4277;8933;533;101;assegno
+4278;29135;900;449;bonifico
+4279;3355;237;406;bonifico
+4280;25890;481;63;assegno
+4281;9794;416;86;assegno
+4282;26795;357;809;bonifico
+4283;27340;501;268;bonifico
+4284;25490;862;103;bonifico
+4285;27975;233;980;assegno
+4286;23405;806;680;assegno
+4287;22025;579;794;bonifico
+4288;12740;278;75;bonifico
+4289;7255;210;8;bonifico
+4290;675;140;;carta di credito
+4291;2940;249;652;bonifico
+4292;1250;33;896;bonifico
+4293;255;772;744;contante
+4294;21360;613;23;assegno
+4295;680;915;;carta di credito
+4296;16545;318;162;bonifico
+4297;13520;774;916;assegno
+4298;9145;699;504;bonifico
+4299;640;481;;carta di credito
+4300;1085;604;;carta di credito
+4301;31550;378;548;bonifico
+4302;14831;132;491;assegno
+4303;322;539;;carta di credito
+4304;305;645;160;contante
+4305;26218;438;867;assegno
+4306;145;363;580;contante
+4307;6945;318;649;bonifico
+4308;21580;144;385;assegno
+4309;13455;602;554;bonifico
+4310;20250;729;492;bonifico
+4311;18625;755;100;assegno
+4312;15280;190;833;assegno
+4313;20800;548;734;bonifico
+4314;17200;806;257;assegno
+4315;19755;271;575;bonifico
+4316;885;172;;carta di credito
+4317;9567;92;869;assegno
+4318;370;925;429;contante
+4319;22440;205;158;bonifico
+4320;3610;412;823;bonifico
+4321;25155;507;723;bonifico
+4322;18100;133;629;assegno
+4323;14140;530;773;bonifico
+4324;9820;49;44;assegno
+4325;24395;988;360;bonifico
+4326;17725;116;19;bonifico
+4327;49860;284;354;assegno
+4328;4746;617;690;assegno
+4329;140;501;;carta di credito
+4330;9155;679;842;bonifico
+4331;20235;476;594;bonifico
+4332;6916;594;683;assegno
+4333;35510;752;787;bonifico
+4334;180;683;;carta di credito
+4335;690;952;;carta di credito
+4336;17480;856;390;bonifico
+4337;510;588;884;contante
+4338;12885;729;735;bonifico
+4339;295;430;686;contante
+4340;13010;686;528;bonifico
+4341;11085;491;118;bonifico
+4342;23510;926;316;assegno
+4343;27206;889;670;assegno
+4344;505;395;563;contante
+4345;6465;776;524;bonifico
+4346;6330;741;888;assegno
+4347;215;341;135;contante
+4348;19605;644;215;bonifico
+4349;35260;927;287;bonifico
+4350;19510;29;325;assegno
+4351;9466;34;214;bonifico
+4352;4755;143;4;assegno
+4353;1110;504;;carta di credito
+4354;13405;665;675;bonifico
+4355;285;736;287;contante
+4356;195;251;;carta di credito
+4357;25360;48;132;bonifico
+4358;13175;533;563;bonifico
+4359;230;696;101;contante
+4360;665;686;;carta di credito
+4361;275;706;;carta di credito
+4362;1001;367;;carta di credito
+4363;720;116;;carta di credito
+4364;37475;358;371;bonifico
+4365;23355;749;548;bonifico
+4366;1740;907;;carta di credito
+4367;5565;313;575;bonifico
+4368;60720;728;35;bonifico
+4369;1205;472;;carta di credito
+4370;31790;544;743;assegno
+4371;4074;532;763;bonifico
+4372;2425;837;704;bonifico
+4373;11835;288;160;assegno
+4374;13300;485;125;bonifico
+4375;1022;639;;carta di credito
+4376;205;458;;carta di credito
+4377;1960;502;;carta di credito
+4378;1470;88;869;assegno
+4379;9890;755;470;bonifico
+4380;27500;680;396;assegno
+4381;1930;544;652;assegno
+4382;11405;387;717;bonifico
+4383;665;601;;carta di credito
+4384;13185;862;75;bonifico
+4385;450;322;;carta di credito
+4386;38334;363;18;bonifico
+4387;7845;63;354;assegno
+4388;38070;617;233;bonifico
+4389;256;176;28;contante
+4390;3050;434;845;bonifico
+4391;960;669;;carta di credito
+4392;15285;603;270;bonifico
+4393;17845;778;597;assegno
+4394;4525;501;33;assegno
+4395;27425;243;963;assegno
+4396;670;656;;carta di credito
+4397;625;372;343;contante
+4398;40100;290;626;assegno
+4399;15285;617;305;assegno
+4400;11360;690;793;assegno
+4401;730;824;;carta di credito
+4402;268;678;;carta di credito
+4403;23720;503;735;assegno
+4404;18235;206;151;assegno
+4405;18012;373;923;bonifico
+4406;595;790;;carta di credito
+4407;21515;3;823;bonifico
+4408;1180;869;;carta di credito
+4409;490;453;;carta di credito
+4410;20800;75;654;bonifico
+4411;18475;303;375;assegno
+4412;32210;897;973;assegno
+4413;5730;36;282;assegno
+4414;38320;587;962;assegno
+4415;27130;675;703;assegno
+4416;425;829;916;contante
+4417;10320;167;148;bonifico
+4418;16540;586;161;assegno
+4419;420;345;209;contante
+4420;6930;617;886;bonifico
+4421;6950;455;108;bonifico
+4422;35490;664;507;bonifico
+4423;350;354;;carta di credito
+4424;18657;548;439;assegno
+4425;13985;988;947;assegno
+4426;55635;156;924;assegno
+4427;34415;261;301;bonifico
+4428;32070;921;333;assegno
+4429;455;527;;carta di credito
+4430;39845;398;437;bonifico
+4431;6330;804;589;assegno
+4432;6560;845;244;assegno
+4433;665;4;;carta di credito
+4434;340;532;402;contante
+4435;1445;280;;carta di credito
+4436;5940;648;119;assegno
+4437;17665;666;185;assegno
+4438;39748;401;649;bonifico
+4439;5325;67;574;assegno
+4440;1180;307;684;assegno
+4441;8225;421;596;assegno
+4442;6900;363;777;bonifico
+4443;5375;162;516;bonifico
+4444;865;342;;carta di credito
+4445;39595;333;503;bonifico
+4446;8310;485;77;bonifico
+4447;500;96;;carta di credito
+4448;670;242;;carta di credito
+4449;9930;918;127;bonifico
+4450;26000;35;327;assegno
+4451;415;929;;carta di credito
+4452;2394;344;990;assegno
+4453;18340;360;588;assegno
+4454;13060;64;301;assegno
+4455;205;797;125;contante
+4456;14490;869;593;bonifico
+4457;20865;630;946;bonifico
+4458;220;125;448;contante
+4459;15015;479;3;bonifico
+4460;13995;450;524;bonifico
+4461;425;283;;carta di credito
+4462;228;684;666;contante
+4463;19500;832;264;bonifico
+4464;668;252;;carta di credito
+4465;17902;84;198;bonifico
+4466;342;387;;carta di credito
+4467;13505;327;655;bonifico
+4468;125;677;503;contante
+4469;5406;773;137;bonifico
+4470;485;966;656;contante
+4471;1680;694;236;bonifico
+4472;51980;443;826;bonifico
+4473;15480;3;884;assegno
+4474;10475;786;908;bonifico
+4475;1250;532;;carta di credito
+4476;16910;575;876;assegno
+4477;14445;88;656;bonifico
+4478;1015;56;;carta di credito
+4479;12748;528;465;bonifico
+4480;21810;963;131;bonifico
+4481;19855;465;138;bonifico
+4482;29975;663;870;assegno
+4483;2065;775;65;assegno
+4484;350;506;;carta di credito
+4485;763;966;;carta di credito
+4486;12515;312;39;assegno
+4487;575;969;;carta di credito
+4488;19555;586;206;assegno
+4489;7494;552;800;assegno
+4490;31445;939;47;bonifico
+4491;13940;368;330;assegno
+4492;175;868;438;contante
+4493;290;549;565;contante
+4494;5965;460;543;bonifico
+4495;8212;84;202;assegno
+4496;19040;772;231;assegno
+4497;14050;261;378;bonifico
+4498;28511;691;519;bonifico
+4499;1020;248;;carta di credito
+4500;1200;530;;carta di credito
+4501;910;285;;carta di credito
+4502;10785;546;125;bonifico
+4503;36723;611;521;assegno
+4504;9165;138;850;bonifico
+4505;1143;903;;carta di credito
+4506;7305;247;257;assegno
+4507;32455;809;993;bonifico
+4508;40270;918;781;assegno
+4509;25390;472;871;bonifico
+4510;405;508;;carta di credito
+4511;5025;355;534;bonifico
+4512;460;755;;carta di credito
+4513;740;470;;carta di credito
+4514;13535;986;558;assegno
+4515;11170;18;533;bonifico
+4516;1258;435;;carta di credito
+4517;16955;505;354;assegno
+4518;27680;260;142;bonifico
+4519;29340;993;788;bonifico
+4520;14845;491;725;assegno
+4521;180;479;620;contante
+4522;9410;985;319;bonifico
+4523;34730;140;664;assegno
+4524;11975;363;764;bonifico
+4525;32875;620;254;bonifico
+4526;11720;566;746;bonifico
+4527;9840;37;12;assegno
+4528;38365;600;453;assegno
+4529;24690;686;692;bonifico
+4530;23710;741;938;bonifico
+4531;25015;739;432;bonifico
+4532;10945;49;268;bonifico
+4533;19385;826;665;bonifico
+4534;18045;940;901;assegno
+4535;33095;524;957;bonifico
+4536;13195;252;291;bonifico
+4537;1500;450;;carta di credito
+4538;38910;592;61;bonifico
+4539;615;426;;carta di credito
+4540;11121;239;934;bonifico
+4541;815;601;;carta di credito
+4542;12460;106;640;assegno
+4543;220;118;397;contante
+4544;1114;248;;carta di credito
+4545;7525;190;505;bonifico
+4546;7275;307;220;bonifico
+4547;6623;199;776;bonifico
+4548;775;697;;carta di credito
+4549;520;962;;carta di credito
+4550;16085;858;52;bonifico
+4551;10670;311;94;assegno
+4552;40931;275;850;bonifico
+4553;31125;127;310;assegno
+4554;435;613;204;contante
+4555;14351;941;591;assegno
+4556;185;751;659;contante
+4557;146;749;980;contante
+4558;900;70;;carta di credito
+4559;315;25;;carta di credito
+4560;820;194;;carta di credito
+4561;670;547;63;contante
+4562;9435;384;269;bonifico
+4563;1695;469;911;bonifico
+4564;16115;523;779;bonifico
+4565;500;850;;carta di credito
+4566;31540;325;500;bonifico
+4567;960;232;;carta di credito
+4568;12055;321;680;bonifico
+4569;475;4;;carta di credito
+4570;270;303;;carta di credito
+4571;9190;747;145;bonifico
+4572;810;151;;carta di credito
+4573;22070;736;621;bonifico
+4574;1260;804;;carta di credito
+4575;5610;549;756;bonifico
+4576;9360;790;2;bonifico
+4577;8575;823;349;bonifico
+4578;13430;787;202;assegno
+4579;14810;820;840;assegno
+4580;12500;321;673;bonifico
+4581;14370;505;785;bonifico
+4582;275;573;2;contante
+4583;23835;313;230;bonifico
+4584;1870;41;;carta di credito
+4585;27945;553;615;bonifico
+4586;20535;287;45;assegno
+4587;950;184;829;assegno
+4588;885;379;;carta di credito
+4589;180;706;;carta di credito
+4590;140;230;;carta di credito
+4591;545;36;725;contante
+4592;1905;289;585;bonifico
+4593;3000;93;;carta di credito
+4594;9765;952;519;bonifico
+4595;24097;49;543;assegno
+4596;31475;377;479;bonifico
+4597;195;693;;carta di credito
+4598;23675;276;898;assegno
+4599;9590;247;214;bonifico
+4600;36850;863;588;bonifico
+4601;19085;273;528;assegno
+4602;850;282;;carta di credito
+4603;1010;331;;carta di credito
+4604;19433;906;655;assegno
+4605;910;499;;carta di credito
+4606;15655;412;173;assegno
+4607;11307;816;548;assegno
+4608;12225;320;856;bonifico
+4609;23405;68;762;bonifico
+4610;455;642;;carta di credito
+4611;395;769;;carta di credito
+4612;19805;942;26;assegno
+4613;1720;154;;carta di credito
+4614;5225;747;976;assegno
+4615;140;665;;carta di credito
+4616;13000;638;192;bonifico
+4617;3840;710;348;bonifico
+4618;190;781;263;contante
+4619;16085;979;973;assegno
+4620;99995;276;291;assegno
+4621;120;373;313;contante
+4622;42930;464;762;assegno
+4623;14545;912;562;bonifico
+4624;24189;572;553;assegno
+4625;7060;202;283;assegno
+4626;15385;137;285;assegno
+4627;1060;908;;carta di credito
+4628;303;5;877;contante
+4629;5680;558;843;assegno
+4630;14515;858;780;bonifico
+4631;695;420;;carta di credito
+4632;11765;909;979;assegno
+4633;4635;625;968;bonifico
+4634;337;99;;carta di credito
+4635;30895;91;582;bonifico
+4636;310;498;;carta di credito
+4637;432;14;766;contante
+4638;6460;18;106;bonifico
+4639;44020;966;528;bonifico
+4640;8235;56;247;assegno
+4641;425;34;;carta di credito
+4642;220;735;481;contante
+4643;456;68;;carta di credito
+4644;22210;5;974;bonifico
+4645;17610;40;269;bonifico
+4646;300;880;387;contante
+4647;22850;776;117;assegno
+4648;21567;334;653;bonifico
+4649;760;435;;carta di credito
+4650;5180;941;537;assegno
+4651;16110;263;20;assegno
+4652;8435;494;448;bonifico
+4653;3290;962;703;bonifico
+4654;9917;667;829;assegno
+4655;16840;362;530;assegno
+4656;920;594;;carta di credito
+4657;27987;30;409;bonifico
+4658;10610;30;884;bonifico
+4659;9553;563;23;bonifico
+4660;8305;77;826;assegno
+4661;130;325;815;contante
+4662;725;228;;carta di credito
+4663;20800;378;261;bonifico
+4664;11480;898;793;assegno
+4665;14855;254;433;assegno
+4666;1313;744;;carta di credito
+4667;750;509;;carta di credito
+4668;11995;995;465;assegno
+4669;635;214;;carta di credito
+4670;28450;465;880;assegno
+4671;16955;753;256;bonifico
+4672;13670;728;514;assegno
+4673;520;962;343;bonifico
+4674;847;975;;carta di credito
+4675;289;598;101;contante
+4676;14025;307;602;bonifico
+4677;470;940;;carta di credito
+4678;12385;464;135;bonifico
+4679;19110;48;853;assegno
+4680;220;481;588;contante
+4681;984;281;;carta di credito
+4682;705;235;385;contante
+4683;370;99;;carta di credito
+4684;6040;194;521;bonifico
+4685;230;179;264;contante
+4686;930;869;;carta di credito
+4687;525;688;;carta di credito
+4688;20781;922;945;bonifico
+4689;8515;832;548;bonifico
+4690;296;794;;carta di credito
+4691;21025;676;560;bonifico
+4692;31820;528;662;assegno
+4693;12999;919;868;bonifico
+4694;7145;426;807;bonifico
+4695;1005;934;;carta di credito
+4696;40465;508;535;bonifico
+4697;21380;574;569;assegno
+4698;1330;314;;carta di credito
+4699;355;587;;carta di credito
+4700;7490;1000;234;bonifico
+4701;3819;587;588;bonifico
+4702;30435;498;52;assegno
+4703;45390;116;104;bonifico
+4704;850;509;;carta di credito
+4705;350;798;378;contante
+4706;13195;325;470;bonifico
+4707;9655;68;169;assegno
+4708;925;950;248;contante
+4709;900;944;;carta di credito
+4710;11365;956;341;bonifico
+4711;17345;239;822;bonifico
+4712;30505;579;619;assegno
+4713;21770;696;194;assegno
+4714;27600;539;270;assegno
+4715;280;978;;carta di credito
+4716;10245;919;908;bonifico
+4717;8605;356;57;assegno
+4718;26500;21;919;bonifico
+4719;7295;985;533;bonifico
+4720;155;651;224;contante
+4721;27500;318;635;bonifico
+4722;30355;642;255;assegno
+4723;8855;801;778;assegno
+4724;1376;362;;carta di credito
+4725;385;899;298;contante
+4726;20255;790;654;bonifico
+4727;23365;701;15;bonifico
+4728;650;858;;carta di credito
+4729;3381;976;604;bonifico
+4730;13205;733;562;bonifico
+4731;24765;693;68;assegno
+4732;11472;697;196;assegno
+4733;205;200;;carta di credito
+4734;6254;880;726;bonifico
+4735;10399;887;64;bonifico
+4736;444;138;;carta di credito
+4737;12425;551;225;bonifico
+4738;125;424;241;contante
+4739;745;243;;carta di credito
+4740;11423;697;743;assegno
+4741;535;207;;carta di credito
+4742;18745;974;610;bonifico
+4743;60620;926;842;bonifico
+4744;12570;244;630;assegno
+4745;34425;378;548;assegno
+4746;6960;545;431;bonifico
+4747;240;272;;carta di credito
+4748;2015;317;835;bonifico
+4749;13060;563;391;assegno
+4750;28175;481;407;bonifico
+4751;248;41;8;contante
+4752;3120;620;551;assegno
+4753;10255;715;249;bonifico
+4754;502;662;;carta di credito
+4755;625;172;946;contante
+4756;16110;242;338;bonifico
+4757;220;190;;carta di credito
+4758;37365;499;580;bonifico
+4759;8120;891;792;bonifico
+4760;25345;959;916;assegno
+4761;56540;466;408;assegno
+4762;7810;710;663;bonifico
+4763;26675;506;580;bonifico
+4764;24500;432;67;bonifico
+4765;1035;64;;carta di credito
+4766;12590;708;420;bonifico
+4767;9615;855;337;bonifico
+4768;12730;988;598;bonifico
+4769;205;574;;carta di credito
+4770;445;611;;carta di credito
+4771;15320;501;595;bonifico
+4772;705;195;;carta di credito
+4773;10265;589;59;assegno
+4774;468;506;;carta di credito
+4775;520;3;;carta di credito
+4776;9940;428;99;bonifico
+4777;4739;957;869;bonifico
+4778;1120;998;;carta di credito
+4779;150;129;125;contante
+4780;19130;841;123;bonifico
+4781;16655;449;241;assegno
+4782;596;523;503;contante
+4783;22500;277;52;assegno
+4784;940;483;;carta di credito
+4785;23580;613;349;assegno
+4786;1159;862;;carta di credito
+4787;825;407;;carta di credito
+4788;9910;825;348;assegno
+4789;9280;960;965;assegno
+4790;18585;170;599;bonifico
+4791;7765;660;817;bonifico
+4792;5181;235;513;assegno
+4793;16765;706;328;assegno
+4794;40085;646;129;bonifico
+4795;631;777;968;contante
+4796;103;729;;carta di credito
+4797;20590;952;243;assegno
+4798;9135;917;961;assegno
+4799;10600;801;668;bonifico
+4800;5960;757;942;bonifico
+4801;24270;822;492;bonifico
+4802;17145;666;765;bonifico
+4803;43286;564;489;assegno
+4804;15920;737;321;bonifico
+4805;73078;39;380;bonifico
+4806;5145;501;557;bonifico
+4807;19680;147;112;bonifico
+4808;5905;583;270;assegno
+4809;12841;662;252;bonifico
+4810;11515;83;264;bonifico
+4811;23875;834;705;bonifico
+4812;23166;393;380;bonifico
+4813;9515;849;15;bonifico
+4814;18235;800;146;assegno
+4815;25742;691;805;bonifico
+4816;1775;880;543;assegno
+4817;210;809;;carta di credito
+4818;195;715;;carta di credito
+4819;395;330;294;contante
+4820;29200;439;308;assegno
+4821;460;527;248;contante
+4822;11314;722;521;bonifico
+4823;175;491;108;contante
+4824;23600;595;828;assegno
+4825;16040;25;155;bonifico
+4826;953;891;;carta di credito
+4827;8090;886;669;bonifico
+4828;42364;159;893;bonifico
+4829;29750;796;15;bonifico
+4830;32255;624;588;assegno
+4831;415;21;;carta di credito
+4832;22785;8;248;bonifico
+4833;3270;682;2;bonifico
+4834;265;670;;carta di credito
+4835;7170;767;372;bonifico
+4836;29390;125;41;bonifico
+4837;10660;40;1000;assegno
+4838;13020;531;13;assegno
+4839;5290;8;715;assegno
+4840;595;809;;carta di credito
+4841;290;95;;carta di credito
+4842;7570;375;228;assegno
+4843;18060;815;931;assegno
+4844;43620;700;192;bonifico
+4845;8615;638;149;bonifico
+4846;7825;535;362;bonifico
+4847;11735;462;835;assegno
+4848;28347;884;534;bonifico
+4849;14125;868;124;bonifico
+4850;8060;657;475;bonifico
+4851;465;206;;carta di credito
+4852;265;697;;carta di credito
+4853;3995;543;310;bonifico
+4854;6030;730;907;bonifico
+4855;15695;822;95;bonifico
+4856;28025;597;257;bonifico
+4857;560;204;;carta di credito
+4858;560;290;982;contante
+4859;26515;118;476;bonifico
+4860;17765;966;553;bonifico
+4861;7200;843;295;bonifico
+4862;135;639;919;contante
+4863;255;766;220;contante
+4864;21355;307;361;assegno
+4865;48926;761;453;assegno
+4866;200;690;;carta di credito
+4867;16860;395;855;bonifico
+4868;11460;184;745;bonifico
+4869;32691;316;836;assegno
+4870;860;139;;carta di credito
+4871;510;535;;carta di credito
+4872;23310;553;104;bonifico
+4873;580;72;;carta di credito
+4874;13755;475;271;bonifico
+4875;28450;70;169;bonifico
+4876;25980;674;926;bonifico
+4877;5545;899;460;bonifico
+4878;25340;77;962;assegno
+4879;152;203;437;contante
+4880;5578;173;597;assegno
+4881;21260;318;246;assegno
+4882;23265;184;20;assegno
+4883;700;457;;carta di credito
+4884;20400;749;7;assegno
+4885;2590;149;286;bonifico
+4886;48340;856;418;bonifico
+4887;16690;45;557;bonifico
+4888;6840;138;323;assegno
+4889;5581;461;256;bonifico
+4890;280;774;;carta di credito
+4891;8391;164;515;bonifico
+4892;10150;926;443;bonifico
+4893;15350;808;439;bonifico
+4894;255;357;;carta di credito
+4895;7765;868;17;bonifico
+4896;10790;28;591;bonifico
+4897;5606;900;769;assegno
+4898;12005;218;487;bonifico
+4899;365;342;;carta di credito
+4900;670;842;;carta di credito
+4901;13325;217;650;assegno
+4902;14860;166;339;bonifico
+4903;22985;593;415;bonifico
+4904;180;495;;carta di credito
+4905;755;1;;carta di credito
+4906;11545;798;594;assegno
+4907;37015;347;199;bonifico
+4908;12160;18;905;assegno
+4909;13955;710;322;bonifico
+4910;33600;5;652;assegno
+4911;30380;57;890;bonifico
+4912;45254;569;60;assegno
+4913;340;190;;carta di credito
+4914;13980;511;75;bonifico
+4915;31187;763;640;assegno
+4916;8540;440;601;bonifico
+4917;150;56;;carta di credito
+4918;226;377;349;contante
+4919;1055;50;;carta di credito
+4920;38397;555;550;assegno
+4921;1070;129;;carta di credito
+4922;30900;367;798;bonifico
+4923;3415;602;288;bonifico
+4924;1115;627;;carta di credito
+4925;23255;796;559;bonifico
+4926;9030;233;750;assegno
+4927;14810;708;976;bonifico
+4928;5240;829;252;bonifico
+4929;735;708;;carta di credito
+4930;24403;258;290;assegno
+4931;24560;567;107;assegno
+4932;575;480;;carta di credito
+4933;32465;464;254;assegno
+4934;6705;413;9;assegno
+4935;405;579;638;contante
+4936;16320;216;208;assegno
+4937;525;692;;carta di credito
+4938;22845;200;500;bonifico
+4939;705;895;;carta di credito
+4940;505;681;;carta di credito
+4941;24565;559;371;bonifico
+4942;16845;487;379;bonifico
+4943;345;405;979;contante
+4944;600;829;;carta di credito
+4945;18080;722;639;assegno
+4946;660;140;;carta di credito
+4947;13230;868;583;assegno
+4948;10660;804;262;bonifico
+4949;3645;644;824;bonifico
+4950;560;82;;carta di credito
+4951;2620;530;824;assegno
+4952;135;949;;carta di credito
+4953;10235;697;453;bonifico
+4954;9395;25;600;bonifico
+4955;18530;745;349;bonifico
+4956;639;565;;carta di credito
+4957;7395;39;729;assegno
+4958;26182;148;915;bonifico
+4959;25735;142;740;bonifico
+4960;5650;139;998;bonifico
+4961;23080;9;693;bonifico
+4962;18980;954;583;bonifico
+4963;210;182;515;contante
+4964;3715;23;199;bonifico
+4965;25445;108;930;bonifico
+4966;9440;369;803;assegno
+4967;39055;273;101;assegno
+4968;10355;801;508;assegno
+4969;34760;635;39;assegno
+4970;775;199;;carta di credito
+4971;782;745;29;contante
+4972;676;852;;carta di credito
+4973;2687;108;314;bonifico
+4974;305;194;866;contante
+4975;29380;443;266;bonifico
+4976;10915;749;528;assegno
+4977;14445;551;781;bonifico
+4978;26509;99;821;assegno
+4979;68700;158;759;assegno
+4980;1039;170;;carta di credito
+4981;1315;887;;carta di credito
+4982;17244;364;888;assegno
+4983;12140;656;406;assegno
+4984;190;505;183;contante
+4985;18185;801;107;bonifico
+4986;400;798;;carta di credito
+4987;19015;580;116;bonifico
+4988;20015;758;632;bonifico
+4989;4390;233;508;bonifico
+4990;27135;725;931;assegno
+4991;1705;655;;carta di credito
+4992;19055;783;610;bonifico
+4993;250;141;;carta di credito
+4994;5870;460;209;assegno
+4995;815;275;;carta di credito
+4996;2265;764;369;assegno
+4997;295;695;769;contante
+4998;22270;734;135;assegno
+4999;13185;609;525;bonifico
+5000;8495;577;364;bonifico
+5001;32035;624;842;bonifico
+5002;835;435;;carta di credito
+5003;260;588;441;contante
+5004;17955;398;667;bonifico
+5005;10270;416;577;bonifico
+5006;27320;655;740;assegno
+5007;871;609;;carta di credito
+5008;19830;420;460;assegno
+5009;5220;670;417;assegno
+5010;986;640;;carta di credito
+5011;8985;989;237;bonifico
+5012;30615;85;23;assegno
+5013;615;316;;carta di credito
+5014;8910;803;256;bonifico
+5015;6495;399;24;bonifico
+5016;380;747;942;contante
+5017;7350;257;676;bonifico
+5018;255;493;;carta di credito
+5019;810;957;;carta di credito
+5020;18760;747;148;bonifico
+5021;245;934;;carta di credito
+5022;12509;871;921;assegno
+5023;7455;859;50;bonifico
+5024;14635;790;108;bonifico
+5025;22965;788;814;assegno
+5026;33607;728;50;assegno
+5027;19765;630;930;assegno
+5028;135;612;397;contante
+5029;705;865;;carta di credito
+5030;780;764;;carta di credito
+5031;14850;134;471;bonifico
+5032;14637;834;726;assegno
+5033;240;507;902;contante
+5034;29647;580;822;assegno
+5035;20005;856;519;assegno
+5036;19220;750;256;bonifico
+5037;17545;170;79;assegno
+5038;32880;74;784;bonifico
+5039;17705;587;675;bonifico
+5040;24395;568;283;bonifico
+5041;575;408;;carta di credito
+5042;30320;601;641;assegno
+5043;1113;609;;carta di credito
+5044;255;592;946;contante
+5045;500;56;;carta di credito
+5046;265;346;;carta di credito
+5047;175;213;888;contante
+5048;12535;330;358;assegno
+5049;6720;158;604;bonifico
+5050;14343;464;817;assegno
+5051;1070;787;921;assegno
+5052;6899;839;909;assegno
+5053;4825;744;928;assegno
+5054;58540;674;330;bonifico
+5055;42515;88;177;assegno
+5056;24835;906;652;assegno
+5057;14240;559;277;assegno
+5058;16690;50;687;bonifico
+5059;11520;472;717;assegno
+5060;5000;134;409;bonifico
+5061;41305;519;651;assegno
+5062;12895;770;55;bonifico
+5063;22095;473;240;bonifico
+5064;565;30;;carta di credito
+5065;8400;390;373;bonifico
+5066;14505;248;815;bonifico
+5067;670;725;;carta di credito
+5068;170;593;;carta di credito
+5069;18665;912;552;bonifico
+5070;1575;16;91;bonifico
+5071;6365;51;623;bonifico
+5072;340;908;118;contante
+5073;1290;475;;carta di credito
+5074;9819;739;97;assegno
+5075;9365;558;248;bonifico
+5076;7720;153;829;bonifico
+5077;9550;217;829;bonifico
+5078;34090;443;301;assegno
+5079;36011;966;603;assegno
+5080;1343;234;238;bonifico
+5081;17185;20;39;assegno
+5082;33615;946;738;bonifico
+5083;32150;719;871;bonifico
+5084;245;250;964;contante
+5085;21260;880;875;assegno
+5086;575;258;;carta di credito
+5087;2837;290;976;bonifico
+5088;595;527;;carta di credito
+5089;1225;571;;carta di credito
+5090;50335;263;889;assegno
+5091;24100;55;484;assegno
+5092;14110;38;913;assegno
+5093;425;891;;carta di credito
+5094;6184;368;981;bonifico
+5095;35885;726;670;bonifico
+5096;4735;541;901;bonifico
+5097;3610;811;981;bonifico
+5098;12940;858;772;assegno
+5099;7575;175;690;bonifico
+5100;135;156;;carta di credito
+5101;2035;136;705;assegno
+5102;855;444;;carta di credito
+5103;22015;661;89;assegno
+5104;27500;88;50;assegno
+5105;9005;410;727;bonifico
+5106;51660;121;151;assegno
+5107;30410;261;331;bonifico
+5108;4259;946;527;bonifico
+5109;26460;200;12;assegno
+5110;30775;417;521;bonifico
+5111;55090;755;323;assegno
+5112;8893;611;943;bonifico
+5113;9970;202;715;bonifico
+5114;395;179;108;contante
+5115;186;546;;carta di credito
+5116;9563;368;193;bonifico
+5117;2590;263;751;bonifico
+5118;273;175;;carta di credito
+5119;520;534;730;contante
+5120;1085;134;;carta di credito
+5121;6675;603;911;bonifico
+5122;31385;317;29;bonifico
+5123;480;768;;carta di credito
+5124;33450;800;712;assegno
+5125;250;898;214;contante
+5126;26900;325;841;bonifico
+5127;9795;521;432;assegno
+5128;18452;665;568;bonifico
+5129;13225;132;977;assegno
+5130;645;123;;carta di credito
+5131;7239;194;889;bonifico
+5132;2295;229;;carta di credito
+5133;1248;176;;carta di credito
+5134;26801;88;339;bonifico
+5135;18330;648;780;assegno
+5136;320;812;762;contante
+5137;7415;327;969;assegno
+5138;8500;964;127;assegno
+5139;12085;527;14;assegno
+5140;11515;947;554;bonifico
+5141;630;525;;carta di credito
+5142;5890;711;938;bonifico
+5143;635;710;;carta di credito
+5144;14815;330;590;assegno
+5145;38080;246;484;assegno
+5146;37170;36;616;assegno
+5147;28065;321;198;assegno
+5148;868;678;;carta di credito
+5149;10075;152;603;assegno
+5150;183;873;;carta di credito
+5151;11640;129;949;bonifico
+5152;4455;362;2;assegno
+5153;33335;534;371;bonifico
+5154;7885;595;894;bonifico
+5155;9004;261;759;bonifico
+5156;422;747;;carta di credito
+5157;985;158;;carta di credito
+5158;17940;63;857;bonifico
+5159;10790;283;593;assegno
+5160;13830;877;305;assegno
+5161;17105;368;510;bonifico
+5162;8250;460;615;bonifico
+5163;58766;378;649;assegno
+5164;285;450;;carta di credito
+5165;4120;125;40;assegno
+5166;780;538;;carta di credito
+5167;17985;856;84;bonifico
+5168;7065;592;967;assegno
+5169;17250;549;528;bonifico
+5170;300;917;805;contante
+5171;2260;181;244;bonifico
+5172;28255;199;601;bonifico
+5173;37800;1;594;bonifico
+5174;16639;719;403;assegno
+5175;10400;730;920;bonifico
+5176;10006;382;590;bonifico
+5177;363;709;589;contante
+5178;2970;962;380;assegno
+5179;23175;907;638;bonifico
+5180;16050;772;748;bonifico
+5181;8560;525;780;bonifico
+5182;1655;435;;carta di credito
+5183;145;139;;carta di credito
+5184;980;103;;carta di credito
+5185;11954;949;435;assegno
+5186;17885;453;651;bonifico
+5187;360;564;490;contante
+5188;580;88;;carta di credito
+5189;8610;902;736;bonifico
+5190;18836;128;856;assegno
+5191;115;606;;carta di credito
+5192;1450;929;;carta di credito
+5193;28555;789;947;bonifico
+5194;20000;282;424;assegno
+5195;4095;516;585;bonifico
+5196;34985;882;4;bonifico
+5197;2400;455;752;bonifico
+5198;14057;159;183;bonifico
+5199;490;450;;carta di credito
+5200;875;532;;carta di credito
+5201;16235;819;400;assegno
+5202;24519;378;387;assegno
+5203;1180;156;;carta di credito
+5204;800;442;;carta di credito
+5205;560;688;;carta di credito
+5206;6161;294;868;bonifico
+5207;4960;620;174;assegno
+5208;4036;129;289;assegno
+5209;12470;933;506;bonifico
+5210;27435;409;620;bonifico
+5211;215;666;;carta di credito
+5212;1200;437;151;bonifico
+5213;235;745;331;contante
+5214;25865;990;803;bonifico
+5215;26255;292;139;bonifico
+5216;23310;661;650;bonifico
+5217;25520;645;782;bonifico
+5218;48415;956;996;bonifico
+5219;650;987;;carta di credito
+5220;13835;508;971;assegno
+5221;60800;592;778;bonifico
+5222;180;642;596;contante
+5223;450;220;;carta di credito
+5224;67810;956;599;assegno
+5225;9113;2;137;bonifico
+5226;13685;966;445;bonifico
+5227;15855;923;243;bonifico
+5228;23630;40;589;bonifico
+5229;6335;121;1000;bonifico
+5230;19600;749;178;bonifico
+5231;415;162;;carta di credito
+5232;16585;702;845;assegno
+5233;3550;40;965;bonifico
+5234;23750;548;440;bonifico
+5235;13160;823;561;bonifico
+5236;16175;340;521;assegno
+5237;1205;470;;carta di credito
+5238;5311;899;394;bonifico
+5239;56515;823;256;bonifico
+5240;32215;460;956;bonifico
+5241;345;891;;carta di credito
+5242;235;248;;carta di credito
+5243;39270;851;443;bonifico
+5244;425;484;;carta di credito
+5245;16225;868;88;bonifico
+5246;14610;646;879;assegno
+5247;405;398;327;contante
+5248;1210;51;;carta di credito
+5249;4200;243;374;bonifico
+5250;200;303;;carta di credito
+5251;22523;743;84;assegno
+5252;47870;835;309;bonifico
+5253;965;669;;carta di credito
+5254;48130;271;963;assegno
+5255;9533;809;61;assegno
+5256;294;847;;carta di credito
+5257;24580;461;991;bonifico
+5258;435;77;7;contante
+5259;26735;781;149;assegno
+5260;275;237;;carta di credito
+5261;325;491;;carta di credito
+5262;13085;877;701;bonifico
+5263;53445;334;875;bonifico
+5264;36500;798;970;assegno
+5265;8090;444;742;assegno
+5266;19220;903;958;assegno
+5267;19150;70;947;bonifico
+5268;7095;286;471;bonifico
+5269;559;888;;carta di credito
+5270;40450;585;77;assegno
+5271;320;397;417;contante
+5272;12170;51;885;assegno
+5273;885;534;;carta di credito
+5274;12950;804;842;assegno
+5275;265;955;385;contante
+5276;995;521;;carta di credito
+5277;24126;517;815;assegno
+5278;12790;318;336;assegno
+5279;31470;782;616;bonifico
+5280;22165;609;864;assegno
+5281;23615;390;625;bonifico
+5282;3520;468;276;bonifico
+5283;432;18;840;contante
+5284;14225;862;664;assegno
+5285;750;373;;carta di credito
+5286;4690;982;778;bonifico
+5287;21633;41;594;bonifico
+5288;700;530;;carta di credito
+5289;47595;977;112;bonifico
+5290;9749;791;827;assegno
+5291;6220;865;410;bonifico
+5292;11850;847;571;bonifico
+5293;11960;475;180;bonifico
+5294;835;760;223;contante
+5295;8405;708;986;bonifico
+5296;24075;991;973;bonifico
+5297;3730;303;605;bonifico
+5298;30965;572;823;assegno
+5299;480;41;;carta di credito
+5300;2445;121;263;assegno
+5301;16582;556;17;assegno
+5302;25150;152;487;assegno
+5303;11430;685;452;bonifico
+5304;303;344;;carta di credito
+5305;29210;435;420;assegno
+5306;225;597;798;contante
+5307;27330;924;890;assegno
+5308;14120;70;285;bonifico
+5309;36299;535;379;bonifico
+5310;5991;189;28;bonifico
+5311;175;621;164;contante
+5312;140;839;715;contante
+5313;11700;66;97;assegno
+5314;7905;816;429;bonifico
+5315;235;218;915;contante
+5316;7520;752;937;bonifico
+5317;275;695;;carta di credito
+5318;57955;107;830;assegno
+5319;2027;43;452;assegno
+5320;250;884;;carta di credito
+5321;315;979;739;contante
+5322;4695;109;548;assegno
+5323;66860;744;366;bonifico
+5324;4016;163;596;bonifico
+5325;505;803;;carta di credito
+5326;10905;551;808;assegno
+5327;320;9;239;contante
+5328;9020;378;154;assegno
+5329;22200;902;441;bonifico
+5330;9170;601;8;bonifico
+5331;17295;828;305;bonifico
+5332;940;254;;carta di credito
+5333;23610;701;510;bonifico
+5334;14460;726;518;bonifico
+5335;35625;316;647;assegno
+5336;10345;298;86;assegno
+5337;17075;108;665;assegno
+5338;10200;680;823;assegno
+5339;330;801;;carta di credito
+5340;487;907;719;contante
+5341;50225;307;660;assegno
+5342;29585;532;161;bonifico
+5343;3487;919;978;bonifico
+5344;39465;2;804;assegno
+5345;12745;663;384;assegno
+5346;16785;749;32;bonifico
+5347;26320;173;791;assegno
+5348;215;91;807;contante
+5349;7200;688;406;assegno
+5350;1550;363;685;bonifico
+5351;945;858;;carta di credito
+5352;16860;308;83;assegno
+5353;687;220;;carta di credito
+5354;329;884;60;contante
+5355;925;587;;carta di credito
+5356;9015;459;192;assegno
+5357;52240;656;947;bonifico
+5358;220;300;642;contante
+5359;750;291;;carta di credito
+5360;14960;772;215;assegno
+5361;17433;624;748;bonifico
+5362;195;48;836;contante
+5363;9830;116;636;bonifico
+5364;10100;737;305;bonifico
+5365;245;642;774;contante
+5366;25680;801;724;assegno
+5367;37967;101;724;bonifico
+5368;1682;814;371;bonifico
+5369;38345;497;553;assegno
+5370;355;902;950;contante
+5371;8305;34;205;bonifico
+5372;4780;736;902;bonifico
+5373;12955;64;814;assegno
+5374;42460;484;363;bonifico
+5375;475;757;;carta di credito
+5376;190;621;;carta di credito
+5377;7755;422;979;assegno
+5378;8235;285;554;assegno
+5379;280;612;803;contante
+5380;20600;872;245;assegno
+5381;3346;804;743;assegno
+5382;9545;45;333;bonifico
+5383;26440;106;455;assegno
+5384;23580;414;955;bonifico
+5385;445;150;365;contante
+5386;19805;779;893;bonifico
+5387;10140;43;463;assegno
+5388;48410;957;441;assegno
+5389;51100;971;233;assegno
+5390;10425;450;330;bonifico
+5391;22160;675;510;bonifico
+5392;3425;645;392;bonifico
+5393;17475;662;402;bonifico
+5394;1185;110;;carta di credito
+5395;270;620;452;contante
+5396;229;405;;carta di credito
+5397;10050;347;88;assegno
+5398;50980;531;188;assegno
+5399;23925;655;328;assegno
+5400;21050;471;626;assegno
+5401;595;306;;carta di credito
+5402;415;893;;carta di credito
+5403;12560;886;419;bonifico
+5404;9940;627;145;assegno
+5405;17140;417;371;bonifico
+5406;26140;535;973;assegno
+5407;20210;99;384;assegno
+5408;10850;330;863;bonifico
+5409;34100;213;104;bonifico
+5410;780;578;;carta di credito
+5411;37645;739;877;bonifico
+5412;7617;356;750;assegno
+5413;26671;505;193;assegno
+5414;25120;625;347;assegno
+5415;34580;546;262;assegno
+5416;14215;865;913;bonifico
+5417;43332;115;583;bonifico
+5418;13328;765;428;bonifico
+5419;22375;877;5;bonifico
+5420;435;696;;carta di credito
+5421;31272;261;887;bonifico
+5422;49645;575;650;assegno
+5423;26325;823;76;bonifico
+5424;8525;244;913;assegno
+5425;160;656;786;contante
+5426;36830;111;836;bonifico
+5427;13605;414;736;assegno
+5428;10325;249;362;assegno
+5429;22565;855;635;bonifico
+5430;27480;860;888;bonifico
+5431;335;168;4;contante
+5432;59110;706;574;assegno
+5433;30300;927;116;bonifico
+5434;3415;368;854;assegno
+5435;20045;598;244;bonifico
+5436;6690;159;380;bonifico
+5437;16825;956;844;bonifico
+5438;6395;216;884;assegno
+5439;2120;696;;carta di credito
+5440;29072;766;123;assegno
+5441;13810;116;599;bonifico
+5442;9630;386;848;bonifico
+5443;7765;307;147;assegno
+5444;58680;840;842;bonifico
+5445;49463;313;734;assegno
+5446;30214;560;664;assegno
+5447;13860;211;533;bonifico
+5448;328;478;809;contante
+5449;15190;505;263;bonifico
+5450;240;639;653;contante
+5451;555;123;;carta di credito
+5452;1430;824;744;assegno
+5453;210;351;308;contante
+5454;140;46;478;contante
+5455;32540;331;469;bonifico
+5456;22980;10;880;bonifico
+5457;1240;937;;carta di credito
+5458;20255;268;199;bonifico
+5459;3400;506;720;bonifico
+5460;33050;561;850;bonifico
+5461;20960;95;250;bonifico
+5462;580;621;;carta di credito
+5463;31585;570;175;assegno
+5464;2030;111;842;bonifico
+5465;1390;382;;carta di credito
+5466;25140;692;225;bonifico
+5467;1860;233;512;bonifico
+5468;4129;59;94;bonifico
+5469;31385;557;506;assegno
+5470;14710;722;299;assegno
+5471;8670;660;742;assegno
+5472;1000;728;873;contante
+5473;15455;685;722;assegno
+5474;16751;342;838;bonifico
+5475;3475;450;743;bonifico
+5476;2300;729;518;assegno
+5477;25635;546;909;bonifico
+5478;106;158;;carta di credito
+5479;160;110;509;contante
+5480;17807;444;196;bonifico
+5481;55650;402;130;assegno
+5482;249;353;;carta di credito
+5483;15240;125;268;assegno
+5484;18225;563;127;assegno
+5485;980;76;;carta di credito
+5486;17775;340;828;bonifico
+5487;27995;665;972;assegno
+5488;10360;620;291;bonifico
+5489;40070;185;450;bonifico
+5490;18625;441;591;bonifico
+5491;15690;266;697;assegno
+5492;1280;889;599;bonifico
+5493;330;824;800;contante
+5494;13640;658;355;bonifico
+5495;955;484;;carta di credito
+5496;32250;619;328;assegno
+5497;11400;469;428;assegno
+5498;22745;467;135;bonifico
+5499;31820;483;212;bonifico
+5500;21140;888;815;bonifico
+5501;26627;767;35;bonifico
+5502;34536;979;975;bonifico
+5503;17521;139;885;bonifico
+5504;13085;200;112;bonifico
+5505;29180;777;878;bonifico
+5506;390;852;;carta di credito
+5507;7925;404;747;assegno
+5508;27580;701;503;assegno
+5509;1205;842;;carta di credito
+5510;8765;2;393;assegno
+5511;30894;257;933;assegno
+5512;650;595;;carta di credito
+5513;4731;68;970;bonifico
+5514;44247;172;225;assegno
+5515;26705;982;61;assegno
+5516;15255;618;7;assegno
+5517;7765;202;941;bonifico
+5518;1125;142;;carta di credito
+5519;11380;367;475;assegno
+5520;300;839;;carta di credito
+5521;10145;944;870;bonifico
+5522;595;816;;carta di credito
+5523;7846;530;517;bonifico
+5524;23145;530;676;assegno
+5525;22615;856;938;assegno
+5526;7645;236;469;bonifico
+5527;285;803;240;contante
+5528;21070;490;241;assegno
+5529;10922;841;264;bonifico
+5530;8985;86;510;assegno
+5531;8415;48;247;assegno
+5532;890;5;;carta di credito
+5533;16420;342;674;bonifico
+5534;58360;395;801;bonifico
+5535;550;660;;carta di credito
+5536;26747;36;904;bonifico
+5537;765;868;;carta di credito
+5538;10345;866;375;assegno
+5539;17695;568;61;bonifico
+5540;8100;38;596;assegno
+5541;4265;249;421;assegno
+5542;49840;747;555;assegno
+5543;1185;401;887;assegno
+5544;32119;448;255;bonifico
+5545;435;202;83;contante
+5546;27366;447;984;bonifico
+5547;505;135;9;contante
+5548;805;553;;carta di credito
+5549;5880;330;110;bonifico
+5550;360;955;370;contante
+5551;3746;273;362;bonifico
+5552;391;62;;carta di credito
+5553;12955;593;406;bonifico
+5554;730;946;469;contante
+5555;5065;460;380;bonifico
+5556;26555;534;448;bonifico
+5557;2255;996;829;bonifico
+5558;34025;213;222;assegno
+5559;8845;862;981;assegno
+5560;13985;153;131;bonifico
+5561;1510;752;;carta di credito
+5562;25200;368;325;assegno
+5563;10895;102;126;bonifico
+5564;34334;805;157;assegno
+5565;33580;471;78;assegno
+5566;20175;786;417;bonifico
+5567;31510;558;729;bonifico
+5568;10330;130;524;assegno
+5569;28260;899;328;bonifico
+5570;6325;947;980;bonifico
+5571;815;402;;carta di credito
+5572;4270;228;981;assegno
+5573;8320;133;678;bonifico
+5574;3465;394;439;bonifico
+5575;17625;259;224;bonifico
+5576;25255;215;947;bonifico
+5577;285;665;;carta di credito
+5578;8520;962;978;bonifico
+5579;25110;190;601;bonifico
+5580;665;810;;carta di credito
+5581;32180;694;232;assegno
+5582;140;426;636;contante
+5583;23170;973;533;bonifico
+5584;23990;1000;329;assegno
+5585;260;303;130;contante
+5586;328;301;;carta di credito
+5587;14805;573;558;bonifico
+5588;9970;696;465;assegno
+5589;495;179;;carta di credito
+5590;445;766;;carta di credito
+5591;1725;760;406;assegno
+5592;8210;350;1;bonifico
+5593;400;767;;carta di credito
+5594;38381;917;129;bonifico
+5595;27585;861;744;assegno
