@@ -74,7 +74,7 @@ public class GestioneAllergie {
 	}
 	
 	private void apriConnessione() throws SQLException{
-		c = DriverManager.getConnection("jdbc:neo4j://localhost:7474/", "neo4j", "SSlazio1900");
+		c = DriverManager.getConnection("jdbc:neo4j://localhost:7474/", "neo4j", "twitter");
 	}
 	
 	public void chiudiConnessione() throws SQLException{

@@ -57,7 +57,6 @@
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/spark-2.1.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/spark-2.1.1-bin-hadoop2.7/jars/eigenbase-properties-1.1.5.jar"/>
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/spark-2.1.1-bin-hadoop2.7/jars/gson-2.2.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/spark-2.1.1-bin-hadoop2.7/jars/guava-14.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/spark-2.1.1-bin-hadoop2.7/jars/guice-3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/spark-2.1.1-bin-hadoop2.7/jars/guice-servlet-3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/spark-2.1.1-bin-hadoop2.7/jars/hadoop-annotations-2.7.3.jar"/>
@@ -211,5 +210,10 @@
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/spark-2.1.1-bin-hadoop2.7/jars/zookeeper-3.4.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/driver/mysql-connector-java-5.1.38-bin.jar"/>
 	<classpathentry kind="lib" path="C:/Users/daniele/workspace/GBD/driver/neo4j-jdbc-2.1.4-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/daniele/Desktop/Daniele/Università/Magistrale/Gestione di Big Data/Driver/Cassandra jars/cassandra-driver-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/daniele/Desktop/Daniele/Università/Magistrale/Gestione di Big Data/Driver/Cassandra jars/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/daniele/Desktop/Daniele/Università/Magistrale/Gestione di Big Data/Driver/Cassandra jars/metrics-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/daniele/Desktop/Daniele/Università/Magistrale/Gestione di Big Data/Driver/Cassandra jars/netty-all-4.0.23.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/daniele/Desktop/Daniele/Università/Magistrale/Gestione di Big Data/Driver/Cassandra jars/slf4j-api-1.7.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
